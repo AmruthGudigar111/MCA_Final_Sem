@@ -1,0 +1,112 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+venv.bak/
+env.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+
+# Flask
+instance/
+.webassets-cache
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+student_db/
+
+# ML Models
+*.pkl
+*.pickle
+student_model.pkl
+scaler.pkl
+
+# Uploads & Temporary Files
+uploads/*.json
+uploads/*.csv
+uploads/*.xlsx
+uploads/temp/
+*.tmp
+*.bak
+
+# Logs
+*.log
+logs/
+app.log
+
+# Environment Configuration
+.env
+.env.local
+.env.*.local
+
+# OS
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Testing
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+.hypothesis/
+
+# IDE specific
+.vscode/settings.json
+.vscode/extensions.json
+
+# Backup files
+*.bak
+*~
+backup_*.sql
+
+# Node (if using any frontend build tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Misc
+.cache/
+dist/
+build/
+*.whl

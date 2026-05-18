@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Student Marks - Student Performance System</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+
+        .navbar {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        .navbar-brand {
+            font-weight: bold;
+            font-size: 1.5rem;
+        }
+
+        .container {
+            margin-top: 30px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            border: none;
+        }
+
+        .card-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 15px 15px 0 0 !important;
+        }
+
+        .btn-success {
+            background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%) !important;
+            border: none;
+        }
+
+        .btn-secondary {
+            background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%) !important;
+            border: none;
+            color: #333;
+        }
+
+        .form-control {
+            border-radius: 10px;
+        }
+
+        .subject-group {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 15px;
+        }
+
+        .subject-group h6 {
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-dark mb-4">
+        <div class="container-fluid">
+            <span class="navbar-brand mb-0 h1">
+                <i class="fas fa-graduation-cap"></i> Student Performance Analytics
+            </span>
+            <div class="dropdown">
+                <button class="btn btn-outline-light dropdown-toggle" type="button" id="profileDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                    <i class="fas fa-user"></i> {{ session.name }}
+                </button>
+                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="profileDropdown">
+                    <li><a class="dropdown-item" href="{{ url_for('dashboard') }}"><i class="fas fa-home"></i> Dashboard</a></li>
+                    <li><hr class="dropdown-divider"></li>
+                    <li><a class="dropdown-item" href="{{ url_for('logout') }}"><i class="fas fa-sign-out-alt"></i> Logout</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container-fluid px-4">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="card shadow">
+                    <div class="card-header">
+                        <h4 class="mb-0"><i class="fas fa-edit"></i> Edit Marks - {{ student.name }} (ID: {{ student.student_id }})</h4>
+                    </div>
+                    <div class="card-body">
+                        {% with messages = get_flashed_messages() %}
+                            {% if messages %}
+                                <div class="alert alert-info">{{ messages[0] }}</div>
+                            {% endif %}
+                        {% endwith %}
+
+                        <form action="{{ url_for('edit_student_marks', record_id=record.record_id) }}" method="POST">
+                            <div class="mb-4">
+                                <label class="form-label fw-bold">Exam Type</label>
+                                <select name="exam_type" class="form-select" required>
+                                    <option value="">Select Exam Type</option>
+                                    <option value="JUT" {% if record.exam_type == 'JUT' %}selected{% endif %}>JUT Test</option>
+                                    <option value="JFT" {% if record.exam_type == 'JFT' %}selected{% endif %}>JFT Test</option>
+                                    <option value="Mid Term" {% if record.exam_type == 'Mid Term' %}selected{% endif %}>Mid Term Exam</option>
+                                    <option value="Unit Test" {% if record.exam_type == 'Unit Test' %}selected{% endif %}>Unit Test</option>
+                                    <option value="Final Exam" {% if record.exam_type == 'Final Exam' %}selected{% endif %}>Final Exam</option>
+                                </select>
+                            </div>
+
+                            <div class="mb-4" id="unit_test_fields" style="{% if record.exam_type != 'Unit Test' %}display: none;{% endif %}">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <label class="form-label">Test Name</label>
+                                        <input type="text" name="test_name" class="form-control" value="{{ record.test_name or '' }}">
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Test Number</label>
+                                        <input type="number" name="test_number" class="form-control" value="{{ record.test_number or '' }}">
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Subject</label>
+                                        <select name="subject" class="form-select">
+                                            <option value="">Select Subject</option>
+                                            <option value="English" {% if record.subject == 'English' %}selected{% endif %}>English</option>
+                                            <option value="Kannada" {% if record.subject == 'Kannada' %}selected{% endif %}>Kannada</option>
+                                            <option value="Hindi" {% if record.subject == 'Hindi' %}selected{% endif %}>Hindi</option>
+                                            <option value="Sanskrit" {% if record.subject == 'Sanskrit' %}selected{% endif %}>Sanskrit</option>
+                                            <option value="Physics" {% if record.subject == 'Physics' %}selected{% endif %}>Physics</option>
+                                            <option value="Chemistry" {% if record.subject == 'Chemistry' %}selected{% endif %}>Chemistry</option>
+                                            <option value="Maths" {% if record.subject == 'Maths' %}selected{% endif %}>Maths</option>
+                                            <option value="Biology" {% if record.subject == 'Biology' %}selected{% endif %}>Biology</option>
+                                            <option value="Computer Science" {% if record.subject == 'Computer Science' %}selected{% endif %}>Computer Science</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="mb-4">
+                                <label class="form-label fw-bold">Attendance Percentage</label>
+                                <input type="number" step="0.01" min="0" max="100" name="attendance_percentage" class="form-control" value="{{ record.attendance_percentage }}" required>
+                            </div>
+
+                            <div class="subject-group">
+                                <h6><i class="fas fa-language"></i> Language Subjects</h6>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <label class="form-label">English Theory</label>
+                                        <input type="number" min="0" max="100" name="english_theory" class="form-control" value="{{ record.english_theory or '' }}" required>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <label class="form-label">Choose One Language</label>
+                                        <select name="language_subject" class="form-select" required>
+                                            <option value="">Select Language</option>
+                                            <option value="Kannada" {% if record.language_subject == 'Kannada' %}selected{% endif %}>Kannada</option>
+                                            <option value="Hindi" {% if record.language_subject == 'Hindi' %}selected{% endif %}>Hindi</option>
+                                            <option value="Sanskrit" {% if record.language_subject == 'Sanskrit' %}selected{% endif %}>Sanskrit</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="row mt-2">
+                                    <div class="col-md-12">
+                                        <label class="form-label">Selected Language Theory</label>
+                                        <input type="number" min="0" max="100" name="language_theory" class="form-control" value="{{ record.language_theory or '' }}" required>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="subject-group">
+                                <h6><i class="fas fa-flask"></i> Science Subjects</h6>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <label class="form-label">Physics Theory</label>
+                                        <input type="number" min="0" max="100" name="physics_theory" class="form-control" value="{{ record.physics_theory or '' }}">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <label class="form-label">Physics Practical</label>
+                                        <input type="number" min="0" max="100" name="physics_practical" class="form-control" value="{{ record.physics_practical or '' }}">
+                                    </div>
+                                </div>
+                                <div class="row mt-2">
+                                    <div class="col-md-6">
+                                        <label class="form-label">Chemistry Theory</label>
+                                        <input type="number" min="0" max="100" name="chemistry_theory" class="form-control" value="{{ record.chemistry_theory or '' }}">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <label class="form-label">Chemistry Practical</label>
+                                        <input type="number" min="0" max="100" name="chemistry_practical" class="form-control" value="{{ record.chemistry_practical or '' }}">
+                                    </div>
+                                </div>
+                                <div class="row mt-2">
+                                    <div class="col-md-6">
+                                        <label class="form-label">Biology Theory</label>
+                                        <input type="number" min="0" max="100" name="biology_theory" class="form-control" value="{{ record.biology_theory or '' }}">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <label class="form-label">Biology Practical</label>
+                                        <input type="number" min="0" max="100" name="biology_practical" class="form-control" value="{{ record.biology_practical or '' }}">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="subject-group">
+                                <h6><i class="fas fa-calculator"></i> Mathematics</h6>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <label class="form-label">Mathematics Theory</label>
+                                        <input type="number" min="0" max="100" name="maths_theory" class="form-control" value="{{ record.maths_theory or '' }}">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="subject-group">
+                                <h6><i class="fas fa-computer"></i> Computer Science</h6>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <label class="form-label">Computer Science Theory</label>
+                                        <input type="number" min="0" max="100" name="computer_science_theory" class="form-control" value="{{ record.computer_science_theory or '' }}">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <label class="form-label">Computer Science Practical</label>
+                                        <input type="number" min="0" max="100" name="computer_science_practical" class="form-control" value="{{ record.computer_science_practical or '' }}">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="mb-4">
+                                <label class="form-label fw-bold">Behavior Score</label>
+                                <input type="number" min="0" max="100" name="behavior_score" class="form-control" value="{{ record.behavior_score or 0 }}">
+                            </div>
+
+                            <div class="d-flex justify-content-between">
+                                <a href="{{ url_for('view_student_marks') }}" class="btn btn-secondary">Cancel</a>
+                                <button type="submit" class="btn btn-success">Update Marks</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Show/hide unit test fields based on exam type
+        document.querySelector('select[name="exam_type"]').addEventListener('change', function() {
+            const unitTestFields = document.getElementById('unit_test_fields');
+            
+            if (this.value === 'Unit Test') {
+                unitTestFields.style.display = 'block';
+                // Make unit test fields required
+                document.querySelector('input[name="test_name"]').required = true;
+                document.querySelector('input[name="test_number"]').required = true;
+                document.querySelector('select[name="subject"]').required = true;
+            } else {
+                unitTestFields.style.display = 'none';
+                // Remove required attribute
+                document.querySelector('input[name="test_name"]').required = false;
+                document.querySelector('input[name="test_number"]').required = false;
+                document.querySelector('select[name="subject"]').required = false;
+            }
+        });
+    </script>
+</body>
+</html>

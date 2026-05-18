@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Input Student Data - Process 1.0</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .card {
+            border: none;
+            border-radius: 15px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            overflow: hidden;
+        }
+
+        .card-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+        }
+
+        .card-header h4 {
+            margin: 0;
+            font-weight: 600;
+        }
+
+        .form-section {
+            margin: 30px 0;
+            padding: 20px 0;
+            border-bottom: 2px solid #f0f0f0;
+        }
+
+        .form-section:last-child {
+            border-bottom: none;
+        }
+
+        .form-section h5 {
+            color: #667eea;
+            font-weight: 600;
+            margin-bottom: 15px;
+        }
+
+        .form-group label {
+            color: #333;
+            font-weight: 500;
+            margin-bottom: 8px;
+        }
+
+        .form-control:focus {
+            border-color: #667eea;
+            box-shadow: 0 0 0 0.2rem rgba(102, 126, 234, 0.25);
+        }
+
+        .input-group-text {
+            background: #f8f9ff;
+            border: 1px solid #ddd;
+        }
+
+        .btn-submit {
+            background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
+            border: none;
+            color: white;
+            padding: 12px 40px;
+            border-radius: 25px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .btn-submit:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(17, 153, 142, 0.3);
+            color: white;
+        }
+
+        .btn-back {
+            background: #6c757d;
+            border: none;
+            color: white;
+            padding: 12px 40px;
+            border-radius: 25px;
+            transition: all 0.3s ease;
+            text-decoration: none;
+        }
+
+        .btn-back:hover {
+            transform: translateY(-2px);
+            color: white;
+            box-shadow: 0 10px 20px rgba(108, 117, 125, 0.3);
+        }
+
+        .alert-success {
+            background: #d4edda;
+            border: 1px solid #c3e6cb;
+            color: #155724;
+            border-radius: 10px;
+        }
+
+        .alert-info {
+            background: #d1ecf1;
+            border: 1px solid #bee5eb;
+            color: #0c5460;
+            border-radius: 10px;
+        }
+
+        .prediction-badge {
+            display: inline-block;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-weight: 600;
+            margin: 5px 0;
+        }
+
+        .badge-high {
+            background: #ff6b6b;
+            color: white;
+        }
+
+        .badge-medium {
+            background: #ffc107;
+            color: #333;
+        }
+
+        .badge-low {
+            background: #28a745;
+            color: white;
+        }
+
+        .text-center-custom {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-dark" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+        <div class="container-fluid">
+            <span class="navbar-brand mb-0 h1"><i class="fas fa-edit"></i> Add Student Marks</span>
+            <div class="d-flex gap-2">
+                <a href="/dashboard" class="btn btn-outline-light btn-sm"><i class="fas fa-home"></i> Dashboard</a>
+                <a href="{{ url_for('logout') }}" class="btn btn-outline-light btn-sm"><i class="fas fa-sign-out-alt"></i> Logout</a>
+            </div>
+        </div>
+    </nav>
+    <div class="container mt-5" style="max-width: 700px;">
+        <div class="card shadow">
+            <div class="card-header">
+                <h4 class="mb-0"><i class="fas fa-edit"></i> Student Performance Data Entry</h4>
+            </div>
+            <div class="card-body">
+                {% with messages = get_flashed_messages() %}
+                {% if messages %}
+                <div class="alert alert-success" role="alert">
+                    <i class="fas fa-check-circle"></i> {{ messages[0] }}
+                </div>
+                {% endif %}
+                {% endwith %}
+                
+                {% if prediction %}
+                <div class="alert alert-info" role="alert">
+                    <h6><i class="fas fa-chart-pie"></i> AI Prediction for {{ prediction.student_name }}</h6>
+                    <p class="mb-2">
+                        <strong>Risk Level:</strong>
+                        {% if 'High' in prediction.risk %}
+                            <span class="prediction-badge badge-high">{{ prediction.risk }}</span>
+                        {% elif 'Medium' in prediction.risk %}
+                            <span class="prediction-badge badge-medium">{{ prediction.risk }}</span>
+                        {% else %}
+                            <span class="prediction-badge badge-low">{{ prediction.risk }}</span>
+                        {% endif %}
+                    </p>
+                    <p class="mb-0"><strong>Confidence:</strong> {{ prediction.confidence }}</p>
+                </div>
+                {% endif %}
+                
+                <form action="/add_attendance" method="POST">
+                    <!-- Basic Information -->
+                    <div class="form-section">
+                        <h5><i class="fas fa-info-circle"></i> Basic Information</h5>
+                        <div class="form-group">
+                            <label class="form-label">Student ID *</label>
+                            <input type="number" name="student_id" class="form-control" placeholder="Enter Student ID e.g., 260001" required>
+                        </div>
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="form-label">Exam Type *</label>
+                                    <select name="exam_type" class="form-select" required>
+                                        <option value="">Select exam type</option>
+                                        <option value="JUT">JUT Test</option>
+                                        <option value="JFT">JFT Test</option>
+                                        <option value="Mid Term">Mid Term Exam</option>
+                                        <option value="Unit Test">Unit Test</option>
+                                        <option value="Final Exam">Final Exam</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="form-label">Academic Year</label>
+                                    <input type="number" name="academic_year" value="2026" min="2020" max="2030" class="form-control" required>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mb-3" id="unit_test_fields" style="display: none;">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="form-label">Test Name (for Unit Tests)</label>
+                                    <input type="text" name="test_name" class="form-control" placeholder="e.g., Chapter 1 Test">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="form-label">Test Number (for Unit Tests)</label>
+                                    <input type="number" name="test_number" min="1" class="form-control" placeholder="e.g., 1">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mb-3" id="unit_subject_field" style="display: none;">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="form-label">Subject (for Unit Tests)</label>
+                                    <select name="subject" class="form-select">
+                                        <option value="">Select subject</option>
+                                        <option value="English">English</option>
+                                        <option value="Kannada">Kannada</option>
+                                        <option value="Hindi">Hindi</option>
+                                        <option value="Sanskrit">Sanskrit</option>
+                                        <option value="Physics">Physics</option>
+                                        <option value="Chemistry">Chemistry</option>
+                                        <option value="Maths">Maths</option>
+                                        <option value="Biology">Biology</option>
+                                        <option value="Computer Science">Computer Science</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Attendance Section -->
+                    <div class="form-section">
+                        <h5><i class="fas fa-calendar-check"></i> Attendance</h5>
+                        <div class="form-group">
+                            <label class="form-label">Attendance Percentage (0-100) *</label>
+                            <div class="input-group">
+                                <input type="number" step="0.01" name="attendance_percentage" min="0" max="100" 
+                                       class="form-control" placeholder="e.g., 85.50" required>
+                                <span class="input-group-text">%</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Subject-wise Marks Section -->
+                    <div class="form-section">
+                        <h5><i class="fas fa-book"></i> Subject-wise Marks</h5>
+                        <p class="text-muted">Languages and Maths: Theory only (0-100). Science subjects: Theory (0-70) + Practical (0-30). Optional subject selection is based on student combination.</p>
+
+                        <!-- Languages and Maths (Theory only) -->
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="form-label">English Theory (0-100)</label>
+                                    <input type="number" name="english_theory" min="0" max="100" class="form-control" placeholder="0-100" required>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="form-label">Choose One Language</label>
+                                    <select name="language_subject" class="form-select" required>
+                                        <option value="">Select language</option>
+                                        <option value="Kannada">Kannada</option>
+                                        <option value="Hindi">Hindi</option>
+                                        <option value="Sanskrit">Sanskrit</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mb-3">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="form-label">Selected Language Theory (0-100)</label>
+                                    <input type="number" name="language_theory" min="0" max="100" class="form-control" placeholder="0-100" required>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mb-3">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="form-label">Maths Theory (0-100)</label>
+                                    <input type="number" name="maths_theory" min="0" max="100" class="form-control" placeholder="0-100">
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Science subjects with practicals -->
+                        {% for subject in ['Physics', 'Chemistry'] %}
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="form-label">{{ subject }} Theory (0-70)</label>
+                                    <input type="number" name="{{ subject|lower() }}_theory" min="0" max="70" class="form-control" placeholder="0-70">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="form-label">{{ subject }} Practical (0-30)</label>
+                                    <input type="number" name="{{ subject|lower() }}_practical" min="0" max="30" class="form-control" placeholder="0-30">
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="form-label">Biology Theory (0-70)</label>
+                                    <input type="number" name="biology_theory" min="0" max="70" class="form-control" placeholder="Fill for PCMB only">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="form-label">Biology Practical (0-30)</label>
+                                    <input type="number" name="biology_practical" min="0" max="30" class="form-control" placeholder="Fill for PCMB only">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="form-label">Computer Science Theory (0-70)</label>
+                                    <input type="number" name="computer_science_theory" min="0" max="70" class="form-control" placeholder="Fill for PCMC only">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="form-label">Computer Science Practical (0-30)</label>
+                                    <input type="number" name="computer_science_practical" min="0" max="30" class="form-control" placeholder="Fill for PCMC only">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Behavior Section -->
+                    <div class="form-section">
+                        <h5><i class="fas fa-smile"></i> Behavior Score (Out of 10)</h5>
+                        <div class="form-group">
+                            <label class="form-label">Behavior Score <span class="text-muted">(Optional)</span></label>
+                            <input type="number" name="behavior_score" min="0" max="10" 
+                                   class="form-control" placeholder="e.g., 8">
+                        </div>
+                    </div>
+
+                    <!-- Action Buttons -->
+                    <div class="d-flex justify-content-between gap-3 mt-4">
+                        <a href="/dashboard" class="btn btn-back">
+                            <i class="fas fa-arrow-left"></i> Back to Dashboard
+                        </a>
+                        <button type="submit" class="btn btn-submit">
+                            <i class="fas fa-save"></i> Save Record & Get Prediction
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Show/hide unit test fields based on exam type
+        document.querySelector('select[name="exam_type"]').addEventListener('change', function() {
+            const unitTestFields = document.getElementById('unit_test_fields');
+            const unitSubjectField = document.getElementById('unit_subject_field');
+            
+            if (this.value === 'Unit Test') {
+                unitTestFields.style.display = 'block';
+                unitSubjectField.style.display = 'block';
+                // Make unit test fields required
+                document.querySelector('input[name="test_name"]').required = true;
+                document.querySelector('input[name="test_number"]').required = true;
+                document.querySelector('select[name="subject"]').required = true;
+            } else {
+                unitTestFields.style.display = 'none';
+                unitSubjectField.style.display = 'none';
+                // Remove required attribute
+                document.querySelector('input[name="test_name"]').required = false;
+                document.querySelector('input[name="test_number"]').required = false;
+                document.querySelector('select[name="subject"]').required = false;
+            }
+        });
+    </script>
+</body>
+</html>

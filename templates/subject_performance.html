@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subject Performance - {{ student.name }}</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1/dist/chart.min.js"></script>
+    <style>
+        body {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container-custom {
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            padding: 30px;
+            margin-top: 20px;
+        }
+        .stat-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 10px;
+            padding: 20px;
+            text-align: center;
+            margin-bottom: 20px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 30px rgba(102, 126, 234, 0.3);
+        }
+        .stat-card h5 {
+            margin-bottom: 10px;
+            font-size: 0.9rem;
+            opacity: 0.9;
+        }
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: bold;
+        }
+        .subject-bar {
+            margin: 15px 0;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 10px;
+            border-left: 5px solid #667eea;
+        }
+        .subject-name {
+            font-weight: 600;
+            margin-bottom: 8px;
+            display: flex;
+            justify-content: space-between;
+        }
+        .progress-bar-subject {
+            height: 25px;
+            font-size: 0.9rem;
+        }
+        .alert-performance {
+            border-radius: 10px;
+            margin: 20px 0;
+            padding: 15px 20px;
+        }
+        .weakest-subject {
+            background: #fff3cd;
+            border: 1px solid #ffc107;
+            border-left: 5px solid #ff9800;
+        }
+        .strongest-subject {
+            background: #d4edda;
+            border: 1px solid #28a745;
+            border-left: 5px solid #4caf50;
+        }
+        .chart-container {
+            position: relative;
+            height: 300px;
+            margin: 30px 0;
+        }
+        .btn-back {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 10px 25px;
+            border-radius: 25px;
+            transition: all 0.3s ease;
+        }
+        .btn-back:hover {
+            transform: translateY(-2px);
+            color: white;
+            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-dark mb-4" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+        <div class="container">
+            <span class="navbar-brand mb-0 h1"><i class="fas fa-chart-bar"></i> Subject-wise Performance</span>
+            <a href="/predictions" class="btn btn-outline-light btn-sm">Back to Predictions</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="container-custom">
+            <div class="row mb-4">
+                <div class="col-md-8">
+                    <h2><i class="fas fa-user"></i> {{ student.name }}</h2>
+                    <p class="text-muted">ID: {{ student.student_id }} | Reg: {{ student.reg_number }}</p>
+                </div>
+                <div class="col-md-4 text-end">
+                    <a href="/dashboard" class="btn btn-back">
+                        <i class="fas fa-home"></i> Dashboard
+                    </a>
+                </div>
+            </div>
+
+            <!-- Key Statistics -->
+            <div class="row mb-4">
+                <div class="col-md-3">
+                    <div class="stat-card">
+                        <h5><i class="fas fa-percentage"></i> Attendance</h5>
+                        <div class="stat-value">{{ "%.1f"|format(attendance) }}%</div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="stat-card">
+                        <h5><i class="fas fa-star"></i> Average Marks</h5>
+                        <div class="stat-value">{{ "%.1f"|format(average_marks) }}</div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="stat-card">
+                        <h5><i class="fas fa-sum"></i> Total Marks</h5>
+                        <div class="stat-value">{{ total_marks }}</div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="stat-card">
+                        <h5><i class="fas fa-heart"></i> Behavior</h5>
+                        <div class="stat-value">{{ record.behavior_score }}/10</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Performance Analysis -->
+            {% if weakest_subject %}
+            <div class="alert alert-performance weakest-subject">
+                <h5><i class="fas fa-warning"></i> Area of Concern</h5>
+                <p class="mb-0"><strong>{{ weakest_subject }}</strong> - Score: {{ subjects[weakest_subject] }}/100 
+                    <br><span class="text-muted">Focus area: Improvement needed in this subject</span>
+                </p>
+            </div>
+            {% endif %}
+
+            {% if strongest_subject %}
+            <div class="alert alert-performance strongest-subject">
+                <h5><i class="fas fa-thumbs-up"></i> Strength Area</h5>
+                <p class="mb-0"><strong>{{ strongest_subject }}</strong> - Score: {{ subjects[strongest_subject] }}/100 
+                    <br><span class="text-muted">Strong performance: Keep up the good work!</span>
+                </p>
+            </div>
+            {% endif %}
+
+            <!-- Subject-wise Performance -->
+            <div class="card mt-4">
+                <div class="card-header" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
+                    <h5 class="mb-0"><i class="fas fa-book"></i> Subject-wise Marks</h5>
+                </div>
+                <div class="card-body">
+                    {% for subject, marks in subjects.items() %}
+                        {% if marks %}
+                            <div class="subject-bar">
+                                <div class="subject-name">
+                                    <span>{{ subject }}</span>
+                                    <span><strong>{{ marks }}/100</strong></span>
+                                </div>
+                                {% if marks >= 80 %}
+                                    <div class="progress" style="height: 25px;">
+                                        <div class="progress-bar progress-bar-subject" role="progressbar" 
+                                             style="width: {{ marks }}%; background: linear-gradient(90deg, #11998e 0%, #38ef7d 100%);">
+                                            {{ marks|int }}%
+                                        </div>
+                                    </div>
+                                {% elif marks >= 60 %}
+                                    <div class="progress" style="height: 25px;">
+                                        <div class="progress-bar progress-bar-subject" role="progressbar" 
+                                             style="width: {{ marks }}%; background: linear-gradient(90deg, #f093fb 0%, #f5576c 100%);">
+                                            {{ marks|int }}%
+                                        </div>
+                                    </div>
+                                {% else %}
+                                    <div class="progress" style="height: 25px;">
+                                        <div class="progress-bar progress-bar-subject" role="progressbar" 
+                                             style="width: {{ marks }}%; background: linear-gradient(90deg, #ff6b6b 0%, #ee5a6f 100%);">
+                                            {{ marks|int }}%
+                                        </div>
+                                    </div>
+                                {% endif %}
+                            </div>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+
+            <!-- Chart -->
+            <div class="card mt-4">
+                <div class="card-header" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
+                    <h5 class="mb-0"><i class="fas fa-chart-pie"></i> Performance Distribution</h5>
+                </div>
+                <div class="card-body">
+                    <div class="chart-container">
+                        <canvas id="performanceChart"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Recommendations -->
+            <div class="card mt-4">
+                <div class="card-header" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
+                    <h5 class="mb-0"><i class="fas fa-lightbulb"></i> Recommendations</h5>
+                </div>
+                <div class="card-body">
+                    <ul>
+                        {% for recommendation in recommendations %}
+                        <li>{{ recommendation }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Chart.js for performance visualization
+        const ctx = document.getElementById('performanceChart').getContext('2d');
+        const subjectData = {
+            {% for subject, marks in subjects.items() %}
+                {% if marks %}
+                    '{{ subject }}': {{ marks }},
+                {% endif %}
+            {% endfor %}
+        };
+        
+        const chartData = {
+            labels: Object.keys(subjectData),
+            datasets: [{
+                label: 'Marks (out of 100)',
+                data: Object.values(subjectData),
+                backgroundColor: [
+                    'rgba(102, 126, 234, 0.6)',
+                    'rgba(240, 147, 251, 0.6)',
+                    'rgba(17, 153, 142, 0.6)',
+                    'rgba(245, 87, 108, 0.6)'
+                ],
+                borderColor: [
+                    'rgba(102, 126, 234, 1)',
+                    'rgba(240, 147, 251, 1)',
+                    'rgba(17, 153, 142, 1)',
+                    'rgba(245, 87, 108, 1)'
+                ],
+                borderWidth: 2
+            }]
+        };
+
+        new Chart(ctx, {
+            type: 'doughnut',
+            data: chartData,
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'bottom'
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

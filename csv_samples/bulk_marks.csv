@@ -1,0 +1,2201 @@
+student_id,exam_type,test_name,test_number,subject,attendance_percentage,combination,academic_year,english_theory,language_subject,language_theory,physics_theory,physics_practical,chemistry_theory,chemistry_practical,maths_theory,biology_theory,biology_practical,computer_science_theory,computer_science_practical,behavior_score
+260001,Unit Test,Chapter 1 Test,1.0,English,100,PCMC,2025,100.0,,,,,,,,,,,,10
+260001,Unit Test,Chapter 1 Test,1.0,Language,100,PCMC,2025,,Kannada,100.0,,,,,,,,,,10
+260001,Unit Test,Chapter 1 Test,1.0,Physics,100,PCMC,2025,,,,70.0,30.0,,,,,,,,10
+260001,Unit Test,Chapter 1 Test,1.0,Chemistry,100,PCMC,2025,,,,,,70.0,30.0,,,,,,10
+260001,Unit Test,Chapter 1 Test,1.0,Maths,100,PCMC,2025,,,,,,,,100.0,,,,,10
+260001,Unit Test,Chapter 1 Test,1.0,Computer Science,100,PCMC,2025,,,,,,,,,,,70.0,30.0,10
+260001,Mid Term,Term,1.0,All,100,PCMC,2025,100.0,Hindi,100.0,70.0,30.0,70.0,30.0,100.0,,,70.0,30.0,10
+260001,JUT,Term,1.0,All,100,PCMC,2025,100.0,Hindi,100.0,70.0,30.0,70.0,30.0,100.0,,,70.0,30.0,10
+260001,JFT,Term,1.0,All,100,PCMC,2025,100.0,Sanskrit,100.0,70.0,30.0,70.0,30.0,100.0,,,70.0,30.0,10
+260001,Final Exam,Annual,1.0,All,100,PCMC,2025,100.0,Kannada,100.0,70.0,30.0,70.0,30.0,100.0,,,70.0,30.0,10
+260002,Unit Test,Chapter 1 Test,1.0,English,100,PCMB,2025,100.0,,,,,,,,,,,,10
+260002,Unit Test,Chapter 1 Test,1.0,Language,100,PCMB,2025,,Hindi,100.0,,,,,,,,,,10
+260002,Unit Test,Chapter 1 Test,1.0,Physics,100,PCMB,2025,,,,70.0,30.0,,,,,,,,10
+260002,Unit Test,Chapter 1 Test,1.0,Chemistry,100,PCMB,2025,,,,,,70.0,30.0,,,,,,10
+260002,Unit Test,Chapter 1 Test,1.0,Maths,100,PCMB,2025,,,,,,,,100.0,,,,,10
+260002,Unit Test,Chapter 1 Test,1.0,Biology,100,PCMB,2025,,,,,,,,,70.0,30.0,,,10
+260002,Mid Term,Term,1.0,All,100,PCMB,2025,100.0,Sanskrit,100.0,70.0,30.0,70.0,30.0,100.0,70.0,30.0,,,10
+260002,JUT,Term,1.0,All,100,PCMB,2025,100.0,Sanskrit,100.0,70.0,30.0,70.0,30.0,100.0,70.0,30.0,,,10
+260002,JFT,Term,1.0,All,100,PCMB,2025,100.0,Sanskrit,100.0,70.0,30.0,70.0,30.0,100.0,70.0,30.0,,,10
+260002,Final Exam,Annual,1.0,All,100,PCMB,2025,100.0,Kannada,100.0,70.0,30.0,70.0,30.0,100.0,70.0,30.0,,,10
+260003,Unit Test,Chapter 1 Test,1.0,English,100,PCMB,2025,100.0,,,,,,,,,,,,10
+260003,Unit Test,Chapter 1 Test,1.0,Language,100,PCMB,2025,,Kannada,100.0,,,,,,,,,,10
+260003,Unit Test,Chapter 1 Test,1.0,Physics,100,PCMB,2025,,,,70.0,30.0,,,,,,,,10
+260003,Unit Test,Chapter 1 Test,1.0,Chemistry,100,PCMB,2025,,,,,,70.0,30.0,,,,,,10
+260003,Unit Test,Chapter 1 Test,1.0,Maths,100,PCMB,2025,,,,,,,,100.0,,,,,10
+260003,Unit Test,Chapter 1 Test,1.0,Biology,100,PCMB,2025,,,,,,,,,70.0,30.0,,,10
+260003,Mid Term,Term,1.0,All,100,PCMB,2025,100.0,Hindi,100.0,70.0,30.0,70.0,30.0,100.0,70.0,30.0,,,10
+260003,JUT,Term,1.0,All,100,PCMB,2025,100.0,Sanskrit,100.0,70.0,30.0,70.0,30.0,100.0,70.0,30.0,,,10
+260003,JFT,Term,1.0,All,100,PCMB,2025,100.0,Hindi,100.0,70.0,30.0,70.0,30.0,100.0,70.0,30.0,,,10
+260003,Final Exam,Annual,1.0,All,100,PCMB,2025,100.0,Sanskrit,100.0,70.0,30.0,70.0,30.0,100.0,70.0,30.0,,,10
+260004,Unit Test,Chapter 1 Test,1.0,English,91,PCMC,2025,82.0,,,,,,,,,,,,8
+260004,Unit Test,Chapter 1 Test,1.0,Language,78,PCMC,2025,,Sanskrit,72.0,,,,,,,,,,9
+260004,Unit Test,Chapter 1 Test,1.0,Physics,79,PCMC,2025,,,,43.0,15.0,,,,,,,,8
+260004,Unit Test,Chapter 1 Test,1.0,Chemistry,84,PCMC,2025,,,,,,50.0,17.0,,,,,,8
+260004,Unit Test,Chapter 1 Test,1.0,Maths,81,PCMC,2025,,,,,,,,51.0,,,,,9
+260004,Unit Test,Chapter 1 Test,1.0,Computer Science,83,PCMC,2025,,,,,,,,,,,54.0,27.0,9
+260004,Mid Term,Term,1.0,All,74,PCMC,2025,46.0,Hindi,73.0,35.0,23.0,39.0,15.0,40.0,,,40.0,22.0,9
+260004,JUT,Term,1.0,All,72,PCMC,2025,98.0,Kannada,96.0,51.0,30.0,70.0,21.0,69.0,,,65.0,24.0,8
+260004,JFT,Term,1.0,All,78,PCMC,2025,57.0,Kannada,72.0,42.0,25.0,45.0,18.0,37.0,,,26.0,25.0,9
+260004,Final Exam,Annual,1.0,All,99,PCMC,2025,85.0,Sanskrit,50.0,48.0,26.0,70.0,16.0,93.0,,,69.0,24.0,8
+260005,Unit Test,Chapter 1 Test,1.0,English,85,PCMC,2025,86.0,,,,,,,,,,,,9
+260005,Unit Test,Chapter 1 Test,1.0,Language,79,PCMC,2025,,Hindi,80.0,,,,,,,,,,6
+260005,Unit Test,Chapter 1 Test,1.0,Physics,83,PCMC,2025,,,,46.0,30.0,,,,,,,,6
+260005,Unit Test,Chapter 1 Test,1.0,Chemistry,96,PCMC,2025,,,,,,47.0,24.0,,,,,,8
+260005,Unit Test,Chapter 1 Test,1.0,Maths,87,PCMC,2025,,,,,,,,84.0,,,,,9
+260005,Unit Test,Chapter 1 Test,1.0,Computer Science,75,PCMC,2025,,,,,,,,,,,66.0,17.0,10
+260005,Mid Term,Term,1.0,All,78,PCMC,2025,95.0,Hindi,87.0,66.0,23.0,35.0,16.0,43.0,,,58.0,17.0,7
+260005,JUT,Term,1.0,All,84,PCMC,2025,71.0,Sanskrit,89.0,51.0,18.0,61.0,19.0,75.0,,,56.0,18.0,9
+260005,JFT,Term,1.0,All,100,PCMC,2025,84.0,Sanskrit,68.0,38.0,25.0,63.0,30.0,88.0,,,55.0,19.0,9
+260005,Final Exam,Annual,1.0,All,80,PCMC,2025,88.0,Kannada,78.0,57.0,26.0,30.0,18.0,54.0,,,40.0,30.0,6
+260006,Unit Test,Chapter 1 Test,1.0,English,76,PCMB,2025,69.0,,,,,,,,,,,,7
+260006,Unit Test,Chapter 1 Test,1.0,Language,85,PCMB,2025,,Sanskrit,52.0,,,,,,,,,,6
+260006,Unit Test,Chapter 1 Test,1.0,Physics,98,PCMB,2025,,,,26.0,28.0,,,,,,,,10
+260006,Unit Test,Chapter 1 Test,1.0,Chemistry,100,PCMB,2025,,,,,,65.0,24.0,,,,,,10
+260006,Unit Test,Chapter 1 Test,1.0,Maths,97,PCMB,2025,,,,,,,,62.0,,,,,8
+260006,Unit Test,Chapter 1 Test,1.0,Biology,78,PCMB,2025,,,,,,,,,67.0,19.0,,,9
+260006,Mid Term,Term,1.0,All,89,PCMB,2025,72.0,Sanskrit,70.0,56.0,29.0,26.0,26.0,45.0,63.0,17.0,,,7
+260006,JUT,Term,1.0,All,96,PCMB,2025,55.0,Kannada,54.0,49.0,26.0,48.0,27.0,88.0,35.0,30.0,,,8
+260006,JFT,Term,1.0,All,94,PCMB,2025,59.0,Hindi,50.0,69.0,27.0,31.0,29.0,50.0,35.0,22.0,,,6
+260006,Final Exam,Annual,1.0,All,72,PCMB,2025,58.0,Kannada,100.0,56.0,24.0,37.0,18.0,100.0,33.0,26.0,,,5
+260007,Unit Test,Chapter 1 Test,1.0,English,78,PCMC,2025,92.0,,,,,,,,,,,,6
+260007,Unit Test,Chapter 1 Test,1.0,Language,78,PCMC,2025,,Sanskrit,41.0,,,,,,,,,,9
+260007,Unit Test,Chapter 1 Test,1.0,Physics,78,PCMC,2025,,,,58.0,26.0,,,,,,,,6
+260007,Unit Test,Chapter 1 Test,1.0,Chemistry,81,PCMC,2025,,,,,,42.0,19.0,,,,,,6
+260007,Unit Test,Chapter 1 Test,1.0,Maths,84,PCMC,2025,,,,,,,,99.0,,,,,9
+260007,Unit Test,Chapter 1 Test,1.0,Computer Science,95,PCMC,2025,,,,,,,,,,,70.0,29.0,8
+260007,Mid Term,Term,1.0,All,94,PCMC,2025,77.0,Hindi,40.0,62.0,15.0,59.0,20.0,58.0,,,29.0,15.0,6
+260007,JUT,Term,1.0,All,74,PCMC,2025,57.0,Hindi,47.0,36.0,26.0,31.0,21.0,35.0,,,56.0,24.0,8
+260007,JFT,Term,1.0,All,92,PCMC,2025,79.0,Kannada,91.0,33.0,25.0,46.0,16.0,53.0,,,65.0,28.0,6
+260007,Final Exam,Annual,1.0,All,82,PCMC,2025,95.0,Sanskrit,49.0,35.0,29.0,57.0,24.0,82.0,,,32.0,29.0,5
+260008,Unit Test,Chapter 1 Test,1.0,English,77,PCMB,2025,76.0,,,,,,,,,,,,8
+260008,Unit Test,Chapter 1 Test,1.0,Language,99,PCMB,2025,,Sanskrit,49.0,,,,,,,,,,10
+260008,Unit Test,Chapter 1 Test,1.0,Physics,96,PCMB,2025,,,,65.0,20.0,,,,,,,,9
+260008,Unit Test,Chapter 1 Test,1.0,Chemistry,89,PCMB,2025,,,,,,26.0,30.0,,,,,,6
+260008,Unit Test,Chapter 1 Test,1.0,Maths,92,PCMB,2025,,,,,,,,38.0,,,,,9
+260008,Unit Test,Chapter 1 Test,1.0,Biology,82,PCMB,2025,,,,,,,,,38.0,18.0,,,10
+260008,Mid Term,Term,1.0,All,86,PCMB,2025,61.0,Hindi,39.0,46.0,17.0,27.0,17.0,52.0,31.0,18.0,,,10
+260008,JUT,Term,1.0,All,86,PCMB,2025,45.0,Hindi,85.0,57.0,21.0,36.0,23.0,67.0,68.0,27.0,,,10
+260008,JFT,Term,1.0,All,82,PCMB,2025,68.0,Sanskrit,47.0,38.0,27.0,42.0,22.0,46.0,33.0,18.0,,,9
+260008,Final Exam,Annual,1.0,All,79,PCMB,2025,38.0,Sanskrit,42.0,28.0,28.0,62.0,28.0,40.0,66.0,28.0,,,9
+260009,Unit Test,Chapter 1 Test,1.0,English,84,PCMC,2025,62.0,,,,,,,,,,,,9
+260009,Unit Test,Chapter 1 Test,1.0,Language,93,PCMC,2025,,Kannada,81.0,,,,,,,,,,6
+260009,Unit Test,Chapter 1 Test,1.0,Physics,95,PCMC,2025,,,,40.0,20.0,,,,,,,,7
+260009,Unit Test,Chapter 1 Test,1.0,Chemistry,86,PCMC,2025,,,,,,27.0,24.0,,,,,,10
+260009,Unit Test,Chapter 1 Test,1.0,Maths,76,PCMC,2025,,,,,,,,91.0,,,,,6
+260009,Unit Test,Chapter 1 Test,1.0,Computer Science,100,PCMC,2025,,,,,,,,,,,29.0,15.0,10
+260009,Mid Term,Term,1.0,All,77,PCMC,2025,81.0,Hindi,91.0,42.0,29.0,25.0,27.0,35.0,,,64.0,15.0,5
+260009,JUT,Term,1.0,All,87,PCMC,2025,43.0,Sanskrit,54.0,45.0,25.0,52.0,26.0,53.0,,,56.0,27.0,6
+260009,JFT,Term,1.0,All,80,PCMC,2025,41.0,Kannada,82.0,59.0,21.0,65.0,28.0,67.0,,,43.0,16.0,8
+260009,Final Exam,Annual,1.0,All,85,PCMC,2025,45.0,Kannada,39.0,59.0,21.0,54.0,19.0,50.0,,,63.0,23.0,5
+260010,Unit Test,Chapter 1 Test,1.0,English,76,PCMC,2025,78.0,,,,,,,,,,,,10
+260010,Unit Test,Chapter 1 Test,1.0,Language,84,PCMC,2025,,Sanskrit,37.0,,,,,,,,,,8
+260010,Unit Test,Chapter 1 Test,1.0,Physics,98,PCMC,2025,,,,55.0,25.0,,,,,,,,6
+260010,Unit Test,Chapter 1 Test,1.0,Chemistry,90,PCMC,2025,,,,,,69.0,30.0,,,,,,8
+260010,Unit Test,Chapter 1 Test,1.0,Maths,84,PCMC,2025,,,,,,,,59.0,,,,,9
+260010,Unit Test,Chapter 1 Test,1.0,Computer Science,97,PCMC,2025,,,,,,,,,,,66.0,22.0,8
+260010,Mid Term,Term,1.0,All,95,PCMC,2025,41.0,Sanskrit,48.0,67.0,23.0,34.0,19.0,43.0,,,26.0,25.0,10
+260010,JUT,Term,1.0,All,95,PCMC,2025,78.0,Sanskrit,84.0,69.0,23.0,62.0,21.0,53.0,,,40.0,30.0,6
+260010,JFT,Term,1.0,All,86,PCMC,2025,66.0,Kannada,35.0,28.0,27.0,52.0,23.0,51.0,,,34.0,28.0,6
+260010,Final Exam,Annual,1.0,All,75,PCMC,2025,94.0,Sanskrit,56.0,34.0,22.0,24.0,21.0,98.0,,,65.0,20.0,10
+260011,Unit Test,Chapter 1 Test,1.0,English,85,PCMC,2025,49.0,,,,,,,,,,,,10
+260011,Unit Test,Chapter 1 Test,1.0,Language,80,PCMC,2025,,Kannada,61.0,,,,,,,,,,10
+260011,Unit Test,Chapter 1 Test,1.0,Physics,79,PCMC,2025,,,,57.0,15.0,,,,,,,,8
+260011,Unit Test,Chapter 1 Test,1.0,Chemistry,76,PCMC,2025,,,,,,35.0,16.0,,,,,,7
+260011,Unit Test,Chapter 1 Test,1.0,Maths,93,PCMC,2025,,,,,,,,46.0,,,,,7
+260011,Unit Test,Chapter 1 Test,1.0,Computer Science,97,PCMC,2025,,,,,,,,,,,32.0,16.0,8
+260011,Mid Term,Term,1.0,All,71,PCMC,2025,85.0,Sanskrit,69.0,29.0,22.0,58.0,25.0,88.0,,,39.0,26.0,5
+260011,JUT,Term,1.0,All,79,PCMC,2025,56.0,Kannada,93.0,24.0,21.0,54.0,28.0,55.0,,,67.0,30.0,5
+260011,JFT,Term,1.0,All,85,PCMC,2025,97.0,Hindi,40.0,34.0,24.0,35.0,24.0,62.0,,,51.0,17.0,7
+260011,Final Exam,Annual,1.0,All,88,PCMC,2025,67.0,Sanskrit,68.0,33.0,26.0,64.0,17.0,51.0,,,24.0,23.0,8
+260012,Unit Test,Chapter 1 Test,1.0,English,90,PCMB,2025,99.0,,,,,,,,,,,,7
+260012,Unit Test,Chapter 1 Test,1.0,Language,95,PCMB,2025,,Hindi,66.0,,,,,,,,,,7
+260012,Unit Test,Chapter 1 Test,1.0,Physics,83,PCMB,2025,,,,61.0,26.0,,,,,,,,10
+260012,Unit Test,Chapter 1 Test,1.0,Chemistry,90,PCMB,2025,,,,,,66.0,18.0,,,,,,10
+260012,Unit Test,Chapter 1 Test,1.0,Maths,81,PCMB,2025,,,,,,,,80.0,,,,,8
+260012,Unit Test,Chapter 1 Test,1.0,Biology,96,PCMB,2025,,,,,,,,,66.0,17.0,,,9
+260012,Mid Term,Term,1.0,All,74,PCMB,2025,53.0,Sanskrit,56.0,46.0,20.0,60.0,19.0,58.0,67.0,25.0,,,9
+260012,JUT,Term,1.0,All,73,PCMB,2025,91.0,Sanskrit,52.0,68.0,30.0,70.0,15.0,64.0,31.0,28.0,,,10
+260012,JFT,Term,1.0,All,83,PCMB,2025,89.0,Kannada,73.0,25.0,15.0,51.0,26.0,43.0,43.0,28.0,,,6
+260012,Final Exam,Annual,1.0,All,95,PCMB,2025,74.0,Hindi,77.0,66.0,24.0,44.0,22.0,72.0,56.0,24.0,,,9
+260013,Unit Test,Chapter 1 Test,1.0,English,81,PCMC,2025,37.0,,,,,,,,,,,,9
+260013,Unit Test,Chapter 1 Test,1.0,Language,85,PCMC,2025,,Sanskrit,84.0,,,,,,,,,,8
+260013,Unit Test,Chapter 1 Test,1.0,Physics,89,PCMC,2025,,,,64.0,29.0,,,,,,,,7
+260013,Unit Test,Chapter 1 Test,1.0,Chemistry,88,PCMC,2025,,,,,,62.0,22.0,,,,,,9
+260013,Unit Test,Chapter 1 Test,1.0,Maths,79,PCMC,2025,,,,,,,,88.0,,,,,6
+260013,Unit Test,Chapter 1 Test,1.0,Computer Science,97,PCMC,2025,,,,,,,,,,,26.0,27.0,6
+260013,Mid Term,Term,1.0,All,91,PCMC,2025,90.0,Hindi,56.0,69.0,19.0,70.0,15.0,44.0,,,65.0,16.0,5
+260013,JUT,Term,1.0,All,80,PCMC,2025,100.0,Kannada,35.0,69.0,25.0,38.0,21.0,45.0,,,37.0,25.0,8
+260013,JFT,Term,1.0,All,93,PCMC,2025,93.0,Kannada,52.0,26.0,28.0,28.0,30.0,96.0,,,68.0,18.0,7
+260013,Final Exam,Annual,1.0,All,94,PCMC,2025,40.0,Hindi,43.0,35.0,26.0,46.0,27.0,40.0,,,59.0,19.0,5
+260014,Unit Test,Chapter 1 Test,1.0,English,91,PCMC,2025,95.0,,,,,,,,,,,,9
+260014,Unit Test,Chapter 1 Test,1.0,Language,75,PCMC,2025,,Sanskrit,67.0,,,,,,,,,,10
+260014,Unit Test,Chapter 1 Test,1.0,Physics,83,PCMC,2025,,,,67.0,22.0,,,,,,,,7
+260014,Unit Test,Chapter 1 Test,1.0,Chemistry,96,PCMC,2025,,,,,,69.0,28.0,,,,,,8
+260014,Unit Test,Chapter 1 Test,1.0,Maths,86,PCMC,2025,,,,,,,,83.0,,,,,10
+260014,Unit Test,Chapter 1 Test,1.0,Computer Science,77,PCMC,2025,,,,,,,,,,,31.0,30.0,6
+260014,Mid Term,Term,1.0,All,85,PCMC,2025,98.0,Sanskrit,78.0,32.0,16.0,28.0,19.0,78.0,,,53.0,16.0,8
+260014,JUT,Term,1.0,All,82,PCMC,2025,79.0,Hindi,86.0,26.0,26.0,47.0,22.0,65.0,,,59.0,24.0,10
+260014,JFT,Term,1.0,All,86,PCMC,2025,52.0,Hindi,36.0,41.0,26.0,44.0,22.0,42.0,,,61.0,27.0,8
+260014,Final Exam,Annual,1.0,All,77,PCMC,2025,83.0,Sanskrit,42.0,26.0,27.0,57.0,25.0,87.0,,,33.0,27.0,6
+260015,Unit Test,Chapter 1 Test,1.0,English,78,PCMC,2025,85.0,,,,,,,,,,,,8
+260015,Unit Test,Chapter 1 Test,1.0,Language,90,PCMC,2025,,Kannada,98.0,,,,,,,,,,6
+260015,Unit Test,Chapter 1 Test,1.0,Physics,93,PCMC,2025,,,,55.0,16.0,,,,,,,,7
+260015,Unit Test,Chapter 1 Test,1.0,Chemistry,75,PCMC,2025,,,,,,69.0,26.0,,,,,,9
+260015,Unit Test,Chapter 1 Test,1.0,Maths,91,PCMC,2025,,,,,,,,88.0,,,,,8
+260015,Unit Test,Chapter 1 Test,1.0,Computer Science,88,PCMC,2025,,,,,,,,,,,25.0,20.0,8
+260015,Mid Term,Term,1.0,All,91,PCMC,2025,56.0,Hindi,99.0,59.0,22.0,50.0,19.0,53.0,,,48.0,30.0,9
+260015,JUT,Term,1.0,All,95,PCMC,2025,45.0,Hindi,39.0,59.0,20.0,50.0,26.0,75.0,,,64.0,18.0,5
+260015,JFT,Term,1.0,All,73,PCMC,2025,54.0,Sanskrit,69.0,62.0,17.0,51.0,19.0,83.0,,,46.0,23.0,10
+260015,Final Exam,Annual,1.0,All,83,PCMC,2025,58.0,Sanskrit,68.0,65.0,17.0,26.0,22.0,93.0,,,25.0,16.0,9
+260016,Unit Test,Chapter 1 Test,1.0,English,88,PCMB,2025,84.0,,,,,,,,,,,,6
+260016,Unit Test,Chapter 1 Test,1.0,Language,87,PCMB,2025,,Kannada,50.0,,,,,,,,,,10
+260016,Unit Test,Chapter 1 Test,1.0,Physics,81,PCMB,2025,,,,52.0,24.0,,,,,,,,9
+260016,Unit Test,Chapter 1 Test,1.0,Chemistry,77,PCMB,2025,,,,,,44.0,20.0,,,,,,8
+260016,Unit Test,Chapter 1 Test,1.0,Maths,79,PCMB,2025,,,,,,,,49.0,,,,,10
+260016,Unit Test,Chapter 1 Test,1.0,Biology,87,PCMB,2025,,,,,,,,,56.0,16.0,,,9
+260016,Mid Term,Term,1.0,All,70,PCMB,2025,80.0,Hindi,77.0,63.0,15.0,59.0,28.0,41.0,24.0,25.0,,,9
+260016,JUT,Term,1.0,All,98,PCMB,2025,95.0,Kannada,58.0,59.0,15.0,36.0,23.0,41.0,38.0,20.0,,,7
+260016,JFT,Term,1.0,All,91,PCMB,2025,93.0,Kannada,89.0,69.0,18.0,52.0,30.0,97.0,44.0,25.0,,,8
+260016,Final Exam,Annual,1.0,All,92,PCMB,2025,42.0,Sanskrit,61.0,27.0,26.0,32.0,15.0,43.0,31.0,24.0,,,8
+260017,Unit Test,Chapter 1 Test,1.0,English,91,PCMC,2025,99.0,,,,,,,,,,,,7
+260017,Unit Test,Chapter 1 Test,1.0,Language,91,PCMC,2025,,Kannada,51.0,,,,,,,,,,8
+260017,Unit Test,Chapter 1 Test,1.0,Physics,75,PCMC,2025,,,,45.0,28.0,,,,,,,,8
+260017,Unit Test,Chapter 1 Test,1.0,Chemistry,100,PCMC,2025,,,,,,30.0,24.0,,,,,,9
+260017,Unit Test,Chapter 1 Test,1.0,Maths,84,PCMC,2025,,,,,,,,91.0,,,,,9
+260017,Unit Test,Chapter 1 Test,1.0,Computer Science,99,PCMC,2025,,,,,,,,,,,46.0,23.0,10
+260017,Mid Term,Term,1.0,All,98,PCMC,2025,59.0,Hindi,90.0,26.0,22.0,47.0,30.0,48.0,,,51.0,20.0,7
+260017,JUT,Term,1.0,All,81,PCMC,2025,93.0,Hindi,39.0,67.0,21.0,43.0,27.0,50.0,,,45.0,17.0,10
+260017,JFT,Term,1.0,All,84,PCMC,2025,63.0,Kannada,78.0,38.0,20.0,48.0,28.0,67.0,,,49.0,19.0,8
+260017,Final Exam,Annual,1.0,All,73,PCMC,2025,99.0,Kannada,53.0,65.0,19.0,64.0,26.0,83.0,,,47.0,29.0,9
+260018,Unit Test,Chapter 1 Test,1.0,English,94,PCMB,2025,94.0,,,,,,,,,,,,6
+260018,Unit Test,Chapter 1 Test,1.0,Language,77,PCMB,2025,,Kannada,89.0,,,,,,,,,,10
+260018,Unit Test,Chapter 1 Test,1.0,Physics,86,PCMB,2025,,,,31.0,22.0,,,,,,,,7
+260018,Unit Test,Chapter 1 Test,1.0,Chemistry,80,PCMB,2025,,,,,,32.0,30.0,,,,,,10
+260018,Unit Test,Chapter 1 Test,1.0,Maths,89,PCMB,2025,,,,,,,,94.0,,,,,7
+260018,Unit Test,Chapter 1 Test,1.0,Biology,97,PCMB,2025,,,,,,,,,41.0,27.0,,,6
+260018,Mid Term,Term,1.0,All,77,PCMB,2025,90.0,Kannada,83.0,40.0,26.0,43.0,17.0,92.0,25.0,18.0,,,8
+260018,JUT,Term,1.0,All,99,PCMB,2025,45.0,Kannada,79.0,46.0,24.0,61.0,22.0,80.0,50.0,23.0,,,6
+260018,JFT,Term,1.0,All,97,PCMB,2025,51.0,Sanskrit,43.0,68.0,15.0,24.0,15.0,97.0,60.0,22.0,,,10
+260018,Final Exam,Annual,1.0,All,98,PCMB,2025,67.0,Sanskrit,43.0,69.0,15.0,57.0,26.0,91.0,58.0,22.0,,,5
+260019,Unit Test,Chapter 1 Test,1.0,English,100,PCMB,2025,46.0,,,,,,,,,,,,8
+260019,Unit Test,Chapter 1 Test,1.0,Language,96,PCMB,2025,,Sanskrit,88.0,,,,,,,,,,10
+260019,Unit Test,Chapter 1 Test,1.0,Physics,98,PCMB,2025,,,,67.0,24.0,,,,,,,,10
+260019,Unit Test,Chapter 1 Test,1.0,Chemistry,81,PCMB,2025,,,,,,52.0,29.0,,,,,,8
+260019,Unit Test,Chapter 1 Test,1.0,Maths,84,PCMB,2025,,,,,,,,83.0,,,,,7
+260019,Unit Test,Chapter 1 Test,1.0,Biology,100,PCMB,2025,,,,,,,,,46.0,28.0,,,9
+260019,Mid Term,Term,1.0,All,95,PCMB,2025,47.0,Hindi,53.0,43.0,25.0,27.0,30.0,80.0,61.0,25.0,,,8
+260019,JUT,Term,1.0,All,88,PCMB,2025,71.0,Sanskrit,60.0,24.0,22.0,38.0,24.0,39.0,70.0,21.0,,,5
+260019,JFT,Term,1.0,All,96,PCMB,2025,39.0,Sanskrit,66.0,52.0,21.0,25.0,30.0,65.0,26.0,17.0,,,8
+260019,Final Exam,Annual,1.0,All,81,PCMB,2025,44.0,Hindi,91.0,26.0,20.0,56.0,16.0,74.0,46.0,23.0,,,6
+260020,Unit Test,Chapter 1 Test,1.0,English,83,PCMC,2025,67.0,,,,,,,,,,,,7
+260020,Unit Test,Chapter 1 Test,1.0,Language,93,PCMC,2025,,Sanskrit,89.0,,,,,,,,,,6
+260020,Unit Test,Chapter 1 Test,1.0,Physics,92,PCMC,2025,,,,26.0,29.0,,,,,,,,10
+260020,Unit Test,Chapter 1 Test,1.0,Chemistry,92,PCMC,2025,,,,,,58.0,20.0,,,,,,10
+260020,Unit Test,Chapter 1 Test,1.0,Maths,96,PCMC,2025,,,,,,,,86.0,,,,,7
+260020,Unit Test,Chapter 1 Test,1.0,Computer Science,96,PCMC,2025,,,,,,,,,,,62.0,17.0,9
+260020,Mid Term,Term,1.0,All,91,PCMC,2025,71.0,Kannada,93.0,45.0,29.0,41.0,27.0,89.0,,,53.0,24.0,10
+260020,JUT,Term,1.0,All,82,PCMC,2025,65.0,Kannada,65.0,37.0,22.0,50.0,19.0,83.0,,,36.0,25.0,8
+260020,JFT,Term,1.0,All,84,PCMC,2025,42.0,Kannada,52.0,42.0,21.0,49.0,20.0,56.0,,,40.0,17.0,10
+260020,Final Exam,Annual,1.0,All,96,PCMC,2025,83.0,Kannada,99.0,54.0,29.0,49.0,29.0,60.0,,,64.0,28.0,5
+260021,Unit Test,Chapter 1 Test,1.0,English,79,PCMC,2025,60.0,,,,,,,,,,,,6
+260021,Unit Test,Chapter 1 Test,1.0,Language,94,PCMC,2025,,Sanskrit,79.0,,,,,,,,,,9
+260021,Unit Test,Chapter 1 Test,1.0,Physics,80,PCMC,2025,,,,36.0,23.0,,,,,,,,9
+260021,Unit Test,Chapter 1 Test,1.0,Chemistry,92,PCMC,2025,,,,,,32.0,28.0,,,,,,8
+260021,Unit Test,Chapter 1 Test,1.0,Maths,97,PCMC,2025,,,,,,,,90.0,,,,,9
+260021,Unit Test,Chapter 1 Test,1.0,Computer Science,92,PCMC,2025,,,,,,,,,,,63.0,29.0,6
+260021,Mid Term,Term,1.0,All,90,PCMC,2025,47.0,Hindi,55.0,50.0,23.0,27.0,15.0,56.0,,,53.0,21.0,8
+260021,JUT,Term,1.0,All,85,PCMC,2025,84.0,Hindi,77.0,24.0,22.0,54.0,28.0,40.0,,,63.0,16.0,10
+260021,JFT,Term,1.0,All,90,PCMC,2025,36.0,Kannada,79.0,37.0,28.0,49.0,23.0,39.0,,,46.0,26.0,5
+260021,Final Exam,Annual,1.0,All,80,PCMC,2025,37.0,Sanskrit,73.0,40.0,21.0,25.0,30.0,40.0,,,49.0,21.0,10
+260022,Unit Test,Chapter 1 Test,1.0,English,78,PCMC,2025,74.0,,,,,,,,,,,,8
+260022,Unit Test,Chapter 1 Test,1.0,Language,81,PCMC,2025,,Hindi,47.0,,,,,,,,,,8
+260022,Unit Test,Chapter 1 Test,1.0,Physics,90,PCMC,2025,,,,36.0,22.0,,,,,,,,10
+260022,Unit Test,Chapter 1 Test,1.0,Chemistry,100,PCMC,2025,,,,,,43.0,25.0,,,,,,9
+260022,Unit Test,Chapter 1 Test,1.0,Maths,94,PCMC,2025,,,,,,,,63.0,,,,,9
+260022,Unit Test,Chapter 1 Test,1.0,Computer Science,90,PCMC,2025,,,,,,,,,,,62.0,23.0,10
+260022,Mid Term,Term,1.0,All,98,PCMC,2025,37.0,Sanskrit,66.0,34.0,21.0,67.0,16.0,55.0,,,27.0,29.0,6
+260022,JUT,Term,1.0,All,83,PCMC,2025,36.0,Kannada,39.0,54.0,17.0,37.0,28.0,79.0,,,47.0,29.0,5
+260022,JFT,Term,1.0,All,100,PCMC,2025,85.0,Sanskrit,86.0,53.0,24.0,32.0,30.0,70.0,,,53.0,17.0,7
+260022,Final Exam,Annual,1.0,All,100,PCMC,2025,74.0,Sanskrit,83.0,57.0,18.0,45.0,30.0,54.0,,,50.0,28.0,9
+260023,Unit Test,Chapter 1 Test,1.0,English,75,PCMC,2025,90.0,,,,,,,,,,,,9
+260023,Unit Test,Chapter 1 Test,1.0,Language,88,PCMC,2025,,Sanskrit,77.0,,,,,,,,,,7
+260023,Unit Test,Chapter 1 Test,1.0,Physics,79,PCMC,2025,,,,26.0,22.0,,,,,,,,7
+260023,Unit Test,Chapter 1 Test,1.0,Chemistry,81,PCMC,2025,,,,,,34.0,21.0,,,,,,6
+260023,Unit Test,Chapter 1 Test,1.0,Maths,77,PCMC,2025,,,,,,,,37.0,,,,,6
+260023,Unit Test,Chapter 1 Test,1.0,Computer Science,85,PCMC,2025,,,,,,,,,,,70.0,28.0,9
+260023,Mid Term,Term,1.0,All,85,PCMC,2025,71.0,Hindi,42.0,25.0,16.0,47.0,22.0,60.0,,,37.0,16.0,9
+260023,JUT,Term,1.0,All,77,PCMC,2025,84.0,Sanskrit,64.0,63.0,27.0,49.0,16.0,66.0,,,28.0,18.0,7
+260023,JFT,Term,1.0,All,73,PCMC,2025,72.0,Kannada,80.0,46.0,27.0,39.0,19.0,35.0,,,35.0,24.0,9
+260023,Final Exam,Annual,1.0,All,76,PCMC,2025,45.0,Sanskrit,86.0,55.0,27.0,38.0,20.0,77.0,,,29.0,19.0,8
+260024,Unit Test,Chapter 1 Test,1.0,English,98,PCMC,2025,67.0,,,,,,,,,,,,9
+260024,Unit Test,Chapter 1 Test,1.0,Language,75,PCMC,2025,,Hindi,64.0,,,,,,,,,,6
+260024,Unit Test,Chapter 1 Test,1.0,Physics,77,PCMC,2025,,,,60.0,28.0,,,,,,,,7
+260024,Unit Test,Chapter 1 Test,1.0,Chemistry,92,PCMC,2025,,,,,,67.0,26.0,,,,,,9
+260024,Unit Test,Chapter 1 Test,1.0,Maths,90,PCMC,2025,,,,,,,,90.0,,,,,6
+260024,Unit Test,Chapter 1 Test,1.0,Computer Science,82,PCMC,2025,,,,,,,,,,,53.0,17.0,7
+260024,Mid Term,Term,1.0,All,95,PCMC,2025,88.0,Kannada,93.0,58.0,26.0,36.0,15.0,94.0,,,45.0,20.0,7
+260024,JUT,Term,1.0,All,92,PCMC,2025,46.0,Hindi,46.0,43.0,17.0,36.0,15.0,43.0,,,40.0,24.0,9
+260024,JFT,Term,1.0,All,71,PCMC,2025,38.0,Hindi,93.0,44.0,21.0,39.0,17.0,87.0,,,56.0,22.0,10
+260024,Final Exam,Annual,1.0,All,95,PCMC,2025,38.0,Sanskrit,41.0,55.0,22.0,26.0,22.0,95.0,,,38.0,19.0,7
+260025,Unit Test,Chapter 1 Test,1.0,English,91,PCMC,2025,93.0,,,,,,,,,,,,10
+260025,Unit Test,Chapter 1 Test,1.0,Language,77,PCMC,2025,,Hindi,60.0,,,,,,,,,,10
+260025,Unit Test,Chapter 1 Test,1.0,Physics,100,PCMC,2025,,,,52.0,23.0,,,,,,,,6
+260025,Unit Test,Chapter 1 Test,1.0,Chemistry,90,PCMC,2025,,,,,,54.0,20.0,,,,,,9
+260025,Unit Test,Chapter 1 Test,1.0,Maths,94,PCMC,2025,,,,,,,,84.0,,,,,6
+260025,Unit Test,Chapter 1 Test,1.0,Computer Science,75,PCMC,2025,,,,,,,,,,,24.0,24.0,8
+260025,Mid Term,Term,1.0,All,82,PCMC,2025,40.0,Kannada,70.0,41.0,25.0,46.0,21.0,41.0,,,66.0,22.0,10
+260025,JUT,Term,1.0,All,82,PCMC,2025,50.0,Sanskrit,85.0,55.0,17.0,26.0,30.0,35.0,,,47.0,23.0,10
+260025,JFT,Term,1.0,All,79,PCMC,2025,95.0,Kannada,54.0,48.0,16.0,25.0,21.0,39.0,,,35.0,21.0,8
+260025,Final Exam,Annual,1.0,All,100,PCMC,2025,83.0,Kannada,78.0,39.0,15.0,30.0,16.0,47.0,,,59.0,16.0,8
+260026,Unit Test,Chapter 1 Test,1.0,English,84,PCMB,2025,82.0,,,,,,,,,,,,8
+260026,Unit Test,Chapter 1 Test,1.0,Language,76,PCMB,2025,,Kannada,70.0,,,,,,,,,,10
+260026,Unit Test,Chapter 1 Test,1.0,Physics,84,PCMB,2025,,,,60.0,16.0,,,,,,,,10
+260026,Unit Test,Chapter 1 Test,1.0,Chemistry,92,PCMB,2025,,,,,,35.0,22.0,,,,,,8
+260026,Unit Test,Chapter 1 Test,1.0,Maths,78,PCMB,2025,,,,,,,,85.0,,,,,7
+260026,Unit Test,Chapter 1 Test,1.0,Biology,98,PCMB,2025,,,,,,,,,34.0,20.0,,,6
+260026,Mid Term,Term,1.0,All,95,PCMB,2025,78.0,Hindi,71.0,70.0,22.0,64.0,20.0,64.0,32.0,25.0,,,10
+260026,JUT,Term,1.0,All,98,PCMB,2025,75.0,Kannada,41.0,28.0,20.0,27.0,21.0,76.0,36.0,22.0,,,6
+260026,JFT,Term,1.0,All,84,PCMB,2025,83.0,Kannada,62.0,69.0,20.0,60.0,28.0,38.0,61.0,18.0,,,10
+260026,Final Exam,Annual,1.0,All,87,PCMB,2025,77.0,Hindi,92.0,47.0,21.0,54.0,30.0,41.0,61.0,26.0,,,8
+260027,Unit Test,Chapter 1 Test,1.0,English,94,PCMB,2025,88.0,,,,,,,,,,,,10
+260027,Unit Test,Chapter 1 Test,1.0,Language,88,PCMB,2025,,Kannada,99.0,,,,,,,,,,8
+260027,Unit Test,Chapter 1 Test,1.0,Physics,100,PCMB,2025,,,,62.0,24.0,,,,,,,,7
+260027,Unit Test,Chapter 1 Test,1.0,Chemistry,88,PCMB,2025,,,,,,64.0,15.0,,,,,,7
+260027,Unit Test,Chapter 1 Test,1.0,Maths,77,PCMB,2025,,,,,,,,43.0,,,,,8
+260027,Unit Test,Chapter 1 Test,1.0,Biology,82,PCMB,2025,,,,,,,,,44.0,18.0,,,7
+260027,Mid Term,Term,1.0,All,97,PCMB,2025,39.0,Kannada,58.0,35.0,24.0,46.0,29.0,71.0,66.0,25.0,,,9
+260027,JUT,Term,1.0,All,72,PCMB,2025,68.0,Sanskrit,78.0,53.0,22.0,41.0,27.0,38.0,33.0,18.0,,,9
+260027,JFT,Term,1.0,All,73,PCMB,2025,43.0,Kannada,100.0,25.0,16.0,54.0,22.0,74.0,31.0,28.0,,,8
+260027,Final Exam,Annual,1.0,All,84,PCMB,2025,62.0,Hindi,46.0,49.0,20.0,68.0,24.0,41.0,33.0,22.0,,,6
+260028,Unit Test,Chapter 1 Test,1.0,English,81,PCMB,2025,48.0,,,,,,,,,,,,9
+260028,Unit Test,Chapter 1 Test,1.0,Language,87,PCMB,2025,,Sanskrit,52.0,,,,,,,,,,10
+260028,Unit Test,Chapter 1 Test,1.0,Physics,83,PCMB,2025,,,,29.0,16.0,,,,,,,,7
+260028,Unit Test,Chapter 1 Test,1.0,Chemistry,86,PCMB,2025,,,,,,58.0,29.0,,,,,,9
+260028,Unit Test,Chapter 1 Test,1.0,Maths,80,PCMB,2025,,,,,,,,46.0,,,,,6
+260028,Unit Test,Chapter 1 Test,1.0,Biology,91,PCMB,2025,,,,,,,,,53.0,17.0,,,8
+260028,Mid Term,Term,1.0,All,79,PCMB,2025,88.0,Kannada,62.0,63.0,15.0,53.0,22.0,89.0,56.0,28.0,,,7
+260028,JUT,Term,1.0,All,71,PCMB,2025,56.0,Sanskrit,58.0,60.0,24.0,46.0,22.0,74.0,51.0,23.0,,,6
+260028,JFT,Term,1.0,All,76,PCMB,2025,94.0,Hindi,49.0,63.0,19.0,68.0,22.0,68.0,64.0,25.0,,,7
+260028,Final Exam,Annual,1.0,All,71,PCMB,2025,72.0,Hindi,65.0,55.0,28.0,53.0,15.0,56.0,45.0,15.0,,,10
+260029,Unit Test,Chapter 1 Test,1.0,English,83,PCMC,2025,63.0,,,,,,,,,,,,7
+260029,Unit Test,Chapter 1 Test,1.0,Language,85,PCMC,2025,,Kannada,41.0,,,,,,,,,,7
+260029,Unit Test,Chapter 1 Test,1.0,Physics,85,PCMC,2025,,,,38.0,20.0,,,,,,,,10
+260029,Unit Test,Chapter 1 Test,1.0,Chemistry,88,PCMC,2025,,,,,,44.0,28.0,,,,,,9
+260029,Unit Test,Chapter 1 Test,1.0,Maths,83,PCMC,2025,,,,,,,,82.0,,,,,10
+260029,Unit Test,Chapter 1 Test,1.0,Computer Science,85,PCMC,2025,,,,,,,,,,,24.0,29.0,8
+260029,Mid Term,Term,1.0,All,83,PCMC,2025,91.0,Kannada,35.0,26.0,29.0,70.0,25.0,53.0,,,43.0,15.0,8
+260029,JUT,Term,1.0,All,90,PCMC,2025,91.0,Sanskrit,47.0,44.0,29.0,59.0,19.0,68.0,,,66.0,25.0,5
+260029,JFT,Term,1.0,All,81,PCMC,2025,81.0,Kannada,72.0,32.0,17.0,47.0,28.0,90.0,,,54.0,15.0,6
+260029,Final Exam,Annual,1.0,All,76,PCMC,2025,80.0,Hindi,85.0,63.0,24.0,55.0,29.0,59.0,,,59.0,19.0,6
+260030,Unit Test,Chapter 1 Test,1.0,English,85,PCMC,2025,92.0,,,,,,,,,,,,10
+260030,Unit Test,Chapter 1 Test,1.0,Language,92,PCMC,2025,,Kannada,40.0,,,,,,,,,,6
+260030,Unit Test,Chapter 1 Test,1.0,Physics,81,PCMC,2025,,,,63.0,30.0,,,,,,,,10
+260030,Unit Test,Chapter 1 Test,1.0,Chemistry,94,PCMC,2025,,,,,,34.0,19.0,,,,,,8
+260030,Unit Test,Chapter 1 Test,1.0,Maths,90,PCMC,2025,,,,,,,,96.0,,,,,10
+260030,Unit Test,Chapter 1 Test,1.0,Computer Science,92,PCMC,2025,,,,,,,,,,,36.0,30.0,6
+260030,Mid Term,Term,1.0,All,82,PCMC,2025,42.0,Hindi,84.0,46.0,18.0,34.0,26.0,50.0,,,46.0,24.0,6
+260030,JUT,Term,1.0,All,80,PCMC,2025,94.0,Sanskrit,79.0,27.0,26.0,62.0,17.0,39.0,,,37.0,18.0,5
+260030,JFT,Term,1.0,All,74,PCMC,2025,42.0,Sanskrit,50.0,60.0,23.0,62.0,27.0,88.0,,,41.0,18.0,10
+260030,Final Exam,Annual,1.0,All,88,PCMC,2025,37.0,Sanskrit,94.0,39.0,23.0,56.0,27.0,52.0,,,49.0,29.0,9
+260031,Unit Test,Chapter 1 Test,1.0,English,91,PCMC,2025,92.0,,,,,,,,,,,,9
+260031,Unit Test,Chapter 1 Test,1.0,Language,82,PCMC,2025,,Hindi,63.0,,,,,,,,,,9
+260031,Unit Test,Chapter 1 Test,1.0,Physics,76,PCMC,2025,,,,41.0,18.0,,,,,,,,6
+260031,Unit Test,Chapter 1 Test,1.0,Chemistry,93,PCMC,2025,,,,,,44.0,17.0,,,,,,6
+260031,Unit Test,Chapter 1 Test,1.0,Maths,84,PCMC,2025,,,,,,,,78.0,,,,,7
+260031,Unit Test,Chapter 1 Test,1.0,Computer Science,79,PCMC,2025,,,,,,,,,,,44.0,22.0,6
+260031,Mid Term,Term,1.0,All,96,PCMC,2025,72.0,Hindi,71.0,65.0,23.0,60.0,26.0,83.0,,,40.0,27.0,5
+260031,JUT,Term,1.0,All,81,PCMC,2025,68.0,Hindi,53.0,57.0,23.0,37.0,21.0,44.0,,,41.0,24.0,10
+260031,JFT,Term,1.0,All,70,PCMC,2025,89.0,Kannada,74.0,46.0,21.0,34.0,21.0,95.0,,,52.0,27.0,6
+260031,Final Exam,Annual,1.0,All,87,PCMC,2025,51.0,Sanskrit,82.0,33.0,20.0,69.0,19.0,53.0,,,63.0,22.0,9
+260032,Unit Test,Chapter 1 Test,1.0,English,90,PCMC,2025,93.0,,,,,,,,,,,,9
+260032,Unit Test,Chapter 1 Test,1.0,Language,81,PCMC,2025,,Sanskrit,80.0,,,,,,,,,,6
+260032,Unit Test,Chapter 1 Test,1.0,Physics,93,PCMC,2025,,,,47.0,17.0,,,,,,,,7
+260032,Unit Test,Chapter 1 Test,1.0,Chemistry,84,PCMC,2025,,,,,,25.0,22.0,,,,,,7
+260032,Unit Test,Chapter 1 Test,1.0,Maths,100,PCMC,2025,,,,,,,,68.0,,,,,10
+260032,Unit Test,Chapter 1 Test,1.0,Computer Science,86,PCMC,2025,,,,,,,,,,,45.0,26.0,7
+260032,Mid Term,Term,1.0,All,72,PCMC,2025,78.0,Hindi,69.0,32.0,24.0,25.0,29.0,56.0,,,48.0,25.0,9
+260032,JUT,Term,1.0,All,75,PCMC,2025,36.0,Hindi,89.0,24.0,25.0,45.0,23.0,61.0,,,36.0,24.0,7
+260032,JFT,Term,1.0,All,98,PCMC,2025,90.0,Hindi,50.0,29.0,22.0,27.0,18.0,97.0,,,53.0,20.0,5
+260032,Final Exam,Annual,1.0,All,97,PCMC,2025,94.0,Hindi,47.0,30.0,27.0,43.0,25.0,82.0,,,40.0,28.0,5
+260033,Unit Test,Chapter 1 Test,1.0,English,97,PCMB,2025,40.0,,,,,,,,,,,,7
+260033,Unit Test,Chapter 1 Test,1.0,Language,92,PCMB,2025,,Hindi,77.0,,,,,,,,,,10
+260033,Unit Test,Chapter 1 Test,1.0,Physics,91,PCMB,2025,,,,36.0,28.0,,,,,,,,8
+260033,Unit Test,Chapter 1 Test,1.0,Chemistry,80,PCMB,2025,,,,,,38.0,19.0,,,,,,7
+260033,Unit Test,Chapter 1 Test,1.0,Maths,81,PCMB,2025,,,,,,,,63.0,,,,,9
+260033,Unit Test,Chapter 1 Test,1.0,Biology,80,PCMB,2025,,,,,,,,,38.0,19.0,,,8
+260033,Mid Term,Term,1.0,All,75,PCMB,2025,93.0,Sanskrit,64.0,55.0,19.0,52.0,28.0,66.0,45.0,20.0,,,5
+260033,JUT,Term,1.0,All,78,PCMB,2025,41.0,Sanskrit,43.0,38.0,23.0,59.0,15.0,86.0,67.0,26.0,,,7
+260033,JFT,Term,1.0,All,76,PCMB,2025,86.0,Sanskrit,93.0,54.0,25.0,70.0,27.0,80.0,31.0,16.0,,,6
+260033,Final Exam,Annual,1.0,All,78,PCMB,2025,43.0,Sanskrit,70.0,30.0,23.0,47.0,30.0,79.0,48.0,25.0,,,8
+260034,Unit Test,Chapter 1 Test,1.0,English,75,PCMC,2025,94.0,,,,,,,,,,,,10
+260034,Unit Test,Chapter 1 Test,1.0,Language,92,PCMC,2025,,Hindi,80.0,,,,,,,,,,8
+260034,Unit Test,Chapter 1 Test,1.0,Physics,97,PCMC,2025,,,,39.0,24.0,,,,,,,,8
+260034,Unit Test,Chapter 1 Test,1.0,Chemistry,93,PCMC,2025,,,,,,29.0,23.0,,,,,,6
+260034,Unit Test,Chapter 1 Test,1.0,Maths,100,PCMC,2025,,,,,,,,73.0,,,,,9
+260034,Unit Test,Chapter 1 Test,1.0,Computer Science,83,PCMC,2025,,,,,,,,,,,44.0,22.0,6
+260034,Mid Term,Term,1.0,All,70,PCMC,2025,68.0,Sanskrit,40.0,26.0,26.0,61.0,30.0,83.0,,,35.0,24.0,8
+260034,JUT,Term,1.0,All,72,PCMC,2025,55.0,Kannada,84.0,35.0,24.0,67.0,19.0,43.0,,,70.0,19.0,5
+260034,JFT,Term,1.0,All,83,PCMC,2025,77.0,Hindi,93.0,56.0,30.0,34.0,23.0,36.0,,,27.0,28.0,9
+260034,Final Exam,Annual,1.0,All,94,PCMC,2025,64.0,Kannada,82.0,45.0,17.0,46.0,17.0,46.0,,,30.0,25.0,9
+260035,Unit Test,Chapter 1 Test,1.0,English,99,PCMC,2025,60.0,,,,,,,,,,,,10
+260035,Unit Test,Chapter 1 Test,1.0,Language,91,PCMC,2025,,Kannada,66.0,,,,,,,,,,6
+260035,Unit Test,Chapter 1 Test,1.0,Physics,81,PCMC,2025,,,,70.0,20.0,,,,,,,,7
+260035,Unit Test,Chapter 1 Test,1.0,Chemistry,96,PCMC,2025,,,,,,26.0,20.0,,,,,,9
+260035,Unit Test,Chapter 1 Test,1.0,Maths,83,PCMC,2025,,,,,,,,66.0,,,,,6
+260035,Unit Test,Chapter 1 Test,1.0,Computer Science,91,PCMC,2025,,,,,,,,,,,24.0,16.0,10
+260035,Mid Term,Term,1.0,All,83,PCMC,2025,60.0,Sanskrit,84.0,47.0,27.0,38.0,20.0,69.0,,,57.0,24.0,6
+260035,JUT,Term,1.0,All,86,PCMC,2025,50.0,Kannada,80.0,39.0,18.0,59.0,26.0,49.0,,,42.0,16.0,5
+260035,JFT,Term,1.0,All,73,PCMC,2025,76.0,Kannada,86.0,60.0,22.0,34.0,25.0,87.0,,,24.0,30.0,9
+260035,Final Exam,Annual,1.0,All,97,PCMC,2025,50.0,Sanskrit,74.0,25.0,18.0,44.0,21.0,50.0,,,56.0,24.0,5
+260036,Unit Test,Chapter 1 Test,1.0,English,85,PCMC,2025,87.0,,,,,,,,,,,,9
+260036,Unit Test,Chapter 1 Test,1.0,Language,88,PCMC,2025,,Sanskrit,50.0,,,,,,,,,,8
+260036,Unit Test,Chapter 1 Test,1.0,Physics,100,PCMC,2025,,,,45.0,29.0,,,,,,,,6
+260036,Unit Test,Chapter 1 Test,1.0,Chemistry,94,PCMC,2025,,,,,,31.0,26.0,,,,,,6
+260036,Unit Test,Chapter 1 Test,1.0,Maths,99,PCMC,2025,,,,,,,,80.0,,,,,10
+260036,Unit Test,Chapter 1 Test,1.0,Computer Science,100,PCMC,2025,,,,,,,,,,,39.0,21.0,10
+260036,Mid Term,Term,1.0,All,76,PCMC,2025,83.0,Sanskrit,51.0,30.0,20.0,60.0,16.0,59.0,,,55.0,25.0,6
+260036,JUT,Term,1.0,All,97,PCMC,2025,95.0,Kannada,36.0,59.0,22.0,32.0,16.0,69.0,,,38.0,24.0,8
+260036,JFT,Term,1.0,All,72,PCMC,2025,55.0,Hindi,65.0,40.0,17.0,64.0,21.0,69.0,,,31.0,29.0,5
+260036,Final Exam,Annual,1.0,All,100,PCMC,2025,85.0,Kannada,94.0,60.0,17.0,52.0,15.0,43.0,,,35.0,19.0,6
+260037,Unit Test,Chapter 1 Test,1.0,English,80,PCMC,2025,44.0,,,,,,,,,,,,9
+260037,Unit Test,Chapter 1 Test,1.0,Language,96,PCMC,2025,,Kannada,78.0,,,,,,,,,,7
+260037,Unit Test,Chapter 1 Test,1.0,Physics,78,PCMC,2025,,,,61.0,17.0,,,,,,,,8
+260037,Unit Test,Chapter 1 Test,1.0,Chemistry,93,PCMC,2025,,,,,,44.0,29.0,,,,,,6
+260037,Unit Test,Chapter 1 Test,1.0,Maths,99,PCMC,2025,,,,,,,,61.0,,,,,7
+260037,Unit Test,Chapter 1 Test,1.0,Computer Science,90,PCMC,2025,,,,,,,,,,,37.0,25.0,9
+260037,Mid Term,Term,1.0,All,76,PCMC,2025,83.0,Hindi,56.0,55.0,26.0,28.0,28.0,41.0,,,37.0,15.0,9
+260037,JUT,Term,1.0,All,94,PCMC,2025,69.0,Kannada,88.0,49.0,30.0,55.0,28.0,66.0,,,38.0,20.0,8
+260037,JFT,Term,1.0,All,92,PCMC,2025,54.0,Hindi,39.0,26.0,25.0,60.0,21.0,50.0,,,67.0,21.0,10
+260037,Final Exam,Annual,1.0,All,89,PCMC,2025,100.0,Sanskrit,35.0,42.0,29.0,25.0,27.0,89.0,,,70.0,29.0,7
+260038,Unit Test,Chapter 1 Test,1.0,English,95,PCMB,2025,55.0,,,,,,,,,,,,9
+260038,Unit Test,Chapter 1 Test,1.0,Language,100,PCMB,2025,,Hindi,95.0,,,,,,,,,,9
+260038,Unit Test,Chapter 1 Test,1.0,Physics,93,PCMB,2025,,,,44.0,19.0,,,,,,,,7
+260038,Unit Test,Chapter 1 Test,1.0,Chemistry,89,PCMB,2025,,,,,,66.0,28.0,,,,,,6
+260038,Unit Test,Chapter 1 Test,1.0,Maths,91,PCMB,2025,,,,,,,,67.0,,,,,10
+260038,Unit Test,Chapter 1 Test,1.0,Biology,78,PCMB,2025,,,,,,,,,32.0,20.0,,,9
+260038,Mid Term,Term,1.0,All,84,PCMB,2025,77.0,Sanskrit,82.0,39.0,30.0,56.0,20.0,36.0,68.0,21.0,,,9
+260038,JUT,Term,1.0,All,75,PCMB,2025,80.0,Hindi,37.0,43.0,27.0,25.0,28.0,95.0,53.0,20.0,,,7
+260038,JFT,Term,1.0,All,87,PCMB,2025,65.0,Sanskrit,38.0,48.0,15.0,53.0,15.0,68.0,38.0,23.0,,,6
+260038,Final Exam,Annual,1.0,All,87,PCMB,2025,36.0,Kannada,57.0,42.0,30.0,70.0,19.0,86.0,56.0,16.0,,,6
+260039,Unit Test,Chapter 1 Test,1.0,English,86,PCMC,2025,98.0,,,,,,,,,,,,9
+260039,Unit Test,Chapter 1 Test,1.0,Language,77,PCMC,2025,,Hindi,73.0,,,,,,,,,,9
+260039,Unit Test,Chapter 1 Test,1.0,Physics,94,PCMC,2025,,,,52.0,26.0,,,,,,,,7
+260039,Unit Test,Chapter 1 Test,1.0,Chemistry,75,PCMC,2025,,,,,,57.0,17.0,,,,,,10
+260039,Unit Test,Chapter 1 Test,1.0,Maths,100,PCMC,2025,,,,,,,,58.0,,,,,6
+260039,Unit Test,Chapter 1 Test,1.0,Computer Science,94,PCMC,2025,,,,,,,,,,,44.0,25.0,6
+260039,Mid Term,Term,1.0,All,89,PCMC,2025,49.0,Sanskrit,70.0,46.0,28.0,49.0,15.0,77.0,,,49.0,16.0,5
+260039,JUT,Term,1.0,All,81,PCMC,2025,60.0,Kannada,62.0,27.0,23.0,63.0,24.0,74.0,,,38.0,30.0,8
+260039,JFT,Term,1.0,All,90,PCMC,2025,71.0,Sanskrit,49.0,28.0,29.0,67.0,27.0,54.0,,,68.0,18.0,5
+260039,Final Exam,Annual,1.0,All,95,PCMC,2025,86.0,Hindi,95.0,51.0,29.0,36.0,29.0,63.0,,,39.0,24.0,10
+260040,Unit Test,Chapter 1 Test,1.0,English,92,PCMB,2025,35.0,,,,,,,,,,,,7
+260040,Unit Test,Chapter 1 Test,1.0,Language,89,PCMB,2025,,Kannada,38.0,,,,,,,,,,6
+260040,Unit Test,Chapter 1 Test,1.0,Physics,91,PCMB,2025,,,,65.0,30.0,,,,,,,,10
+260040,Unit Test,Chapter 1 Test,1.0,Chemistry,87,PCMB,2025,,,,,,47.0,17.0,,,,,,6
+260040,Unit Test,Chapter 1 Test,1.0,Maths,79,PCMB,2025,,,,,,,,60.0,,,,,7
+260040,Unit Test,Chapter 1 Test,1.0,Biology,87,PCMB,2025,,,,,,,,,68.0,18.0,,,10
+260040,Mid Term,Term,1.0,All,75,PCMB,2025,68.0,Sanskrit,54.0,39.0,23.0,62.0,15.0,37.0,32.0,17.0,,,6
+260040,JUT,Term,1.0,All,84,PCMB,2025,58.0,Hindi,50.0,41.0,21.0,58.0,29.0,66.0,34.0,18.0,,,5
+260040,JFT,Term,1.0,All,76,PCMB,2025,62.0,Sanskrit,83.0,33.0,16.0,36.0,15.0,58.0,69.0,26.0,,,7
+260040,Final Exam,Annual,1.0,All,85,PCMB,2025,78.0,Hindi,88.0,66.0,15.0,37.0,19.0,57.0,37.0,29.0,,,6
+260041,Unit Test,Chapter 1 Test,1.0,English,99,PCMC,2025,58.0,,,,,,,,,,,,10
+260041,Unit Test,Chapter 1 Test,1.0,Language,77,PCMC,2025,,Kannada,63.0,,,,,,,,,,8
+260041,Unit Test,Chapter 1 Test,1.0,Physics,80,PCMC,2025,,,,48.0,21.0,,,,,,,,6
+260041,Unit Test,Chapter 1 Test,1.0,Chemistry,83,PCMC,2025,,,,,,26.0,29.0,,,,,,8
+260041,Unit Test,Chapter 1 Test,1.0,Maths,95,PCMC,2025,,,,,,,,45.0,,,,,9
+260041,Unit Test,Chapter 1 Test,1.0,Computer Science,84,PCMC,2025,,,,,,,,,,,55.0,27.0,7
+260041,Mid Term,Term,1.0,All,87,PCMC,2025,67.0,Hindi,35.0,44.0,29.0,48.0,27.0,80.0,,,29.0,28.0,6
+260041,JUT,Term,1.0,All,91,PCMC,2025,91.0,Hindi,96.0,42.0,15.0,46.0,27.0,76.0,,,67.0,27.0,7
+260041,JFT,Term,1.0,All,100,PCMC,2025,56.0,Sanskrit,43.0,54.0,28.0,70.0,16.0,50.0,,,40.0,19.0,9
+260041,Final Exam,Annual,1.0,All,92,PCMC,2025,95.0,Kannada,67.0,24.0,21.0,64.0,30.0,89.0,,,56.0,26.0,6
+260042,Unit Test,Chapter 1 Test,1.0,English,82,PCMC,2025,88.0,,,,,,,,,,,,8
+260042,Unit Test,Chapter 1 Test,1.0,Language,78,PCMC,2025,,Kannada,97.0,,,,,,,,,,10
+260042,Unit Test,Chapter 1 Test,1.0,Physics,99,PCMC,2025,,,,51.0,28.0,,,,,,,,6
+260042,Unit Test,Chapter 1 Test,1.0,Chemistry,95,PCMC,2025,,,,,,46.0,20.0,,,,,,7
+260042,Unit Test,Chapter 1 Test,1.0,Maths,86,PCMC,2025,,,,,,,,62.0,,,,,7
+260042,Unit Test,Chapter 1 Test,1.0,Computer Science,99,PCMC,2025,,,,,,,,,,,54.0,15.0,6
+260042,Mid Term,Term,1.0,All,91,PCMC,2025,48.0,Kannada,75.0,60.0,22.0,31.0,25.0,94.0,,,68.0,28.0,9
+260042,JUT,Term,1.0,All,76,PCMC,2025,39.0,Hindi,67.0,57.0,19.0,69.0,28.0,58.0,,,51.0,25.0,9
+260042,JFT,Term,1.0,All,82,PCMC,2025,84.0,Sanskrit,91.0,39.0,29.0,64.0,19.0,79.0,,,35.0,24.0,5
+260042,Final Exam,Annual,1.0,All,79,PCMC,2025,68.0,Sanskrit,85.0,55.0,26.0,52.0,22.0,68.0,,,62.0,29.0,9
+260043,Unit Test,Chapter 1 Test,1.0,English,90,PCMC,2025,63.0,,,,,,,,,,,,9
+260043,Unit Test,Chapter 1 Test,1.0,Language,78,PCMC,2025,,Hindi,94.0,,,,,,,,,,6
+260043,Unit Test,Chapter 1 Test,1.0,Physics,82,PCMC,2025,,,,47.0,17.0,,,,,,,,9
+260043,Unit Test,Chapter 1 Test,1.0,Chemistry,87,PCMC,2025,,,,,,55.0,17.0,,,,,,7
+260043,Unit Test,Chapter 1 Test,1.0,Maths,88,PCMC,2025,,,,,,,,80.0,,,,,8
+260043,Unit Test,Chapter 1 Test,1.0,Computer Science,88,PCMC,2025,,,,,,,,,,,38.0,22.0,6
+260043,Mid Term,Term,1.0,All,95,PCMC,2025,72.0,Kannada,79.0,67.0,19.0,58.0,21.0,61.0,,,40.0,29.0,6
+260043,JUT,Term,1.0,All,88,PCMC,2025,85.0,Hindi,50.0,43.0,16.0,34.0,24.0,41.0,,,60.0,19.0,7
+260043,JFT,Term,1.0,All,92,PCMC,2025,89.0,Hindi,52.0,34.0,17.0,39.0,17.0,66.0,,,43.0,29.0,8
+260043,Final Exam,Annual,1.0,All,88,PCMC,2025,96.0,Hindi,47.0,42.0,22.0,52.0,28.0,63.0,,,46.0,26.0,8
+260044,Unit Test,Chapter 1 Test,1.0,English,100,PCMC,2025,95.0,,,,,,,,,,,,8
+260044,Unit Test,Chapter 1 Test,1.0,Language,93,PCMC,2025,,Hindi,55.0,,,,,,,,,,9
+260044,Unit Test,Chapter 1 Test,1.0,Physics,98,PCMC,2025,,,,32.0,15.0,,,,,,,,8
+260044,Unit Test,Chapter 1 Test,1.0,Chemistry,75,PCMC,2025,,,,,,47.0,23.0,,,,,,10
+260044,Unit Test,Chapter 1 Test,1.0,Maths,83,PCMC,2025,,,,,,,,37.0,,,,,9
+260044,Unit Test,Chapter 1 Test,1.0,Computer Science,92,PCMC,2025,,,,,,,,,,,33.0,24.0,10
+260044,Mid Term,Term,1.0,All,93,PCMC,2025,85.0,Sanskrit,98.0,50.0,29.0,40.0,30.0,70.0,,,28.0,20.0,9
+260044,JUT,Term,1.0,All,87,PCMC,2025,51.0,Kannada,96.0,62.0,27.0,41.0,30.0,38.0,,,67.0,19.0,10
+260044,JFT,Term,1.0,All,75,PCMC,2025,100.0,Kannada,74.0,38.0,19.0,43.0,23.0,57.0,,,50.0,26.0,8
+260044,Final Exam,Annual,1.0,All,80,PCMC,2025,47.0,Hindi,97.0,43.0,26.0,49.0,23.0,52.0,,,30.0,30.0,5
+260045,Unit Test,Chapter 1 Test,1.0,English,89,PCMC,2025,48.0,,,,,,,,,,,,6
+260045,Unit Test,Chapter 1 Test,1.0,Language,85,PCMC,2025,,Kannada,96.0,,,,,,,,,,7
+260045,Unit Test,Chapter 1 Test,1.0,Physics,85,PCMC,2025,,,,36.0,16.0,,,,,,,,8
+260045,Unit Test,Chapter 1 Test,1.0,Chemistry,89,PCMC,2025,,,,,,56.0,18.0,,,,,,8
+260045,Unit Test,Chapter 1 Test,1.0,Maths,86,PCMC,2025,,,,,,,,68.0,,,,,7
+260045,Unit Test,Chapter 1 Test,1.0,Computer Science,100,PCMC,2025,,,,,,,,,,,53.0,26.0,10
+260045,Mid Term,Term,1.0,All,90,PCMC,2025,35.0,Kannada,39.0,63.0,28.0,40.0,15.0,73.0,,,31.0,29.0,9
+260045,JUT,Term,1.0,All,95,PCMC,2025,92.0,Kannada,86.0,65.0,25.0,47.0,18.0,50.0,,,58.0,15.0,9
+260045,JFT,Term,1.0,All,81,PCMC,2025,86.0,Hindi,54.0,56.0,27.0,28.0,16.0,35.0,,,54.0,20.0,6
+260045,Final Exam,Annual,1.0,All,83,PCMC,2025,82.0,Sanskrit,86.0,58.0,21.0,28.0,15.0,79.0,,,70.0,18.0,9
+260046,Unit Test,Chapter 1 Test,1.0,English,99,PCMC,2025,87.0,,,,,,,,,,,,6
+260046,Unit Test,Chapter 1 Test,1.0,Language,86,PCMC,2025,,Sanskrit,49.0,,,,,,,,,,8
+260046,Unit Test,Chapter 1 Test,1.0,Physics,84,PCMC,2025,,,,64.0,16.0,,,,,,,,10
+260046,Unit Test,Chapter 1 Test,1.0,Chemistry,83,PCMC,2025,,,,,,51.0,27.0,,,,,,9
+260046,Unit Test,Chapter 1 Test,1.0,Maths,93,PCMC,2025,,,,,,,,78.0,,,,,10
+260046,Unit Test,Chapter 1 Test,1.0,Computer Science,85,PCMC,2025,,,,,,,,,,,43.0,30.0,10
+260046,Mid Term,Term,1.0,All,74,PCMC,2025,54.0,Hindi,36.0,36.0,26.0,42.0,23.0,100.0,,,61.0,29.0,9
+260046,JUT,Term,1.0,All,96,PCMC,2025,80.0,Sanskrit,76.0,60.0,25.0,67.0,15.0,91.0,,,66.0,29.0,8
+260046,JFT,Term,1.0,All,74,PCMC,2025,77.0,Hindi,78.0,69.0,20.0,67.0,29.0,37.0,,,55.0,23.0,8
+260046,Final Exam,Annual,1.0,All,89,PCMC,2025,79.0,Kannada,53.0,42.0,21.0,25.0,29.0,96.0,,,38.0,26.0,10
+260047,Unit Test,Chapter 1 Test,1.0,English,95,PCMC,2025,75.0,,,,,,,,,,,,8
+260047,Unit Test,Chapter 1 Test,1.0,Language,75,PCMC,2025,,Sanskrit,89.0,,,,,,,,,,8
+260047,Unit Test,Chapter 1 Test,1.0,Physics,100,PCMC,2025,,,,32.0,18.0,,,,,,,,7
+260047,Unit Test,Chapter 1 Test,1.0,Chemistry,95,PCMC,2025,,,,,,37.0,15.0,,,,,,8
+260047,Unit Test,Chapter 1 Test,1.0,Maths,83,PCMC,2025,,,,,,,,80.0,,,,,9
+260047,Unit Test,Chapter 1 Test,1.0,Computer Science,97,PCMC,2025,,,,,,,,,,,57.0,23.0,8
+260047,Mid Term,Term,1.0,All,95,PCMC,2025,57.0,Kannada,50.0,51.0,15.0,69.0,29.0,94.0,,,28.0,19.0,9
+260047,JUT,Term,1.0,All,94,PCMC,2025,57.0,Hindi,58.0,38.0,30.0,37.0,17.0,78.0,,,24.0,25.0,7
+260047,JFT,Term,1.0,All,93,PCMC,2025,59.0,Sanskrit,37.0,35.0,30.0,46.0,30.0,95.0,,,59.0,26.0,8
+260047,Final Exam,Annual,1.0,All,98,PCMC,2025,54.0,Sanskrit,94.0,28.0,16.0,39.0,26.0,59.0,,,29.0,17.0,5
+260048,Unit Test,Chapter 1 Test,1.0,English,82,PCMC,2025,74.0,,,,,,,,,,,,7
+260048,Unit Test,Chapter 1 Test,1.0,Language,94,PCMC,2025,,Sanskrit,95.0,,,,,,,,,,8
+260048,Unit Test,Chapter 1 Test,1.0,Physics,94,PCMC,2025,,,,34.0,27.0,,,,,,,,6
+260048,Unit Test,Chapter 1 Test,1.0,Chemistry,91,PCMC,2025,,,,,,65.0,19.0,,,,,,7
+260048,Unit Test,Chapter 1 Test,1.0,Maths,80,PCMC,2025,,,,,,,,62.0,,,,,10
+260048,Unit Test,Chapter 1 Test,1.0,Computer Science,89,PCMC,2025,,,,,,,,,,,69.0,30.0,7
+260048,Mid Term,Term,1.0,All,75,PCMC,2025,62.0,Sanskrit,48.0,64.0,21.0,45.0,26.0,96.0,,,46.0,24.0,7
+260048,JUT,Term,1.0,All,71,PCMC,2025,79.0,Sanskrit,51.0,43.0,24.0,45.0,21.0,52.0,,,41.0,26.0,6
+260048,JFT,Term,1.0,All,81,PCMC,2025,53.0,Kannada,75.0,30.0,15.0,45.0,23.0,35.0,,,52.0,27.0,9
+260048,Final Exam,Annual,1.0,All,92,PCMC,2025,45.0,Hindi,58.0,49.0,29.0,49.0,25.0,38.0,,,28.0,15.0,7
+260049,Unit Test,Chapter 1 Test,1.0,English,84,PCMC,2025,90.0,,,,,,,,,,,,9
+260049,Unit Test,Chapter 1 Test,1.0,Language,77,PCMC,2025,,Hindi,45.0,,,,,,,,,,7
+260049,Unit Test,Chapter 1 Test,1.0,Physics,100,PCMC,2025,,,,68.0,25.0,,,,,,,,8
+260049,Unit Test,Chapter 1 Test,1.0,Chemistry,82,PCMC,2025,,,,,,63.0,22.0,,,,,,6
+260049,Unit Test,Chapter 1 Test,1.0,Maths,83,PCMC,2025,,,,,,,,99.0,,,,,6
+260049,Unit Test,Chapter 1 Test,1.0,Computer Science,82,PCMC,2025,,,,,,,,,,,56.0,23.0,6
+260049,Mid Term,Term,1.0,All,82,PCMC,2025,54.0,Kannada,79.0,63.0,26.0,48.0,20.0,82.0,,,34.0,26.0,8
+260049,JUT,Term,1.0,All,78,PCMC,2025,75.0,Hindi,74.0,37.0,16.0,56.0,28.0,55.0,,,68.0,18.0,10
+260049,JFT,Term,1.0,All,88,PCMC,2025,56.0,Sanskrit,67.0,40.0,28.0,66.0,18.0,83.0,,,27.0,15.0,5
+260049,Final Exam,Annual,1.0,All,89,PCMC,2025,60.0,Sanskrit,58.0,61.0,24.0,24.0,15.0,53.0,,,54.0,24.0,7
+260050,Unit Test,Chapter 1 Test,1.0,English,85,PCMB,2025,60.0,,,,,,,,,,,,9
+260050,Unit Test,Chapter 1 Test,1.0,Language,82,PCMB,2025,,Hindi,47.0,,,,,,,,,,6
+260050,Unit Test,Chapter 1 Test,1.0,Physics,75,PCMB,2025,,,,38.0,22.0,,,,,,,,6
+260050,Unit Test,Chapter 1 Test,1.0,Chemistry,86,PCMB,2025,,,,,,24.0,25.0,,,,,,7
+260050,Unit Test,Chapter 1 Test,1.0,Maths,100,PCMB,2025,,,,,,,,55.0,,,,,9
+260050,Unit Test,Chapter 1 Test,1.0,Biology,75,PCMB,2025,,,,,,,,,64.0,16.0,,,8
+260050,Mid Term,Term,1.0,All,80,PCMB,2025,78.0,Kannada,81.0,39.0,16.0,49.0,24.0,64.0,26.0,20.0,,,7
+260050,JUT,Term,1.0,All,96,PCMB,2025,39.0,Kannada,88.0,33.0,19.0,67.0,25.0,88.0,59.0,26.0,,,5
+260050,JFT,Term,1.0,All,74,PCMB,2025,72.0,Sanskrit,80.0,59.0,28.0,61.0,15.0,93.0,68.0,20.0,,,7
+260050,Final Exam,Annual,1.0,All,73,PCMB,2025,69.0,Kannada,38.0,56.0,15.0,37.0,26.0,36.0,66.0,26.0,,,8
+260051,Unit Test,Chapter 1 Test,1.0,English,80,PCMC,2025,99.0,,,,,,,,,,,,7
+260051,Unit Test,Chapter 1 Test,1.0,Language,90,PCMC,2025,,Sanskrit,47.0,,,,,,,,,,7
+260051,Unit Test,Chapter 1 Test,1.0,Physics,95,PCMC,2025,,,,24.0,30.0,,,,,,,,8
+260051,Unit Test,Chapter 1 Test,1.0,Chemistry,95,PCMC,2025,,,,,,66.0,27.0,,,,,,8
+260051,Unit Test,Chapter 1 Test,1.0,Maths,88,PCMC,2025,,,,,,,,56.0,,,,,8
+260051,Unit Test,Chapter 1 Test,1.0,Computer Science,99,PCMC,2025,,,,,,,,,,,62.0,24.0,7
+260051,Mid Term,Term,1.0,All,96,PCMC,2025,59.0,Hindi,62.0,36.0,19.0,53.0,28.0,88.0,,,44.0,29.0,9
+260051,JUT,Term,1.0,All,95,PCMC,2025,77.0,Sanskrit,82.0,32.0,15.0,28.0,30.0,49.0,,,39.0,29.0,5
+260051,JFT,Term,1.0,All,81,PCMC,2025,41.0,Kannada,36.0,55.0,17.0,54.0,20.0,42.0,,,28.0,22.0,10
+260051,Final Exam,Annual,1.0,All,82,PCMC,2025,69.0,Hindi,54.0,60.0,21.0,67.0,24.0,41.0,,,41.0,25.0,9
+260052,Unit Test,Chapter 1 Test,1.0,English,87,PCMC,2025,51.0,,,,,,,,,,,,8
+260052,Unit Test,Chapter 1 Test,1.0,Language,78,PCMC,2025,,Kannada,48.0,,,,,,,,,,10
+260052,Unit Test,Chapter 1 Test,1.0,Physics,91,PCMC,2025,,,,44.0,29.0,,,,,,,,6
+260052,Unit Test,Chapter 1 Test,1.0,Chemistry,86,PCMC,2025,,,,,,31.0,28.0,,,,,,7
+260052,Unit Test,Chapter 1 Test,1.0,Maths,86,PCMC,2025,,,,,,,,100.0,,,,,9
+260052,Unit Test,Chapter 1 Test,1.0,Computer Science,100,PCMC,2025,,,,,,,,,,,29.0,19.0,8
+260052,Mid Term,Term,1.0,All,85,PCMC,2025,36.0,Kannada,100.0,32.0,30.0,51.0,27.0,99.0,,,47.0,21.0,8
+260052,JUT,Term,1.0,All,90,PCMC,2025,96.0,Hindi,56.0,66.0,28.0,55.0,24.0,84.0,,,63.0,27.0,7
+260052,JFT,Term,1.0,All,85,PCMC,2025,83.0,Hindi,94.0,49.0,18.0,46.0,30.0,87.0,,,41.0,23.0,10
+260052,Final Exam,Annual,1.0,All,93,PCMC,2025,40.0,Sanskrit,42.0,63.0,16.0,33.0,26.0,96.0,,,37.0,22.0,5
+260053,Unit Test,Chapter 1 Test,1.0,English,82,PCMC,2025,45.0,,,,,,,,,,,,7
+260053,Unit Test,Chapter 1 Test,1.0,Language,84,PCMC,2025,,Sanskrit,64.0,,,,,,,,,,10
+260053,Unit Test,Chapter 1 Test,1.0,Physics,82,PCMC,2025,,,,47.0,26.0,,,,,,,,8
+260053,Unit Test,Chapter 1 Test,1.0,Chemistry,96,PCMC,2025,,,,,,33.0,27.0,,,,,,10
+260053,Unit Test,Chapter 1 Test,1.0,Maths,100,PCMC,2025,,,,,,,,88.0,,,,,7
+260053,Unit Test,Chapter 1 Test,1.0,Computer Science,75,PCMC,2025,,,,,,,,,,,40.0,17.0,9
+260053,Mid Term,Term,1.0,All,87,PCMC,2025,67.0,Hindi,55.0,24.0,28.0,31.0,27.0,64.0,,,67.0,15.0,9
+260053,JUT,Term,1.0,All,92,PCMC,2025,54.0,Kannada,50.0,36.0,19.0,35.0,24.0,47.0,,,55.0,20.0,5
+260053,JFT,Term,1.0,All,97,PCMC,2025,64.0,Kannada,67.0,56.0,17.0,50.0,22.0,77.0,,,35.0,15.0,9
+260053,Final Exam,Annual,1.0,All,77,PCMC,2025,81.0,Hindi,65.0,67.0,28.0,48.0,23.0,76.0,,,51.0,29.0,6
+260054,Unit Test,Chapter 1 Test,1.0,English,81,PCMB,2025,51.0,,,,,,,,,,,,7
+260054,Unit Test,Chapter 1 Test,1.0,Language,95,PCMB,2025,,Sanskrit,44.0,,,,,,,,,,7
+260054,Unit Test,Chapter 1 Test,1.0,Physics,93,PCMB,2025,,,,45.0,16.0,,,,,,,,7
+260054,Unit Test,Chapter 1 Test,1.0,Chemistry,91,PCMB,2025,,,,,,37.0,22.0,,,,,,8
+260054,Unit Test,Chapter 1 Test,1.0,Maths,81,PCMB,2025,,,,,,,,57.0,,,,,7
+260054,Unit Test,Chapter 1 Test,1.0,Biology,86,PCMB,2025,,,,,,,,,32.0,28.0,,,10
+260054,Mid Term,Term,1.0,All,85,PCMB,2025,84.0,Hindi,100.0,24.0,28.0,51.0,26.0,49.0,38.0,18.0,,,10
+260054,JUT,Term,1.0,All,76,PCMB,2025,98.0,Hindi,53.0,56.0,29.0,45.0,29.0,50.0,58.0,24.0,,,8
+260054,JFT,Term,1.0,All,88,PCMB,2025,89.0,Sanskrit,65.0,36.0,27.0,35.0,21.0,83.0,48.0,19.0,,,5
+260054,Final Exam,Annual,1.0,All,86,PCMB,2025,46.0,Sanskrit,37.0,55.0,28.0,27.0,27.0,55.0,67.0,22.0,,,7
+260055,Unit Test,Chapter 1 Test,1.0,English,97,PCMB,2025,77.0,,,,,,,,,,,,10
+260055,Unit Test,Chapter 1 Test,1.0,Language,87,PCMB,2025,,Kannada,85.0,,,,,,,,,,8
+260055,Unit Test,Chapter 1 Test,1.0,Physics,91,PCMB,2025,,,,47.0,25.0,,,,,,,,8
+260055,Unit Test,Chapter 1 Test,1.0,Chemistry,94,PCMB,2025,,,,,,60.0,26.0,,,,,,7
+260055,Unit Test,Chapter 1 Test,1.0,Maths,100,PCMB,2025,,,,,,,,79.0,,,,,6
+260055,Unit Test,Chapter 1 Test,1.0,Biology,88,PCMB,2025,,,,,,,,,51.0,26.0,,,6
+260055,Mid Term,Term,1.0,All,96,PCMB,2025,70.0,Kannada,67.0,24.0,18.0,40.0,25.0,64.0,63.0,22.0,,,10
+260055,JUT,Term,1.0,All,83,PCMB,2025,51.0,Kannada,54.0,28.0,25.0,40.0,26.0,83.0,66.0,28.0,,,8
+260055,JFT,Term,1.0,All,73,PCMB,2025,50.0,Hindi,77.0,39.0,16.0,47.0,25.0,52.0,48.0,22.0,,,9
+260055,Final Exam,Annual,1.0,All,83,PCMB,2025,66.0,Hindi,73.0,40.0,18.0,52.0,25.0,92.0,61.0,25.0,,,7
+260056,Unit Test,Chapter 1 Test,1.0,English,77,PCMC,2025,62.0,,,,,,,,,,,,10
+260056,Unit Test,Chapter 1 Test,1.0,Language,88,PCMC,2025,,Hindi,66.0,,,,,,,,,,7
+260056,Unit Test,Chapter 1 Test,1.0,Physics,75,PCMC,2025,,,,46.0,19.0,,,,,,,,6
+260056,Unit Test,Chapter 1 Test,1.0,Chemistry,100,PCMC,2025,,,,,,55.0,18.0,,,,,,10
+260056,Unit Test,Chapter 1 Test,1.0,Maths,84,PCMC,2025,,,,,,,,66.0,,,,,8
+260056,Unit Test,Chapter 1 Test,1.0,Computer Science,89,PCMC,2025,,,,,,,,,,,56.0,25.0,8
+260056,Mid Term,Term,1.0,All,84,PCMC,2025,63.0,Sanskrit,88.0,43.0,23.0,54.0,16.0,72.0,,,60.0,18.0,6
+260056,JUT,Term,1.0,All,74,PCMC,2025,39.0,Sanskrit,77.0,65.0,20.0,32.0,17.0,43.0,,,68.0,15.0,5
+260056,JFT,Term,1.0,All,81,PCMC,2025,80.0,Sanskrit,67.0,26.0,30.0,30.0,18.0,81.0,,,27.0,22.0,8
+260056,Final Exam,Annual,1.0,All,87,PCMC,2025,82.0,Sanskrit,52.0,32.0,30.0,66.0,17.0,44.0,,,29.0,29.0,7
+260057,Unit Test,Chapter 1 Test,1.0,English,91,PCMC,2025,83.0,,,,,,,,,,,,10
+260057,Unit Test,Chapter 1 Test,1.0,Language,91,PCMC,2025,,Hindi,48.0,,,,,,,,,,9
+260057,Unit Test,Chapter 1 Test,1.0,Physics,98,PCMC,2025,,,,59.0,27.0,,,,,,,,9
+260057,Unit Test,Chapter 1 Test,1.0,Chemistry,99,PCMC,2025,,,,,,58.0,20.0,,,,,,7
+260057,Unit Test,Chapter 1 Test,1.0,Maths,85,PCMC,2025,,,,,,,,92.0,,,,,9
+260057,Unit Test,Chapter 1 Test,1.0,Computer Science,96,PCMC,2025,,,,,,,,,,,26.0,26.0,7
+260057,Mid Term,Term,1.0,All,75,PCMC,2025,44.0,Hindi,38.0,45.0,25.0,51.0,27.0,92.0,,,55.0,28.0,6
+260057,JUT,Term,1.0,All,96,PCMC,2025,54.0,Sanskrit,81.0,24.0,16.0,66.0,19.0,58.0,,,40.0,20.0,9
+260057,JFT,Term,1.0,All,75,PCMC,2025,64.0,Sanskrit,99.0,44.0,15.0,24.0,23.0,44.0,,,60.0,15.0,8
+260057,Final Exam,Annual,1.0,All,89,PCMC,2025,36.0,Kannada,73.0,61.0,29.0,44.0,30.0,62.0,,,60.0,29.0,5
+260058,Unit Test,Chapter 1 Test,1.0,English,97,PCMB,2025,54.0,,,,,,,,,,,,6
+260058,Unit Test,Chapter 1 Test,1.0,Language,86,PCMB,2025,,Hindi,76.0,,,,,,,,,,8
+260058,Unit Test,Chapter 1 Test,1.0,Physics,75,PCMB,2025,,,,69.0,23.0,,,,,,,,9
+260058,Unit Test,Chapter 1 Test,1.0,Chemistry,91,PCMB,2025,,,,,,43.0,15.0,,,,,,9
+260058,Unit Test,Chapter 1 Test,1.0,Maths,80,PCMB,2025,,,,,,,,98.0,,,,,10
+260058,Unit Test,Chapter 1 Test,1.0,Biology,93,PCMB,2025,,,,,,,,,25.0,18.0,,,8
+260058,Mid Term,Term,1.0,All,96,PCMB,2025,75.0,Hindi,83.0,30.0,24.0,60.0,19.0,57.0,57.0,28.0,,,6
+260058,JUT,Term,1.0,All,74,PCMB,2025,86.0,Hindi,59.0,26.0,19.0,60.0,22.0,54.0,40.0,20.0,,,10
+260058,JFT,Term,1.0,All,97,PCMB,2025,95.0,Kannada,54.0,65.0,25.0,64.0,19.0,86.0,34.0,20.0,,,5
+260058,Final Exam,Annual,1.0,All,72,PCMB,2025,69.0,Hindi,81.0,69.0,29.0,49.0,30.0,46.0,64.0,27.0,,,5
+260059,Unit Test,Chapter 1 Test,1.0,English,84,PCMC,2025,51.0,,,,,,,,,,,,8
+260059,Unit Test,Chapter 1 Test,1.0,Language,81,PCMC,2025,,Kannada,98.0,,,,,,,,,,9
+260059,Unit Test,Chapter 1 Test,1.0,Physics,95,PCMC,2025,,,,42.0,25.0,,,,,,,,8
+260059,Unit Test,Chapter 1 Test,1.0,Chemistry,100,PCMC,2025,,,,,,69.0,25.0,,,,,,7
+260059,Unit Test,Chapter 1 Test,1.0,Maths,83,PCMC,2025,,,,,,,,88.0,,,,,6
+260059,Unit Test,Chapter 1 Test,1.0,Computer Science,82,PCMC,2025,,,,,,,,,,,24.0,20.0,8
+260059,Mid Term,Term,1.0,All,93,PCMC,2025,96.0,Kannada,58.0,44.0,23.0,40.0,18.0,46.0,,,35.0,20.0,6
+260059,JUT,Term,1.0,All,96,PCMC,2025,66.0,Kannada,37.0,28.0,16.0,47.0,23.0,39.0,,,61.0,22.0,10
+260059,JFT,Term,1.0,All,70,PCMC,2025,91.0,Hindi,36.0,31.0,29.0,38.0,30.0,63.0,,,44.0,28.0,7
+260059,Final Exam,Annual,1.0,All,99,PCMC,2025,62.0,Sanskrit,82.0,46.0,16.0,35.0,26.0,95.0,,,66.0,22.0,8
+260060,Unit Test,Chapter 1 Test,1.0,English,89,PCMB,2025,45.0,,,,,,,,,,,,7
+260060,Unit Test,Chapter 1 Test,1.0,Language,82,PCMB,2025,,Kannada,90.0,,,,,,,,,,8
+260060,Unit Test,Chapter 1 Test,1.0,Physics,79,PCMB,2025,,,,63.0,18.0,,,,,,,,10
+260060,Unit Test,Chapter 1 Test,1.0,Chemistry,97,PCMB,2025,,,,,,48.0,17.0,,,,,,9
+260060,Unit Test,Chapter 1 Test,1.0,Maths,98,PCMB,2025,,,,,,,,84.0,,,,,9
+260060,Unit Test,Chapter 1 Test,1.0,Biology,94,PCMB,2025,,,,,,,,,64.0,28.0,,,10
+260060,Mid Term,Term,1.0,All,78,PCMB,2025,62.0,Sanskrit,84.0,34.0,19.0,33.0,29.0,41.0,52.0,29.0,,,5
+260060,JUT,Term,1.0,All,87,PCMB,2025,76.0,Sanskrit,52.0,63.0,19.0,65.0,27.0,47.0,56.0,19.0,,,6
+260060,JFT,Term,1.0,All,88,PCMB,2025,41.0,Hindi,71.0,61.0,30.0,58.0,27.0,85.0,47.0,20.0,,,8
+260060,Final Exam,Annual,1.0,All,80,PCMB,2025,44.0,Hindi,99.0,69.0,27.0,41.0,20.0,74.0,60.0,28.0,,,7
+260061,Unit Test,Chapter 1 Test,1.0,English,88,PCMB,2025,56.0,,,,,,,,,,,,10
+260061,Unit Test,Chapter 1 Test,1.0,Language,96,PCMB,2025,,Hindi,93.0,,,,,,,,,,7
+260061,Unit Test,Chapter 1 Test,1.0,Physics,86,PCMB,2025,,,,26.0,25.0,,,,,,,,9
+260061,Unit Test,Chapter 1 Test,1.0,Chemistry,95,PCMB,2025,,,,,,64.0,23.0,,,,,,8
+260061,Unit Test,Chapter 1 Test,1.0,Maths,81,PCMB,2025,,,,,,,,46.0,,,,,7
+260061,Unit Test,Chapter 1 Test,1.0,Biology,89,PCMB,2025,,,,,,,,,26.0,25.0,,,6
+260061,Mid Term,Term,1.0,All,98,PCMB,2025,83.0,Kannada,43.0,28.0,25.0,62.0,26.0,63.0,59.0,16.0,,,6
+260061,JUT,Term,1.0,All,71,PCMB,2025,91.0,Hindi,78.0,69.0,22.0,67.0,17.0,56.0,58.0,27.0,,,7
+260061,JFT,Term,1.0,All,91,PCMB,2025,100.0,Hindi,85.0,31.0,16.0,68.0,30.0,90.0,28.0,25.0,,,8
+260061,Final Exam,Annual,1.0,All,99,PCMB,2025,40.0,Kannada,70.0,27.0,21.0,39.0,19.0,62.0,51.0,28.0,,,8
+260062,Unit Test,Chapter 1 Test,1.0,English,93,PCMB,2025,37.0,,,,,,,,,,,,7
+260062,Unit Test,Chapter 1 Test,1.0,Language,92,PCMB,2025,,Hindi,43.0,,,,,,,,,,10
+260062,Unit Test,Chapter 1 Test,1.0,Physics,95,PCMB,2025,,,,27.0,29.0,,,,,,,,6
+260062,Unit Test,Chapter 1 Test,1.0,Chemistry,89,PCMB,2025,,,,,,35.0,30.0,,,,,,9
+260062,Unit Test,Chapter 1 Test,1.0,Maths,82,PCMB,2025,,,,,,,,35.0,,,,,9
+260062,Unit Test,Chapter 1 Test,1.0,Biology,91,PCMB,2025,,,,,,,,,37.0,27.0,,,9
+260062,Mid Term,Term,1.0,All,80,PCMB,2025,78.0,Kannada,37.0,65.0,17.0,33.0,27.0,85.0,46.0,17.0,,,9
+260062,JUT,Term,1.0,All,81,PCMB,2025,80.0,Hindi,87.0,38.0,17.0,29.0,28.0,80.0,29.0,19.0,,,10
+260062,JFT,Term,1.0,All,74,PCMB,2025,44.0,Hindi,89.0,44.0,19.0,67.0,26.0,70.0,67.0,27.0,,,5
+260062,Final Exam,Annual,1.0,All,94,PCMB,2025,53.0,Kannada,39.0,29.0,18.0,24.0,15.0,92.0,29.0,16.0,,,7
+260063,Unit Test,Chapter 1 Test,1.0,English,91,PCMB,2025,83.0,,,,,,,,,,,,10
+260063,Unit Test,Chapter 1 Test,1.0,Language,88,PCMB,2025,,Kannada,91.0,,,,,,,,,,9
+260063,Unit Test,Chapter 1 Test,1.0,Physics,92,PCMB,2025,,,,31.0,16.0,,,,,,,,8
+260063,Unit Test,Chapter 1 Test,1.0,Chemistry,93,PCMB,2025,,,,,,28.0,25.0,,,,,,8
+260063,Unit Test,Chapter 1 Test,1.0,Maths,93,PCMB,2025,,,,,,,,63.0,,,,,9
+260063,Unit Test,Chapter 1 Test,1.0,Biology,97,PCMB,2025,,,,,,,,,49.0,23.0,,,9
+260063,Mid Term,Term,1.0,All,73,PCMB,2025,65.0,Kannada,54.0,46.0,22.0,50.0,15.0,61.0,39.0,24.0,,,6
+260063,JUT,Term,1.0,All,70,PCMB,2025,92.0,Kannada,44.0,45.0,29.0,68.0,21.0,71.0,40.0,27.0,,,8
+260063,JFT,Term,1.0,All,99,PCMB,2025,55.0,Hindi,76.0,36.0,22.0,54.0,21.0,97.0,67.0,20.0,,,6
+260063,Final Exam,Annual,1.0,All,79,PCMB,2025,45.0,Kannada,37.0,67.0,28.0,49.0,25.0,67.0,39.0,26.0,,,5
+260064,Unit Test,Chapter 1 Test,1.0,English,77,PCMB,2025,82.0,,,,,,,,,,,,7
+260064,Unit Test,Chapter 1 Test,1.0,Language,80,PCMB,2025,,Sanskrit,66.0,,,,,,,,,,9
+260064,Unit Test,Chapter 1 Test,1.0,Physics,78,PCMB,2025,,,,64.0,19.0,,,,,,,,8
+260064,Unit Test,Chapter 1 Test,1.0,Chemistry,77,PCMB,2025,,,,,,68.0,23.0,,,,,,8
+260064,Unit Test,Chapter 1 Test,1.0,Maths,82,PCMB,2025,,,,,,,,59.0,,,,,8
+260064,Unit Test,Chapter 1 Test,1.0,Biology,96,PCMB,2025,,,,,,,,,49.0,18.0,,,6
+260064,Mid Term,Term,1.0,All,77,PCMB,2025,64.0,Kannada,91.0,47.0,30.0,46.0,28.0,99.0,37.0,20.0,,,10
+260064,JUT,Term,1.0,All,80,PCMB,2025,90.0,Sanskrit,98.0,64.0,18.0,46.0,20.0,99.0,59.0,25.0,,,9
+260064,JFT,Term,1.0,All,75,PCMB,2025,73.0,Kannada,44.0,38.0,30.0,56.0,23.0,94.0,24.0,22.0,,,8
+260064,Final Exam,Annual,1.0,All,92,PCMB,2025,97.0,Kannada,85.0,24.0,27.0,40.0,23.0,81.0,31.0,23.0,,,7
+260065,Unit Test,Chapter 1 Test,1.0,English,90,PCMC,2025,64.0,,,,,,,,,,,,10
+260065,Unit Test,Chapter 1 Test,1.0,Language,81,PCMC,2025,,Hindi,57.0,,,,,,,,,,10
+260065,Unit Test,Chapter 1 Test,1.0,Physics,89,PCMC,2025,,,,31.0,20.0,,,,,,,,6
+260065,Unit Test,Chapter 1 Test,1.0,Chemistry,99,PCMC,2025,,,,,,61.0,18.0,,,,,,9
+260065,Unit Test,Chapter 1 Test,1.0,Maths,84,PCMC,2025,,,,,,,,37.0,,,,,6
+260065,Unit Test,Chapter 1 Test,1.0,Computer Science,80,PCMC,2025,,,,,,,,,,,68.0,23.0,7
+260065,Mid Term,Term,1.0,All,76,PCMC,2025,99.0,Hindi,65.0,33.0,23.0,69.0,23.0,67.0,,,51.0,27.0,7
+260065,JUT,Term,1.0,All,83,PCMC,2025,51.0,Sanskrit,98.0,51.0,30.0,64.0,16.0,45.0,,,48.0,25.0,6
+260065,JFT,Term,1.0,All,91,PCMC,2025,55.0,Sanskrit,59.0,40.0,19.0,28.0,23.0,86.0,,,38.0,24.0,10
+260065,Final Exam,Annual,1.0,All,96,PCMC,2025,42.0,Sanskrit,69.0,25.0,27.0,62.0,23.0,76.0,,,43.0,25.0,5
+260066,Unit Test,Chapter 1 Test,1.0,English,85,PCMB,2025,35.0,,,,,,,,,,,,8
+260066,Unit Test,Chapter 1 Test,1.0,Language,92,PCMB,2025,,Kannada,91.0,,,,,,,,,,9
+260066,Unit Test,Chapter 1 Test,1.0,Physics,81,PCMB,2025,,,,31.0,27.0,,,,,,,,8
+260066,Unit Test,Chapter 1 Test,1.0,Chemistry,88,PCMB,2025,,,,,,24.0,17.0,,,,,,8
+260066,Unit Test,Chapter 1 Test,1.0,Maths,95,PCMB,2025,,,,,,,,68.0,,,,,6
+260066,Unit Test,Chapter 1 Test,1.0,Biology,97,PCMB,2025,,,,,,,,,64.0,30.0,,,10
+260066,Mid Term,Term,1.0,All,75,PCMB,2025,44.0,Sanskrit,71.0,61.0,21.0,27.0,17.0,44.0,29.0,25.0,,,5
+260066,JUT,Term,1.0,All,79,PCMB,2025,80.0,Sanskrit,93.0,68.0,27.0,29.0,30.0,37.0,59.0,29.0,,,7
+260066,JFT,Term,1.0,All,82,PCMB,2025,37.0,Sanskrit,59.0,64.0,29.0,43.0,18.0,58.0,32.0,21.0,,,7
+260066,Final Exam,Annual,1.0,All,92,PCMB,2025,63.0,Kannada,91.0,69.0,29.0,46.0,21.0,97.0,59.0,17.0,,,5
+260067,Unit Test,Chapter 1 Test,1.0,English,88,PCMC,2025,51.0,,,,,,,,,,,,10
+260067,Unit Test,Chapter 1 Test,1.0,Language,97,PCMC,2025,,Hindi,58.0,,,,,,,,,,10
+260067,Unit Test,Chapter 1 Test,1.0,Physics,78,PCMC,2025,,,,70.0,24.0,,,,,,,,7
+260067,Unit Test,Chapter 1 Test,1.0,Chemistry,81,PCMC,2025,,,,,,49.0,16.0,,,,,,8
+260067,Unit Test,Chapter 1 Test,1.0,Maths,89,PCMC,2025,,,,,,,,53.0,,,,,6
+260067,Unit Test,Chapter 1 Test,1.0,Computer Science,83,PCMC,2025,,,,,,,,,,,45.0,19.0,7
+260067,Mid Term,Term,1.0,All,100,PCMC,2025,35.0,Sanskrit,100.0,44.0,24.0,59.0,25.0,39.0,,,65.0,17.0,9
+260067,JUT,Term,1.0,All,76,PCMC,2025,83.0,Hindi,47.0,31.0,29.0,64.0,29.0,84.0,,,45.0,16.0,7
+260067,JFT,Term,1.0,All,99,PCMC,2025,47.0,Hindi,80.0,37.0,30.0,38.0,18.0,72.0,,,26.0,30.0,10
+260067,Final Exam,Annual,1.0,All,76,PCMC,2025,61.0,Hindi,58.0,26.0,23.0,43.0,18.0,66.0,,,36.0,20.0,8
+260068,Unit Test,Chapter 1 Test,1.0,English,86,PCMB,2025,52.0,,,,,,,,,,,,9
+260068,Unit Test,Chapter 1 Test,1.0,Language,75,PCMB,2025,,Hindi,69.0,,,,,,,,,,7
+260068,Unit Test,Chapter 1 Test,1.0,Physics,86,PCMB,2025,,,,28.0,19.0,,,,,,,,7
+260068,Unit Test,Chapter 1 Test,1.0,Chemistry,84,PCMB,2025,,,,,,45.0,23.0,,,,,,10
+260068,Unit Test,Chapter 1 Test,1.0,Maths,90,PCMB,2025,,,,,,,,69.0,,,,,7
+260068,Unit Test,Chapter 1 Test,1.0,Biology,93,PCMB,2025,,,,,,,,,37.0,27.0,,,8
+260068,Mid Term,Term,1.0,All,86,PCMB,2025,41.0,Kannada,97.0,65.0,29.0,56.0,30.0,82.0,58.0,21.0,,,5
+260068,JUT,Term,1.0,All,84,PCMB,2025,89.0,Kannada,67.0,40.0,23.0,45.0,25.0,91.0,25.0,27.0,,,9
+260068,JFT,Term,1.0,All,93,PCMB,2025,85.0,Hindi,45.0,70.0,24.0,50.0,24.0,91.0,40.0,15.0,,,10
+260068,Final Exam,Annual,1.0,All,89,PCMB,2025,44.0,Kannada,71.0,60.0,27.0,46.0,26.0,74.0,33.0,26.0,,,7
+260069,Unit Test,Chapter 1 Test,1.0,English,93,PCMC,2025,43.0,,,,,,,,,,,,8
+260069,Unit Test,Chapter 1 Test,1.0,Language,99,PCMC,2025,,Hindi,39.0,,,,,,,,,,6
+260069,Unit Test,Chapter 1 Test,1.0,Physics,97,PCMC,2025,,,,36.0,19.0,,,,,,,,7
+260069,Unit Test,Chapter 1 Test,1.0,Chemistry,85,PCMC,2025,,,,,,38.0,16.0,,,,,,7
+260069,Unit Test,Chapter 1 Test,1.0,Maths,94,PCMC,2025,,,,,,,,50.0,,,,,10
+260069,Unit Test,Chapter 1 Test,1.0,Computer Science,91,PCMC,2025,,,,,,,,,,,70.0,24.0,8
+260069,Mid Term,Term,1.0,All,85,PCMC,2025,61.0,Kannada,78.0,30.0,26.0,53.0,15.0,85.0,,,37.0,23.0,10
+260069,JUT,Term,1.0,All,87,PCMC,2025,61.0,Hindi,77.0,47.0,27.0,28.0,23.0,87.0,,,55.0,23.0,10
+260069,JFT,Term,1.0,All,93,PCMC,2025,97.0,Kannada,39.0,62.0,24.0,39.0,26.0,54.0,,,28.0,17.0,6
+260069,Final Exam,Annual,1.0,All,94,PCMC,2025,68.0,Sanskrit,72.0,38.0,26.0,66.0,15.0,92.0,,,32.0,15.0,6
+260070,Unit Test,Chapter 1 Test,1.0,English,80,PCMB,2025,79.0,,,,,,,,,,,,6
+260070,Unit Test,Chapter 1 Test,1.0,Language,83,PCMB,2025,,Hindi,84.0,,,,,,,,,,6
+260070,Unit Test,Chapter 1 Test,1.0,Physics,92,PCMB,2025,,,,39.0,29.0,,,,,,,,6
+260070,Unit Test,Chapter 1 Test,1.0,Chemistry,100,PCMB,2025,,,,,,47.0,25.0,,,,,,7
+260070,Unit Test,Chapter 1 Test,1.0,Maths,75,PCMB,2025,,,,,,,,74.0,,,,,9
+260070,Unit Test,Chapter 1 Test,1.0,Biology,83,PCMB,2025,,,,,,,,,59.0,27.0,,,7
+260070,Mid Term,Term,1.0,All,74,PCMB,2025,37.0,Kannada,57.0,49.0,19.0,24.0,23.0,66.0,37.0,28.0,,,10
+260070,JUT,Term,1.0,All,97,PCMB,2025,91.0,Hindi,71.0,27.0,20.0,31.0,30.0,81.0,43.0,16.0,,,6
+260070,JFT,Term,1.0,All,80,PCMB,2025,42.0,Sanskrit,99.0,44.0,26.0,43.0,19.0,58.0,55.0,22.0,,,9
+260070,Final Exam,Annual,1.0,All,98,PCMB,2025,50.0,Kannada,67.0,28.0,15.0,44.0,25.0,91.0,29.0,22.0,,,9
+260071,Unit Test,Chapter 1 Test,1.0,English,75,PCMC,2025,53.0,,,,,,,,,,,,10
+260071,Unit Test,Chapter 1 Test,1.0,Language,79,PCMC,2025,,Sanskrit,68.0,,,,,,,,,,10
+260071,Unit Test,Chapter 1 Test,1.0,Physics,75,PCMC,2025,,,,34.0,21.0,,,,,,,,8
+260071,Unit Test,Chapter 1 Test,1.0,Chemistry,76,PCMC,2025,,,,,,24.0,23.0,,,,,,9
+260071,Unit Test,Chapter 1 Test,1.0,Maths,95,PCMC,2025,,,,,,,,95.0,,,,,7
+260071,Unit Test,Chapter 1 Test,1.0,Computer Science,88,PCMC,2025,,,,,,,,,,,49.0,27.0,7
+260071,Mid Term,Term,1.0,All,89,PCMC,2025,56.0,Kannada,91.0,60.0,28.0,70.0,16.0,43.0,,,24.0,22.0,7
+260071,JUT,Term,1.0,All,88,PCMC,2025,47.0,Sanskrit,45.0,28.0,25.0,67.0,17.0,40.0,,,47.0,26.0,6
+260071,JFT,Term,1.0,All,76,PCMC,2025,92.0,Kannada,84.0,24.0,30.0,50.0,16.0,45.0,,,43.0,26.0,8
+260071,Final Exam,Annual,1.0,All,92,PCMC,2025,47.0,Sanskrit,97.0,70.0,24.0,61.0,16.0,38.0,,,41.0,19.0,10
+260072,Unit Test,Chapter 1 Test,1.0,English,97,PCMB,2025,54.0,,,,,,,,,,,,7
+260072,Unit Test,Chapter 1 Test,1.0,Language,98,PCMB,2025,,Kannada,39.0,,,,,,,,,,8
+260072,Unit Test,Chapter 1 Test,1.0,Physics,91,PCMB,2025,,,,29.0,21.0,,,,,,,,10
+260072,Unit Test,Chapter 1 Test,1.0,Chemistry,90,PCMB,2025,,,,,,39.0,16.0,,,,,,9
+260072,Unit Test,Chapter 1 Test,1.0,Maths,86,PCMB,2025,,,,,,,,44.0,,,,,6
+260072,Unit Test,Chapter 1 Test,1.0,Biology,85,PCMB,2025,,,,,,,,,43.0,21.0,,,7
+260072,Mid Term,Term,1.0,All,100,PCMB,2025,64.0,Kannada,91.0,47.0,30.0,66.0,30.0,43.0,50.0,15.0,,,9
+260072,JUT,Term,1.0,All,80,PCMB,2025,95.0,Hindi,81.0,54.0,29.0,60.0,27.0,57.0,69.0,22.0,,,10
+260072,JFT,Term,1.0,All,82,PCMB,2025,89.0,Hindi,91.0,61.0,28.0,70.0,15.0,93.0,59.0,29.0,,,5
+260072,Final Exam,Annual,1.0,All,89,PCMB,2025,39.0,Sanskrit,37.0,56.0,30.0,26.0,30.0,37.0,62.0,29.0,,,9
+260073,Unit Test,Chapter 1 Test,1.0,English,91,PCMC,2025,81.0,,,,,,,,,,,,6
+260073,Unit Test,Chapter 1 Test,1.0,Language,87,PCMC,2025,,Hindi,99.0,,,,,,,,,,10
+260073,Unit Test,Chapter 1 Test,1.0,Physics,97,PCMC,2025,,,,25.0,18.0,,,,,,,,6
+260073,Unit Test,Chapter 1 Test,1.0,Chemistry,76,PCMC,2025,,,,,,39.0,27.0,,,,,,6
+260073,Unit Test,Chapter 1 Test,1.0,Maths,85,PCMC,2025,,,,,,,,45.0,,,,,9
+260073,Unit Test,Chapter 1 Test,1.0,Computer Science,79,PCMC,2025,,,,,,,,,,,55.0,28.0,8
+260073,Mid Term,Term,1.0,All,87,PCMC,2025,39.0,Kannada,83.0,40.0,21.0,43.0,30.0,67.0,,,50.0,27.0,9
+260073,JUT,Term,1.0,All,76,PCMC,2025,39.0,Hindi,81.0,43.0,22.0,47.0,20.0,74.0,,,58.0,25.0,6
+260073,JFT,Term,1.0,All,95,PCMC,2025,98.0,Hindi,75.0,57.0,28.0,50.0,17.0,92.0,,,43.0,23.0,10
+260073,Final Exam,Annual,1.0,All,91,PCMC,2025,47.0,Sanskrit,66.0,49.0,16.0,55.0,22.0,97.0,,,62.0,15.0,6
+260074,Unit Test,Chapter 1 Test,1.0,English,89,PCMB,2025,74.0,,,,,,,,,,,,7
+260074,Unit Test,Chapter 1 Test,1.0,Language,87,PCMB,2025,,Sanskrit,57.0,,,,,,,,,,8
+260074,Unit Test,Chapter 1 Test,1.0,Physics,84,PCMB,2025,,,,68.0,27.0,,,,,,,,7
+260074,Unit Test,Chapter 1 Test,1.0,Chemistry,88,PCMB,2025,,,,,,61.0,16.0,,,,,,6
+260074,Unit Test,Chapter 1 Test,1.0,Maths,78,PCMB,2025,,,,,,,,42.0,,,,,8
+260074,Unit Test,Chapter 1 Test,1.0,Biology,83,PCMB,2025,,,,,,,,,55.0,15.0,,,7
+260074,Mid Term,Term,1.0,All,88,PCMB,2025,63.0,Hindi,41.0,46.0,22.0,59.0,30.0,71.0,51.0,22.0,,,9
+260074,JUT,Term,1.0,All,76,PCMB,2025,74.0,Sanskrit,49.0,42.0,24.0,40.0,16.0,83.0,29.0,16.0,,,7
+260074,JFT,Term,1.0,All,93,PCMB,2025,83.0,Kannada,60.0,33.0,23.0,37.0,16.0,82.0,64.0,21.0,,,9
+260074,Final Exam,Annual,1.0,All,73,PCMB,2025,95.0,Hindi,82.0,69.0,19.0,39.0,19.0,50.0,37.0,16.0,,,5
+260075,Unit Test,Chapter 1 Test,1.0,English,99,PCMC,2025,60.0,,,,,,,,,,,,8
+260075,Unit Test,Chapter 1 Test,1.0,Language,79,PCMC,2025,,Sanskrit,88.0,,,,,,,,,,8
+260075,Unit Test,Chapter 1 Test,1.0,Physics,94,PCMC,2025,,,,50.0,15.0,,,,,,,,9
+260075,Unit Test,Chapter 1 Test,1.0,Chemistry,89,PCMC,2025,,,,,,68.0,21.0,,,,,,10
+260075,Unit Test,Chapter 1 Test,1.0,Maths,96,PCMC,2025,,,,,,,,41.0,,,,,9
+260075,Unit Test,Chapter 1 Test,1.0,Computer Science,100,PCMC,2025,,,,,,,,,,,36.0,16.0,10
+260075,Mid Term,Term,1.0,All,89,PCMC,2025,91.0,Hindi,61.0,58.0,22.0,45.0,19.0,48.0,,,38.0,27.0,8
+260075,JUT,Term,1.0,All,70,PCMC,2025,97.0,Sanskrit,88.0,37.0,21.0,54.0,17.0,35.0,,,27.0,22.0,9
+260075,JFT,Term,1.0,All,75,PCMC,2025,88.0,Sanskrit,79.0,45.0,26.0,65.0,30.0,47.0,,,68.0,28.0,8
+260075,Final Exam,Annual,1.0,All,76,PCMC,2025,63.0,Kannada,72.0,70.0,23.0,51.0,25.0,46.0,,,55.0,15.0,7
+260076,Unit Test,Chapter 1 Test,1.0,English,93,PCMC,2025,78.0,,,,,,,,,,,,9
+260076,Unit Test,Chapter 1 Test,1.0,Language,78,PCMC,2025,,Hindi,43.0,,,,,,,,,,6
+260076,Unit Test,Chapter 1 Test,1.0,Physics,83,PCMC,2025,,,,48.0,24.0,,,,,,,,8
+260076,Unit Test,Chapter 1 Test,1.0,Chemistry,95,PCMC,2025,,,,,,49.0,30.0,,,,,,6
+260076,Unit Test,Chapter 1 Test,1.0,Maths,75,PCMC,2025,,,,,,,,97.0,,,,,6
+260076,Unit Test,Chapter 1 Test,1.0,Computer Science,79,PCMC,2025,,,,,,,,,,,38.0,15.0,8
+260076,Mid Term,Term,1.0,All,72,PCMC,2025,53.0,Sanskrit,38.0,27.0,21.0,45.0,18.0,48.0,,,55.0,15.0,6
+260076,JUT,Term,1.0,All,76,PCMC,2025,43.0,Sanskrit,84.0,65.0,17.0,68.0,15.0,95.0,,,26.0,17.0,9
+260076,JFT,Term,1.0,All,90,PCMC,2025,95.0,Kannada,83.0,41.0,20.0,25.0,23.0,96.0,,,36.0,24.0,6
+260076,Final Exam,Annual,1.0,All,70,PCMC,2025,47.0,Kannada,61.0,26.0,24.0,53.0,23.0,98.0,,,58.0,16.0,7
+260077,Unit Test,Chapter 1 Test,1.0,English,90,PCMC,2025,39.0,,,,,,,,,,,,7
+260077,Unit Test,Chapter 1 Test,1.0,Language,98,PCMC,2025,,Kannada,43.0,,,,,,,,,,8
+260077,Unit Test,Chapter 1 Test,1.0,Physics,90,PCMC,2025,,,,30.0,18.0,,,,,,,,9
+260077,Unit Test,Chapter 1 Test,1.0,Chemistry,83,PCMC,2025,,,,,,29.0,22.0,,,,,,7
+260077,Unit Test,Chapter 1 Test,1.0,Maths,89,PCMC,2025,,,,,,,,66.0,,,,,6
+260077,Unit Test,Chapter 1 Test,1.0,Computer Science,95,PCMC,2025,,,,,,,,,,,45.0,19.0,7
+260077,Mid Term,Term,1.0,All,80,PCMC,2025,48.0,Sanskrit,89.0,39.0,23.0,63.0,29.0,82.0,,,33.0,20.0,5
+260077,JUT,Term,1.0,All,96,PCMC,2025,54.0,Sanskrit,77.0,33.0,28.0,47.0,15.0,67.0,,,66.0,24.0,8
+260077,JFT,Term,1.0,All,84,PCMC,2025,56.0,Kannada,50.0,35.0,27.0,32.0,27.0,82.0,,,57.0,22.0,8
+260077,Final Exam,Annual,1.0,All,84,PCMC,2025,72.0,Kannada,82.0,37.0,18.0,41.0,21.0,51.0,,,50.0,29.0,9
+260078,Unit Test,Chapter 1 Test,1.0,English,96,PCMB,2025,70.0,,,,,,,,,,,,6
+260078,Unit Test,Chapter 1 Test,1.0,Language,77,PCMB,2025,,Kannada,56.0,,,,,,,,,,7
+260078,Unit Test,Chapter 1 Test,1.0,Physics,90,PCMB,2025,,,,29.0,20.0,,,,,,,,8
+260078,Unit Test,Chapter 1 Test,1.0,Chemistry,92,PCMB,2025,,,,,,48.0,21.0,,,,,,9
+260078,Unit Test,Chapter 1 Test,1.0,Maths,78,PCMB,2025,,,,,,,,64.0,,,,,8
+260078,Unit Test,Chapter 1 Test,1.0,Biology,90,PCMB,2025,,,,,,,,,60.0,25.0,,,7
+260078,Mid Term,Term,1.0,All,84,PCMB,2025,35.0,Hindi,93.0,30.0,30.0,53.0,21.0,42.0,38.0,27.0,,,8
+260078,JUT,Term,1.0,All,83,PCMB,2025,99.0,Kannada,76.0,35.0,19.0,54.0,16.0,86.0,61.0,18.0,,,7
+260078,JFT,Term,1.0,All,92,PCMB,2025,43.0,Sanskrit,45.0,68.0,19.0,30.0,23.0,56.0,26.0,21.0,,,5
+260078,Final Exam,Annual,1.0,All,93,PCMB,2025,79.0,Kannada,46.0,45.0,25.0,39.0,23.0,45.0,46.0,29.0,,,8
+260079,Unit Test,Chapter 1 Test,1.0,English,94,PCMC,2025,99.0,,,,,,,,,,,,7
+260079,Unit Test,Chapter 1 Test,1.0,Language,92,PCMC,2025,,Sanskrit,76.0,,,,,,,,,,7
+260079,Unit Test,Chapter 1 Test,1.0,Physics,76,PCMC,2025,,,,24.0,24.0,,,,,,,,10
+260079,Unit Test,Chapter 1 Test,1.0,Chemistry,100,PCMC,2025,,,,,,69.0,29.0,,,,,,8
+260079,Unit Test,Chapter 1 Test,1.0,Maths,86,PCMC,2025,,,,,,,,71.0,,,,,7
+260079,Unit Test,Chapter 1 Test,1.0,Computer Science,83,PCMC,2025,,,,,,,,,,,28.0,26.0,6
+260079,Mid Term,Term,1.0,All,75,PCMC,2025,80.0,Kannada,79.0,63.0,30.0,31.0,20.0,46.0,,,52.0,16.0,5
+260079,JUT,Term,1.0,All,76,PCMC,2025,52.0,Hindi,62.0,68.0,26.0,51.0,18.0,49.0,,,33.0,30.0,5
+260079,JFT,Term,1.0,All,98,PCMC,2025,82.0,Hindi,80.0,54.0,28.0,34.0,21.0,78.0,,,34.0,18.0,10
+260079,Final Exam,Annual,1.0,All,81,PCMC,2025,77.0,Hindi,54.0,30.0,19.0,49.0,26.0,38.0,,,58.0,26.0,8
+260080,Unit Test,Chapter 1 Test,1.0,English,87,PCMC,2025,82.0,,,,,,,,,,,,8
+260080,Unit Test,Chapter 1 Test,1.0,Language,100,PCMC,2025,,Kannada,91.0,,,,,,,,,,7
+260080,Unit Test,Chapter 1 Test,1.0,Physics,77,PCMC,2025,,,,47.0,21.0,,,,,,,,6
+260080,Unit Test,Chapter 1 Test,1.0,Chemistry,80,PCMC,2025,,,,,,67.0,23.0,,,,,,9
+260080,Unit Test,Chapter 1 Test,1.0,Maths,93,PCMC,2025,,,,,,,,89.0,,,,,7
+260080,Unit Test,Chapter 1 Test,1.0,Computer Science,96,PCMC,2025,,,,,,,,,,,35.0,18.0,7
+260080,Mid Term,Term,1.0,All,96,PCMC,2025,96.0,Kannada,37.0,51.0,26.0,47.0,27.0,86.0,,,61.0,29.0,5
+260080,JUT,Term,1.0,All,82,PCMC,2025,97.0,Hindi,58.0,49.0,27.0,33.0,27.0,76.0,,,24.0,28.0,5
+260080,JFT,Term,1.0,All,90,PCMC,2025,45.0,Kannada,74.0,57.0,25.0,63.0,29.0,56.0,,,59.0,19.0,6
+260080,Final Exam,Annual,1.0,All,83,PCMC,2025,98.0,Hindi,100.0,31.0,15.0,35.0,21.0,84.0,,,66.0,27.0,5
+260081,Unit Test,Chapter 1 Test,1.0,English,94,PCMB,2025,51.0,,,,,,,,,,,,10
+260081,Unit Test,Chapter 1 Test,1.0,Language,85,PCMB,2025,,Hindi,62.0,,,,,,,,,,7
+260081,Unit Test,Chapter 1 Test,1.0,Physics,82,PCMB,2025,,,,50.0,16.0,,,,,,,,9
+260081,Unit Test,Chapter 1 Test,1.0,Chemistry,75,PCMB,2025,,,,,,40.0,23.0,,,,,,6
+260081,Unit Test,Chapter 1 Test,1.0,Maths,97,PCMB,2025,,,,,,,,89.0,,,,,10
+260081,Unit Test,Chapter 1 Test,1.0,Biology,80,PCMB,2025,,,,,,,,,25.0,23.0,,,7
+260081,Mid Term,Term,1.0,All,93,PCMB,2025,80.0,Sanskrit,79.0,65.0,30.0,29.0,23.0,82.0,44.0,30.0,,,9
+260081,JUT,Term,1.0,All,79,PCMB,2025,81.0,Sanskrit,78.0,41.0,19.0,56.0,16.0,95.0,63.0,20.0,,,5
+260081,JFT,Term,1.0,All,71,PCMB,2025,61.0,Sanskrit,90.0,59.0,27.0,63.0,26.0,85.0,35.0,24.0,,,9
+260081,Final Exam,Annual,1.0,All,85,PCMB,2025,57.0,Sanskrit,86.0,40.0,27.0,54.0,21.0,88.0,43.0,27.0,,,6
+260082,Unit Test,Chapter 1 Test,1.0,English,92,PCMC,2025,62.0,,,,,,,,,,,,7
+260082,Unit Test,Chapter 1 Test,1.0,Language,86,PCMC,2025,,Sanskrit,68.0,,,,,,,,,,10
+260082,Unit Test,Chapter 1 Test,1.0,Physics,100,PCMC,2025,,,,35.0,22.0,,,,,,,,6
+260082,Unit Test,Chapter 1 Test,1.0,Chemistry,99,PCMC,2025,,,,,,60.0,18.0,,,,,,6
+260082,Unit Test,Chapter 1 Test,1.0,Maths,78,PCMC,2025,,,,,,,,80.0,,,,,9
+260082,Unit Test,Chapter 1 Test,1.0,Computer Science,93,PCMC,2025,,,,,,,,,,,44.0,27.0,8
+260082,Mid Term,Term,1.0,All,90,PCMC,2025,67.0,Sanskrit,73.0,51.0,18.0,29.0,24.0,81.0,,,30.0,19.0,9
+260082,JUT,Term,1.0,All,73,PCMC,2025,83.0,Kannada,59.0,61.0,15.0,51.0,17.0,60.0,,,64.0,29.0,5
+260082,JFT,Term,1.0,All,93,PCMC,2025,69.0,Sanskrit,36.0,42.0,15.0,47.0,26.0,99.0,,,43.0,25.0,8
+260082,Final Exam,Annual,1.0,All,80,PCMC,2025,63.0,Hindi,71.0,52.0,30.0,24.0,25.0,90.0,,,26.0,21.0,6
+260083,Unit Test,Chapter 1 Test,1.0,English,84,PCMC,2025,37.0,,,,,,,,,,,,7
+260083,Unit Test,Chapter 1 Test,1.0,Language,78,PCMC,2025,,Hindi,49.0,,,,,,,,,,8
+260083,Unit Test,Chapter 1 Test,1.0,Physics,80,PCMC,2025,,,,50.0,27.0,,,,,,,,7
+260083,Unit Test,Chapter 1 Test,1.0,Chemistry,96,PCMC,2025,,,,,,36.0,29.0,,,,,,6
+260083,Unit Test,Chapter 1 Test,1.0,Maths,100,PCMC,2025,,,,,,,,37.0,,,,,6
+260083,Unit Test,Chapter 1 Test,1.0,Computer Science,77,PCMC,2025,,,,,,,,,,,46.0,18.0,10
+260083,Mid Term,Term,1.0,All,93,PCMC,2025,70.0,Sanskrit,66.0,46.0,28.0,24.0,24.0,100.0,,,66.0,26.0,7
+260083,JUT,Term,1.0,All,70,PCMC,2025,46.0,Sanskrit,59.0,57.0,29.0,61.0,24.0,63.0,,,67.0,23.0,5
+260083,JFT,Term,1.0,All,70,PCMC,2025,63.0,Sanskrit,49.0,57.0,20.0,38.0,27.0,98.0,,,65.0,28.0,10
+260083,Final Exam,Annual,1.0,All,87,PCMC,2025,62.0,Kannada,35.0,57.0,23.0,68.0,23.0,42.0,,,66.0,18.0,9
+260084,Unit Test,Chapter 1 Test,1.0,English,83,PCMB,2025,39.0,,,,,,,,,,,,8
+260084,Unit Test,Chapter 1 Test,1.0,Language,89,PCMB,2025,,Kannada,78.0,,,,,,,,,,9
+260084,Unit Test,Chapter 1 Test,1.0,Physics,98,PCMB,2025,,,,29.0,17.0,,,,,,,,10
+260084,Unit Test,Chapter 1 Test,1.0,Chemistry,85,PCMB,2025,,,,,,53.0,18.0,,,,,,6
+260084,Unit Test,Chapter 1 Test,1.0,Maths,91,PCMB,2025,,,,,,,,84.0,,,,,7
+260084,Unit Test,Chapter 1 Test,1.0,Biology,99,PCMB,2025,,,,,,,,,36.0,15.0,,,8
+260084,Mid Term,Term,1.0,All,96,PCMB,2025,41.0,Kannada,44.0,62.0,23.0,35.0,18.0,48.0,68.0,26.0,,,5
+260084,JUT,Term,1.0,All,92,PCMB,2025,48.0,Kannada,55.0,70.0,23.0,70.0,20.0,88.0,53.0,22.0,,,8
+260084,JFT,Term,1.0,All,86,PCMB,2025,71.0,Hindi,63.0,36.0,19.0,28.0,21.0,86.0,27.0,24.0,,,7
+260084,Final Exam,Annual,1.0,All,100,PCMB,2025,51.0,Hindi,93.0,39.0,28.0,34.0,21.0,35.0,25.0,17.0,,,5
+260085,Unit Test,Chapter 1 Test,1.0,English,83,PCMC,2025,98.0,,,,,,,,,,,,8
+260085,Unit Test,Chapter 1 Test,1.0,Language,88,PCMC,2025,,Sanskrit,53.0,,,,,,,,,,9
+260085,Unit Test,Chapter 1 Test,1.0,Physics,76,PCMC,2025,,,,53.0,19.0,,,,,,,,6
+260085,Unit Test,Chapter 1 Test,1.0,Chemistry,77,PCMC,2025,,,,,,69.0,28.0,,,,,,6
+260085,Unit Test,Chapter 1 Test,1.0,Maths,88,PCMC,2025,,,,,,,,83.0,,,,,7
+260085,Unit Test,Chapter 1 Test,1.0,Computer Science,84,PCMC,2025,,,,,,,,,,,46.0,30.0,9
+260085,Mid Term,Term,1.0,All,73,PCMC,2025,100.0,Hindi,37.0,39.0,22.0,65.0,16.0,70.0,,,61.0,17.0,7
+260085,JUT,Term,1.0,All,91,PCMC,2025,57.0,Sanskrit,62.0,56.0,21.0,60.0,28.0,46.0,,,68.0,23.0,8
+260085,JFT,Term,1.0,All,70,PCMC,2025,67.0,Kannada,84.0,53.0,29.0,54.0,17.0,43.0,,,64.0,20.0,7
+260085,Final Exam,Annual,1.0,All,96,PCMC,2025,89.0,Hindi,36.0,63.0,30.0,55.0,15.0,41.0,,,68.0,27.0,7
+260086,Unit Test,Chapter 1 Test,1.0,English,78,PCMC,2025,48.0,,,,,,,,,,,,6
+260086,Unit Test,Chapter 1 Test,1.0,Language,83,PCMC,2025,,Kannada,79.0,,,,,,,,,,9
+260086,Unit Test,Chapter 1 Test,1.0,Physics,81,PCMC,2025,,,,50.0,20.0,,,,,,,,6
+260086,Unit Test,Chapter 1 Test,1.0,Chemistry,83,PCMC,2025,,,,,,61.0,25.0,,,,,,10
+260086,Unit Test,Chapter 1 Test,1.0,Maths,76,PCMC,2025,,,,,,,,52.0,,,,,8
+260086,Unit Test,Chapter 1 Test,1.0,Computer Science,81,PCMC,2025,,,,,,,,,,,47.0,21.0,7
+260086,Mid Term,Term,1.0,All,97,PCMC,2025,56.0,Hindi,79.0,59.0,16.0,28.0,15.0,38.0,,,66.0,18.0,5
+260086,JUT,Term,1.0,All,78,PCMC,2025,91.0,Kannada,39.0,55.0,30.0,63.0,28.0,49.0,,,27.0,25.0,6
+260086,JFT,Term,1.0,All,95,PCMC,2025,58.0,Sanskrit,93.0,64.0,30.0,49.0,22.0,76.0,,,65.0,21.0,7
+260086,Final Exam,Annual,1.0,All,77,PCMC,2025,60.0,Kannada,52.0,63.0,29.0,29.0,19.0,77.0,,,32.0,23.0,9
+260087,Unit Test,Chapter 1 Test,1.0,English,98,PCMB,2025,46.0,,,,,,,,,,,,8
+260087,Unit Test,Chapter 1 Test,1.0,Language,95,PCMB,2025,,Kannada,77.0,,,,,,,,,,9
+260087,Unit Test,Chapter 1 Test,1.0,Physics,95,PCMB,2025,,,,59.0,24.0,,,,,,,,8
+260087,Unit Test,Chapter 1 Test,1.0,Chemistry,75,PCMB,2025,,,,,,27.0,29.0,,,,,,9
+260087,Unit Test,Chapter 1 Test,1.0,Maths,80,PCMB,2025,,,,,,,,61.0,,,,,6
+260087,Unit Test,Chapter 1 Test,1.0,Biology,86,PCMB,2025,,,,,,,,,24.0,23.0,,,9
+260087,Mid Term,Term,1.0,All,77,PCMB,2025,78.0,Hindi,80.0,39.0,18.0,54.0,24.0,99.0,27.0,16.0,,,7
+260087,JUT,Term,1.0,All,88,PCMB,2025,36.0,Sanskrit,41.0,53.0,27.0,58.0,20.0,35.0,47.0,23.0,,,7
+260087,JFT,Term,1.0,All,71,PCMB,2025,87.0,Hindi,97.0,27.0,17.0,34.0,18.0,99.0,59.0,20.0,,,6
+260087,Final Exam,Annual,1.0,All,79,PCMB,2025,52.0,Kannada,98.0,67.0,16.0,33.0,16.0,61.0,25.0,26.0,,,6
+260088,Unit Test,Chapter 1 Test,1.0,English,94,PCMB,2025,98.0,,,,,,,,,,,,6
+260088,Unit Test,Chapter 1 Test,1.0,Language,80,PCMB,2025,,Sanskrit,97.0,,,,,,,,,,10
+260088,Unit Test,Chapter 1 Test,1.0,Physics,93,PCMB,2025,,,,36.0,15.0,,,,,,,,7
+260088,Unit Test,Chapter 1 Test,1.0,Chemistry,77,PCMB,2025,,,,,,42.0,15.0,,,,,,7
+260088,Unit Test,Chapter 1 Test,1.0,Maths,88,PCMB,2025,,,,,,,,63.0,,,,,9
+260088,Unit Test,Chapter 1 Test,1.0,Biology,97,PCMB,2025,,,,,,,,,68.0,18.0,,,8
+260088,Mid Term,Term,1.0,All,87,PCMB,2025,84.0,Sanskrit,46.0,43.0,25.0,67.0,17.0,92.0,67.0,17.0,,,10
+260088,JUT,Term,1.0,All,86,PCMB,2025,67.0,Sanskrit,63.0,43.0,26.0,52.0,25.0,47.0,67.0,27.0,,,5
+260088,JFT,Term,1.0,All,75,PCMB,2025,53.0,Kannada,76.0,61.0,16.0,65.0,24.0,69.0,46.0,18.0,,,8
+260088,Final Exam,Annual,1.0,All,76,PCMB,2025,81.0,Sanskrit,52.0,33.0,29.0,34.0,16.0,42.0,67.0,24.0,,,6
+260089,Unit Test,Chapter 1 Test,1.0,English,83,PCMC,2025,97.0,,,,,,,,,,,,8
+260089,Unit Test,Chapter 1 Test,1.0,Language,97,PCMC,2025,,Kannada,60.0,,,,,,,,,,10
+260089,Unit Test,Chapter 1 Test,1.0,Physics,79,PCMC,2025,,,,59.0,19.0,,,,,,,,10
+260089,Unit Test,Chapter 1 Test,1.0,Chemistry,92,PCMC,2025,,,,,,51.0,17.0,,,,,,8
+260089,Unit Test,Chapter 1 Test,1.0,Maths,76,PCMC,2025,,,,,,,,92.0,,,,,7
+260089,Unit Test,Chapter 1 Test,1.0,Computer Science,79,PCMC,2025,,,,,,,,,,,60.0,22.0,8
+260089,Mid Term,Term,1.0,All,92,PCMC,2025,99.0,Kannada,58.0,43.0,26.0,68.0,20.0,53.0,,,32.0,21.0,6
+260089,JUT,Term,1.0,All,84,PCMC,2025,85.0,Hindi,96.0,38.0,19.0,67.0,22.0,70.0,,,42.0,15.0,9
+260089,JFT,Term,1.0,All,71,PCMC,2025,96.0,Hindi,80.0,32.0,30.0,38.0,26.0,60.0,,,48.0,26.0,8
+260089,Final Exam,Annual,1.0,All,86,PCMC,2025,71.0,Hindi,80.0,34.0,15.0,49.0,21.0,36.0,,,46.0,19.0,5
+260090,Unit Test,Chapter 1 Test,1.0,English,91,PCMC,2025,51.0,,,,,,,,,,,,10
+260090,Unit Test,Chapter 1 Test,1.0,Language,85,PCMC,2025,,Kannada,46.0,,,,,,,,,,8
+260090,Unit Test,Chapter 1 Test,1.0,Physics,77,PCMC,2025,,,,39.0,19.0,,,,,,,,7
+260090,Unit Test,Chapter 1 Test,1.0,Chemistry,99,PCMC,2025,,,,,,54.0,23.0,,,,,,7
+260090,Unit Test,Chapter 1 Test,1.0,Maths,88,PCMC,2025,,,,,,,,56.0,,,,,6
+260090,Unit Test,Chapter 1 Test,1.0,Computer Science,76,PCMC,2025,,,,,,,,,,,40.0,30.0,7
+260090,Mid Term,Term,1.0,All,92,PCMC,2025,98.0,Hindi,40.0,59.0,23.0,57.0,23.0,40.0,,,56.0,15.0,7
+260090,JUT,Term,1.0,All,97,PCMC,2025,98.0,Kannada,54.0,46.0,30.0,66.0,27.0,73.0,,,56.0,30.0,5
+260090,JFT,Term,1.0,All,70,PCMC,2025,93.0,Sanskrit,98.0,46.0,25.0,55.0,25.0,86.0,,,60.0,19.0,10
+260090,Final Exam,Annual,1.0,All,81,PCMC,2025,42.0,Sanskrit,69.0,29.0,21.0,54.0,22.0,38.0,,,70.0,23.0,10
+260091,Unit Test,Chapter 1 Test,1.0,English,84,PCMC,2025,65.0,,,,,,,,,,,,9
+260091,Unit Test,Chapter 1 Test,1.0,Language,94,PCMC,2025,,Hindi,42.0,,,,,,,,,,7
+260091,Unit Test,Chapter 1 Test,1.0,Physics,80,PCMC,2025,,,,38.0,20.0,,,,,,,,7
+260091,Unit Test,Chapter 1 Test,1.0,Chemistry,77,PCMC,2025,,,,,,66.0,25.0,,,,,,7
+260091,Unit Test,Chapter 1 Test,1.0,Maths,76,PCMC,2025,,,,,,,,78.0,,,,,9
+260091,Unit Test,Chapter 1 Test,1.0,Computer Science,99,PCMC,2025,,,,,,,,,,,70.0,27.0,7
+260091,Mid Term,Term,1.0,All,82,PCMC,2025,54.0,Kannada,83.0,55.0,28.0,66.0,18.0,39.0,,,48.0,18.0,10
+260091,JUT,Term,1.0,All,91,PCMC,2025,69.0,Kannada,48.0,47.0,24.0,40.0,15.0,64.0,,,57.0,24.0,5
+260091,JFT,Term,1.0,All,75,PCMC,2025,43.0,Sanskrit,69.0,42.0,30.0,63.0,26.0,57.0,,,39.0,21.0,7
+260091,Final Exam,Annual,1.0,All,70,PCMC,2025,99.0,Hindi,53.0,41.0,21.0,26.0,20.0,91.0,,,62.0,19.0,6
+260092,Unit Test,Chapter 1 Test,1.0,English,77,PCMC,2025,85.0,,,,,,,,,,,,9
+260092,Unit Test,Chapter 1 Test,1.0,Language,79,PCMC,2025,,Sanskrit,40.0,,,,,,,,,,8
+260092,Unit Test,Chapter 1 Test,1.0,Physics,78,PCMC,2025,,,,66.0,16.0,,,,,,,,6
+260092,Unit Test,Chapter 1 Test,1.0,Chemistry,89,PCMC,2025,,,,,,46.0,26.0,,,,,,7
+260092,Unit Test,Chapter 1 Test,1.0,Maths,76,PCMC,2025,,,,,,,,69.0,,,,,10
+260092,Unit Test,Chapter 1 Test,1.0,Computer Science,96,PCMC,2025,,,,,,,,,,,36.0,22.0,7
+260092,Mid Term,Term,1.0,All,95,PCMC,2025,91.0,Sanskrit,82.0,33.0,22.0,46.0,29.0,78.0,,,37.0,22.0,9
+260092,JUT,Term,1.0,All,84,PCMC,2025,85.0,Hindi,85.0,48.0,20.0,31.0,27.0,94.0,,,60.0,20.0,8
+260092,JFT,Term,1.0,All,88,PCMC,2025,84.0,Kannada,48.0,33.0,16.0,35.0,20.0,98.0,,,24.0,29.0,6
+260092,Final Exam,Annual,1.0,All,80,PCMC,2025,44.0,Sanskrit,99.0,56.0,26.0,43.0,30.0,41.0,,,37.0,23.0,5
+260093,Unit Test,Chapter 1 Test,1.0,English,75,PCMC,2025,55.0,,,,,,,,,,,,8
+260093,Unit Test,Chapter 1 Test,1.0,Language,84,PCMC,2025,,Kannada,76.0,,,,,,,,,,6
+260093,Unit Test,Chapter 1 Test,1.0,Physics,94,PCMC,2025,,,,70.0,21.0,,,,,,,,9
+260093,Unit Test,Chapter 1 Test,1.0,Chemistry,85,PCMC,2025,,,,,,62.0,29.0,,,,,,10
+260093,Unit Test,Chapter 1 Test,1.0,Maths,94,PCMC,2025,,,,,,,,92.0,,,,,10
+260093,Unit Test,Chapter 1 Test,1.0,Computer Science,91,PCMC,2025,,,,,,,,,,,52.0,22.0,10
+260093,Mid Term,Term,1.0,All,97,PCMC,2025,57.0,Sanskrit,94.0,57.0,20.0,53.0,20.0,39.0,,,46.0,19.0,6
+260093,JUT,Term,1.0,All,77,PCMC,2025,90.0,Kannada,81.0,51.0,21.0,48.0,22.0,79.0,,,29.0,30.0,8
+260093,JFT,Term,1.0,All,84,PCMC,2025,39.0,Hindi,84.0,26.0,19.0,51.0,29.0,49.0,,,60.0,29.0,6
+260093,Final Exam,Annual,1.0,All,92,PCMC,2025,78.0,Sanskrit,94.0,64.0,27.0,70.0,30.0,71.0,,,27.0,19.0,6
+260094,Unit Test,Chapter 1 Test,1.0,English,89,PCMC,2025,83.0,,,,,,,,,,,,8
+260094,Unit Test,Chapter 1 Test,1.0,Language,76,PCMC,2025,,Hindi,63.0,,,,,,,,,,10
+260094,Unit Test,Chapter 1 Test,1.0,Physics,98,PCMC,2025,,,,30.0,15.0,,,,,,,,7
+260094,Unit Test,Chapter 1 Test,1.0,Chemistry,86,PCMC,2025,,,,,,32.0,30.0,,,,,,8
+260094,Unit Test,Chapter 1 Test,1.0,Maths,100,PCMC,2025,,,,,,,,86.0,,,,,7
+260094,Unit Test,Chapter 1 Test,1.0,Computer Science,82,PCMC,2025,,,,,,,,,,,31.0,27.0,10
+260094,Mid Term,Term,1.0,All,82,PCMC,2025,74.0,Kannada,48.0,70.0,26.0,38.0,26.0,74.0,,,61.0,28.0,10
+260094,JUT,Term,1.0,All,95,PCMC,2025,81.0,Sanskrit,68.0,27.0,29.0,67.0,24.0,54.0,,,50.0,22.0,9
+260094,JFT,Term,1.0,All,88,PCMC,2025,82.0,Hindi,40.0,46.0,20.0,31.0,28.0,39.0,,,49.0,27.0,8
+260094,Final Exam,Annual,1.0,All,95,PCMC,2025,89.0,Kannada,39.0,55.0,17.0,60.0,18.0,54.0,,,56.0,27.0,8
+260095,Unit Test,Chapter 1 Test,1.0,English,80,PCMC,2025,92.0,,,,,,,,,,,,8
+260095,Unit Test,Chapter 1 Test,1.0,Language,96,PCMC,2025,,Hindi,60.0,,,,,,,,,,8
+260095,Unit Test,Chapter 1 Test,1.0,Physics,92,PCMC,2025,,,,39.0,23.0,,,,,,,,9
+260095,Unit Test,Chapter 1 Test,1.0,Chemistry,81,PCMC,2025,,,,,,67.0,15.0,,,,,,8
+260095,Unit Test,Chapter 1 Test,1.0,Maths,90,PCMC,2025,,,,,,,,76.0,,,,,6
+260095,Unit Test,Chapter 1 Test,1.0,Computer Science,80,PCMC,2025,,,,,,,,,,,35.0,18.0,9
+260095,Mid Term,Term,1.0,All,81,PCMC,2025,86.0,Hindi,60.0,26.0,15.0,51.0,27.0,66.0,,,40.0,23.0,5
+260095,JUT,Term,1.0,All,86,PCMC,2025,98.0,Sanskrit,82.0,55.0,24.0,70.0,24.0,61.0,,,63.0,17.0,9
+260095,JFT,Term,1.0,All,98,PCMC,2025,56.0,Hindi,84.0,50.0,30.0,54.0,26.0,78.0,,,34.0,27.0,6
+260095,Final Exam,Annual,1.0,All,81,PCMC,2025,42.0,Sanskrit,62.0,33.0,16.0,53.0,25.0,44.0,,,60.0,19.0,9
+260096,Unit Test,Chapter 1 Test,1.0,English,96,PCMC,2025,36.0,,,,,,,,,,,,9
+260096,Unit Test,Chapter 1 Test,1.0,Language,83,PCMC,2025,,Sanskrit,80.0,,,,,,,,,,6
+260096,Unit Test,Chapter 1 Test,1.0,Physics,85,PCMC,2025,,,,42.0,20.0,,,,,,,,8
+260096,Unit Test,Chapter 1 Test,1.0,Chemistry,95,PCMC,2025,,,,,,66.0,20.0,,,,,,8
+260096,Unit Test,Chapter 1 Test,1.0,Maths,80,PCMC,2025,,,,,,,,75.0,,,,,8
+260096,Unit Test,Chapter 1 Test,1.0,Computer Science,79,PCMC,2025,,,,,,,,,,,70.0,29.0,6
+260096,Mid Term,Term,1.0,All,84,PCMC,2025,46.0,Kannada,41.0,53.0,16.0,48.0,26.0,83.0,,,49.0,19.0,7
+260096,JUT,Term,1.0,All,71,PCMC,2025,97.0,Sanskrit,68.0,28.0,25.0,34.0,23.0,51.0,,,63.0,17.0,9
+260096,JFT,Term,1.0,All,95,PCMC,2025,50.0,Sanskrit,37.0,39.0,20.0,70.0,21.0,39.0,,,28.0,29.0,5
+260096,Final Exam,Annual,1.0,All,77,PCMC,2025,74.0,Sanskrit,36.0,38.0,28.0,62.0,18.0,75.0,,,44.0,15.0,10
+260097,Unit Test,Chapter 1 Test,1.0,English,76,PCMC,2025,74.0,,,,,,,,,,,,10
+260097,Unit Test,Chapter 1 Test,1.0,Language,85,PCMC,2025,,Hindi,66.0,,,,,,,,,,6
+260097,Unit Test,Chapter 1 Test,1.0,Physics,89,PCMC,2025,,,,51.0,18.0,,,,,,,,9
+260097,Unit Test,Chapter 1 Test,1.0,Chemistry,75,PCMC,2025,,,,,,28.0,30.0,,,,,,8
+260097,Unit Test,Chapter 1 Test,1.0,Maths,85,PCMC,2025,,,,,,,,89.0,,,,,7
+260097,Unit Test,Chapter 1 Test,1.0,Computer Science,85,PCMC,2025,,,,,,,,,,,51.0,21.0,6
+260097,Mid Term,Term,1.0,All,87,PCMC,2025,44.0,Kannada,87.0,47.0,19.0,36.0,16.0,70.0,,,40.0,21.0,7
+260097,JUT,Term,1.0,All,79,PCMC,2025,45.0,Kannada,80.0,25.0,16.0,31.0,26.0,83.0,,,54.0,19.0,8
+260097,JFT,Term,1.0,All,83,PCMC,2025,68.0,Kannada,83.0,48.0,15.0,58.0,20.0,80.0,,,59.0,17.0,5
+260097,Final Exam,Annual,1.0,All,80,PCMC,2025,40.0,Kannada,64.0,30.0,18.0,31.0,16.0,98.0,,,53.0,27.0,6
+260098,Unit Test,Chapter 1 Test,1.0,English,79,PCMB,2025,74.0,,,,,,,,,,,,7
+260098,Unit Test,Chapter 1 Test,1.0,Language,82,PCMB,2025,,Sanskrit,41.0,,,,,,,,,,6
+260098,Unit Test,Chapter 1 Test,1.0,Physics,98,PCMB,2025,,,,32.0,24.0,,,,,,,,8
+260098,Unit Test,Chapter 1 Test,1.0,Chemistry,92,PCMB,2025,,,,,,45.0,18.0,,,,,,9
+260098,Unit Test,Chapter 1 Test,1.0,Maths,84,PCMB,2025,,,,,,,,41.0,,,,,8
+260098,Unit Test,Chapter 1 Test,1.0,Biology,90,PCMB,2025,,,,,,,,,69.0,16.0,,,6
+260098,Mid Term,Term,1.0,All,74,PCMB,2025,68.0,Hindi,70.0,37.0,30.0,58.0,28.0,61.0,43.0,28.0,,,9
+260098,JUT,Term,1.0,All,75,PCMB,2025,41.0,Kannada,55.0,46.0,29.0,57.0,24.0,82.0,67.0,30.0,,,7
+260098,JFT,Term,1.0,All,88,PCMB,2025,64.0,Sanskrit,86.0,45.0,21.0,51.0,15.0,44.0,55.0,30.0,,,6
+260098,Final Exam,Annual,1.0,All,89,PCMB,2025,50.0,Hindi,75.0,69.0,19.0,35.0,20.0,85.0,24.0,19.0,,,5
+260099,Unit Test,Chapter 1 Test,1.0,English,97,PCMC,2025,39.0,,,,,,,,,,,,9
+260099,Unit Test,Chapter 1 Test,1.0,Language,79,PCMC,2025,,Sanskrit,47.0,,,,,,,,,,7
+260099,Unit Test,Chapter 1 Test,1.0,Physics,79,PCMC,2025,,,,63.0,26.0,,,,,,,,6
+260099,Unit Test,Chapter 1 Test,1.0,Chemistry,87,PCMC,2025,,,,,,59.0,23.0,,,,,,10
+260099,Unit Test,Chapter 1 Test,1.0,Maths,96,PCMC,2025,,,,,,,,39.0,,,,,6
+260099,Unit Test,Chapter 1 Test,1.0,Computer Science,92,PCMC,2025,,,,,,,,,,,36.0,27.0,6
+260099,Mid Term,Term,1.0,All,85,PCMC,2025,43.0,Kannada,73.0,24.0,19.0,51.0,19.0,79.0,,,43.0,21.0,8
+260099,JUT,Term,1.0,All,73,PCMC,2025,60.0,Sanskrit,55.0,45.0,16.0,33.0,26.0,59.0,,,28.0,28.0,5
+260099,JFT,Term,1.0,All,70,PCMC,2025,39.0,Kannada,72.0,31.0,29.0,43.0,15.0,94.0,,,57.0,29.0,10
+260099,Final Exam,Annual,1.0,All,86,PCMC,2025,65.0,Kannada,85.0,25.0,22.0,46.0,15.0,48.0,,,39.0,30.0,10
+260100,Unit Test,Chapter 1 Test,1.0,English,79,PCMC,2025,82.0,,,,,,,,,,,,6
+260100,Unit Test,Chapter 1 Test,1.0,Language,89,PCMC,2025,,Kannada,77.0,,,,,,,,,,10
+260100,Unit Test,Chapter 1 Test,1.0,Physics,98,PCMC,2025,,,,66.0,30.0,,,,,,,,10
+260100,Unit Test,Chapter 1 Test,1.0,Chemistry,90,PCMC,2025,,,,,,37.0,23.0,,,,,,8
+260100,Unit Test,Chapter 1 Test,1.0,Maths,89,PCMC,2025,,,,,,,,76.0,,,,,6
+260100,Unit Test,Chapter 1 Test,1.0,Computer Science,92,PCMC,2025,,,,,,,,,,,28.0,20.0,6
+260100,Mid Term,Term,1.0,All,93,PCMC,2025,65.0,Kannada,94.0,57.0,25.0,65.0,23.0,66.0,,,67.0,15.0,5
+260100,JUT,Term,1.0,All,74,PCMC,2025,73.0,Hindi,62.0,69.0,23.0,27.0,26.0,62.0,,,53.0,18.0,10
+260100,JFT,Term,1.0,All,97,PCMC,2025,38.0,Hindi,41.0,49.0,21.0,37.0,25.0,38.0,,,68.0,26.0,10
+260100,Final Exam,Annual,1.0,All,70,PCMC,2025,72.0,Hindi,46.0,25.0,25.0,49.0,16.0,63.0,,,32.0,23.0,8
+260101,Unit Test,Chapter 1 Test,1.0,English,79,PCMC,2025,66.0,,,,,,,,,,,,7
+260101,Unit Test,Chapter 1 Test,1.0,Language,85,PCMC,2025,,Sanskrit,52.0,,,,,,,,,,6
+260101,Unit Test,Chapter 1 Test,1.0,Physics,99,PCMC,2025,,,,58.0,24.0,,,,,,,,9
+260101,Unit Test,Chapter 1 Test,1.0,Chemistry,84,PCMC,2025,,,,,,42.0,24.0,,,,,,8
+260101,Unit Test,Chapter 1 Test,1.0,Maths,90,PCMC,2025,,,,,,,,37.0,,,,,7
+260101,Unit Test,Chapter 1 Test,1.0,Computer Science,97,PCMC,2025,,,,,,,,,,,32.0,29.0,8
+260101,Mid Term,Term,1.0,All,74,PCMC,2025,35.0,Sanskrit,80.0,26.0,16.0,36.0,17.0,92.0,,,63.0,15.0,7
+260101,JUT,Term,1.0,All,92,PCMC,2025,77.0,Kannada,39.0,47.0,20.0,34.0,18.0,74.0,,,63.0,17.0,5
+260101,JFT,Term,1.0,All,94,PCMC,2025,64.0,Sanskrit,100.0,42.0,15.0,49.0,17.0,53.0,,,39.0,30.0,5
+260101,Final Exam,Annual,1.0,All,78,PCMC,2025,69.0,Sanskrit,81.0,57.0,21.0,58.0,28.0,48.0,,,53.0,24.0,5
+260102,Unit Test,Chapter 1 Test,1.0,English,88,PCMC,2025,73.0,,,,,,,,,,,,8
+260102,Unit Test,Chapter 1 Test,1.0,Language,100,PCMC,2025,,Kannada,91.0,,,,,,,,,,8
+260102,Unit Test,Chapter 1 Test,1.0,Physics,94,PCMC,2025,,,,58.0,29.0,,,,,,,,8
+260102,Unit Test,Chapter 1 Test,1.0,Chemistry,84,PCMC,2025,,,,,,65.0,26.0,,,,,,8
+260102,Unit Test,Chapter 1 Test,1.0,Maths,90,PCMC,2025,,,,,,,,69.0,,,,,8
+260102,Unit Test,Chapter 1 Test,1.0,Computer Science,85,PCMC,2025,,,,,,,,,,,30.0,17.0,7
+260102,Mid Term,Term,1.0,All,82,PCMC,2025,69.0,Sanskrit,66.0,26.0,30.0,32.0,21.0,42.0,,,57.0,29.0,8
+260102,JUT,Term,1.0,All,94,PCMC,2025,92.0,Hindi,42.0,33.0,24.0,36.0,27.0,76.0,,,59.0,15.0,5
+260102,JFT,Term,1.0,All,90,PCMC,2025,57.0,Hindi,81.0,45.0,24.0,60.0,20.0,45.0,,,34.0,18.0,6
+260102,Final Exam,Annual,1.0,All,75,PCMC,2025,41.0,Kannada,36.0,31.0,24.0,31.0,18.0,75.0,,,38.0,20.0,7
+260103,Unit Test,Chapter 1 Test,1.0,English,96,PCMB,2025,82.0,,,,,,,,,,,,9
+260103,Unit Test,Chapter 1 Test,1.0,Language,87,PCMB,2025,,Sanskrit,73.0,,,,,,,,,,10
+260103,Unit Test,Chapter 1 Test,1.0,Physics,100,PCMB,2025,,,,24.0,19.0,,,,,,,,6
+260103,Unit Test,Chapter 1 Test,1.0,Chemistry,77,PCMB,2025,,,,,,33.0,26.0,,,,,,8
+260103,Unit Test,Chapter 1 Test,1.0,Maths,93,PCMB,2025,,,,,,,,91.0,,,,,8
+260103,Unit Test,Chapter 1 Test,1.0,Biology,80,PCMB,2025,,,,,,,,,47.0,18.0,,,9
+260103,Mid Term,Term,1.0,All,99,PCMB,2025,78.0,Sanskrit,76.0,41.0,27.0,53.0,17.0,37.0,36.0,20.0,,,7
+260103,JUT,Term,1.0,All,86,PCMB,2025,93.0,Kannada,56.0,29.0,20.0,37.0,20.0,75.0,50.0,18.0,,,9
+260103,JFT,Term,1.0,All,82,PCMB,2025,60.0,Hindi,47.0,32.0,18.0,60.0,19.0,42.0,39.0,19.0,,,7
+260103,Final Exam,Annual,1.0,All,87,PCMB,2025,85.0,Kannada,70.0,57.0,15.0,41.0,24.0,80.0,56.0,23.0,,,9
+260104,Unit Test,Chapter 1 Test,1.0,English,91,PCMB,2025,50.0,,,,,,,,,,,,7
+260104,Unit Test,Chapter 1 Test,1.0,Language,94,PCMB,2025,,Hindi,71.0,,,,,,,,,,6
+260104,Unit Test,Chapter 1 Test,1.0,Physics,75,PCMB,2025,,,,55.0,28.0,,,,,,,,9
+260104,Unit Test,Chapter 1 Test,1.0,Chemistry,84,PCMB,2025,,,,,,35.0,28.0,,,,,,8
+260104,Unit Test,Chapter 1 Test,1.0,Maths,79,PCMB,2025,,,,,,,,52.0,,,,,10
+260104,Unit Test,Chapter 1 Test,1.0,Biology,93,PCMB,2025,,,,,,,,,34.0,19.0,,,8
+260104,Mid Term,Term,1.0,All,73,PCMB,2025,91.0,Kannada,56.0,51.0,19.0,32.0,20.0,68.0,36.0,27.0,,,7
+260104,JUT,Term,1.0,All,88,PCMB,2025,83.0,Sanskrit,74.0,44.0,29.0,44.0,30.0,68.0,26.0,30.0,,,9
+260104,JFT,Term,1.0,All,97,PCMB,2025,71.0,Kannada,79.0,45.0,20.0,63.0,26.0,47.0,52.0,20.0,,,8
+260104,Final Exam,Annual,1.0,All,88,PCMB,2025,55.0,Kannada,43.0,42.0,21.0,49.0,16.0,97.0,52.0,15.0,,,10
+260105,Unit Test,Chapter 1 Test,1.0,English,77,PCMB,2025,49.0,,,,,,,,,,,,7
+260105,Unit Test,Chapter 1 Test,1.0,Language,99,PCMB,2025,,Kannada,44.0,,,,,,,,,,6
+260105,Unit Test,Chapter 1 Test,1.0,Physics,87,PCMB,2025,,,,44.0,21.0,,,,,,,,6
+260105,Unit Test,Chapter 1 Test,1.0,Chemistry,89,PCMB,2025,,,,,,24.0,25.0,,,,,,8
+260105,Unit Test,Chapter 1 Test,1.0,Maths,95,PCMB,2025,,,,,,,,40.0,,,,,9
+260105,Unit Test,Chapter 1 Test,1.0,Biology,84,PCMB,2025,,,,,,,,,30.0,17.0,,,7
+260105,Mid Term,Term,1.0,All,74,PCMB,2025,89.0,Kannada,49.0,48.0,15.0,36.0,27.0,100.0,29.0,22.0,,,5
+260105,JUT,Term,1.0,All,82,PCMB,2025,54.0,Kannada,45.0,55.0,29.0,52.0,21.0,71.0,58.0,17.0,,,6
+260105,JFT,Term,1.0,All,81,PCMB,2025,54.0,Hindi,37.0,27.0,16.0,33.0,22.0,58.0,24.0,30.0,,,10
+260105,Final Exam,Annual,1.0,All,72,PCMB,2025,65.0,Kannada,73.0,64.0,27.0,26.0,15.0,41.0,24.0,23.0,,,6
+260106,Unit Test,Chapter 1 Test,1.0,English,88,PCMB,2025,46.0,,,,,,,,,,,,6
+260106,Unit Test,Chapter 1 Test,1.0,Language,93,PCMB,2025,,Sanskrit,35.0,,,,,,,,,,10
+260106,Unit Test,Chapter 1 Test,1.0,Physics,92,PCMB,2025,,,,38.0,17.0,,,,,,,,9
+260106,Unit Test,Chapter 1 Test,1.0,Chemistry,94,PCMB,2025,,,,,,32.0,26.0,,,,,,8
+260106,Unit Test,Chapter 1 Test,1.0,Maths,88,PCMB,2025,,,,,,,,44.0,,,,,10
+260106,Unit Test,Chapter 1 Test,1.0,Biology,93,PCMB,2025,,,,,,,,,27.0,16.0,,,9
+260106,Mid Term,Term,1.0,All,90,PCMB,2025,99.0,Hindi,69.0,49.0,27.0,64.0,27.0,42.0,38.0,30.0,,,6
+260106,JUT,Term,1.0,All,72,PCMB,2025,75.0,Kannada,46.0,55.0,22.0,32.0,27.0,58.0,49.0,18.0,,,9
+260106,JFT,Term,1.0,All,70,PCMB,2025,40.0,Hindi,60.0,50.0,30.0,38.0,30.0,57.0,59.0,15.0,,,7
+260106,Final Exam,Annual,1.0,All,75,PCMB,2025,74.0,Kannada,45.0,34.0,25.0,60.0,28.0,36.0,62.0,22.0,,,8
+260107,Unit Test,Chapter 1 Test,1.0,English,79,PCMC,2025,36.0,,,,,,,,,,,,9
+260107,Unit Test,Chapter 1 Test,1.0,Language,95,PCMC,2025,,Sanskrit,39.0,,,,,,,,,,7
+260107,Unit Test,Chapter 1 Test,1.0,Physics,89,PCMC,2025,,,,24.0,23.0,,,,,,,,8
+260107,Unit Test,Chapter 1 Test,1.0,Chemistry,75,PCMC,2025,,,,,,33.0,17.0,,,,,,10
+260107,Unit Test,Chapter 1 Test,1.0,Maths,83,PCMC,2025,,,,,,,,97.0,,,,,6
+260107,Unit Test,Chapter 1 Test,1.0,Computer Science,100,PCMC,2025,,,,,,,,,,,25.0,22.0,6
+260107,Mid Term,Term,1.0,All,91,PCMC,2025,47.0,Kannada,83.0,38.0,16.0,54.0,26.0,76.0,,,61.0,30.0,10
+260107,JUT,Term,1.0,All,86,PCMC,2025,68.0,Hindi,86.0,69.0,27.0,32.0,20.0,61.0,,,32.0,29.0,6
+260107,JFT,Term,1.0,All,73,PCMC,2025,63.0,Kannada,75.0,60.0,26.0,48.0,24.0,75.0,,,33.0,29.0,5
+260107,Final Exam,Annual,1.0,All,83,PCMC,2025,83.0,Kannada,46.0,33.0,17.0,39.0,26.0,38.0,,,27.0,23.0,6
+260108,Unit Test,Chapter 1 Test,1.0,English,77,PCMC,2025,44.0,,,,,,,,,,,,6
+260108,Unit Test,Chapter 1 Test,1.0,Language,87,PCMC,2025,,Kannada,52.0,,,,,,,,,,7
+260108,Unit Test,Chapter 1 Test,1.0,Physics,92,PCMC,2025,,,,69.0,19.0,,,,,,,,7
+260108,Unit Test,Chapter 1 Test,1.0,Chemistry,94,PCMC,2025,,,,,,62.0,25.0,,,,,,6
+260108,Unit Test,Chapter 1 Test,1.0,Maths,84,PCMC,2025,,,,,,,,56.0,,,,,8
+260108,Unit Test,Chapter 1 Test,1.0,Computer Science,96,PCMC,2025,,,,,,,,,,,69.0,28.0,7
+260108,Mid Term,Term,1.0,All,80,PCMC,2025,65.0,Hindi,91.0,65.0,28.0,62.0,20.0,44.0,,,64.0,21.0,5
+260108,JUT,Term,1.0,All,89,PCMC,2025,72.0,Hindi,92.0,60.0,15.0,40.0,24.0,92.0,,,24.0,18.0,10
+260108,JFT,Term,1.0,All,92,PCMC,2025,73.0,Kannada,76.0,65.0,21.0,68.0,16.0,63.0,,,56.0,15.0,9
+260108,Final Exam,Annual,1.0,All,95,PCMC,2025,77.0,Kannada,74.0,59.0,23.0,54.0,22.0,88.0,,,57.0,30.0,6
+260109,Unit Test,Chapter 1 Test,1.0,English,96,PCMC,2025,57.0,,,,,,,,,,,,7
+260109,Unit Test,Chapter 1 Test,1.0,Language,84,PCMC,2025,,Kannada,54.0,,,,,,,,,,8
+260109,Unit Test,Chapter 1 Test,1.0,Physics,93,PCMC,2025,,,,57.0,30.0,,,,,,,,6
+260109,Unit Test,Chapter 1 Test,1.0,Chemistry,83,PCMC,2025,,,,,,48.0,26.0,,,,,,9
+260109,Unit Test,Chapter 1 Test,1.0,Maths,93,PCMC,2025,,,,,,,,66.0,,,,,8
+260109,Unit Test,Chapter 1 Test,1.0,Computer Science,85,PCMC,2025,,,,,,,,,,,42.0,16.0,8
+260109,Mid Term,Term,1.0,All,92,PCMC,2025,74.0,Kannada,59.0,24.0,21.0,42.0,20.0,98.0,,,70.0,18.0,6
+260109,JUT,Term,1.0,All,70,PCMC,2025,56.0,Sanskrit,72.0,47.0,19.0,32.0,28.0,73.0,,,60.0,22.0,8
+260109,JFT,Term,1.0,All,83,PCMC,2025,80.0,Kannada,45.0,61.0,23.0,48.0,15.0,89.0,,,27.0,27.0,8
+260109,Final Exam,Annual,1.0,All,71,PCMC,2025,74.0,Kannada,44.0,54.0,27.0,49.0,29.0,35.0,,,59.0,29.0,7
+260110,Unit Test,Chapter 1 Test,1.0,English,98,PCMC,2025,73.0,,,,,,,,,,,,6
+260110,Unit Test,Chapter 1 Test,1.0,Language,78,PCMC,2025,,Sanskrit,68.0,,,,,,,,,,6
+260110,Unit Test,Chapter 1 Test,1.0,Physics,77,PCMC,2025,,,,49.0,26.0,,,,,,,,10
+260110,Unit Test,Chapter 1 Test,1.0,Chemistry,75,PCMC,2025,,,,,,67.0,30.0,,,,,,10
+260110,Unit Test,Chapter 1 Test,1.0,Maths,76,PCMC,2025,,,,,,,,50.0,,,,,8
+260110,Unit Test,Chapter 1 Test,1.0,Computer Science,91,PCMC,2025,,,,,,,,,,,34.0,22.0,10
+260110,Mid Term,Term,1.0,All,97,PCMC,2025,84.0,Kannada,86.0,52.0,27.0,55.0,22.0,86.0,,,45.0,20.0,6
+260110,JUT,Term,1.0,All,77,PCMC,2025,93.0,Hindi,36.0,25.0,28.0,31.0,26.0,85.0,,,53.0,15.0,9
+260110,JFT,Term,1.0,All,75,PCMC,2025,53.0,Kannada,70.0,49.0,23.0,58.0,28.0,74.0,,,43.0,21.0,5
+260110,Final Exam,Annual,1.0,All,73,PCMC,2025,65.0,Kannada,67.0,31.0,28.0,26.0,18.0,85.0,,,32.0,24.0,9
+260001,Unit Test,Chapter 1 Test,1.0,English,100,PCMC,2026,100.0,,,,,,,,,,,,10
+260001,Unit Test,Chapter 1 Test,1.0,Language,100,PCMC,2026,,Sanskrit,100.0,,,,,,,,,,10
+260001,Unit Test,Chapter 1 Test,1.0,Physics,100,PCMC,2026,,,,70.0,30.0,,,,,,,,10
+260001,Unit Test,Chapter 1 Test,1.0,Chemistry,100,PCMC,2026,,,,,,70.0,30.0,,,,,,10
+260001,Unit Test,Chapter 1 Test,1.0,Maths,100,PCMC,2026,,,,,,,,100.0,,,,,10
+260001,Unit Test,Chapter 1 Test,1.0,Computer Science,100,PCMC,2026,,,,,,,,,,,70.0,30.0,10
+260001,Mid Term,Term,1.0,All,100,PCMC,2026,100.0,Sanskrit,100.0,70.0,30.0,70.0,30.0,100.0,,,70.0,30.0,10
+260001,JUT,Term,1.0,All,100,PCMC,2026,100.0,Sanskrit,100.0,70.0,30.0,70.0,30.0,100.0,,,70.0,30.0,10
+260001,JFT,Term,1.0,All,100,PCMC,2026,100.0,Sanskrit,100.0,70.0,30.0,70.0,30.0,100.0,,,70.0,30.0,10
+260001,Final Exam,Annual,1.0,All,100,PCMC,2026,100.0,Hindi,100.0,70.0,30.0,70.0,30.0,100.0,,,70.0,30.0,10
+260002,Unit Test,Chapter 1 Test,1.0,English,100,PCMB,2026,100.0,,,,,,,,,,,,10
+260002,Unit Test,Chapter 1 Test,1.0,Language,100,PCMB,2026,,Kannada,100.0,,,,,,,,,,10
+260002,Unit Test,Chapter 1 Test,1.0,Physics,100,PCMB,2026,,,,70.0,30.0,,,,,,,,10
+260002,Unit Test,Chapter 1 Test,1.0,Chemistry,100,PCMB,2026,,,,,,70.0,30.0,,,,,,10
+260002,Unit Test,Chapter 1 Test,1.0,Maths,100,PCMB,2026,,,,,,,,100.0,,,,,10
+260002,Unit Test,Chapter 1 Test,1.0,Biology,100,PCMB,2026,,,,,,,,,70.0,30.0,,,10
+260002,Mid Term,Term,1.0,All,100,PCMB,2026,100.0,Sanskrit,100.0,70.0,30.0,70.0,30.0,100.0,70.0,30.0,,,10
+260002,JUT,Term,1.0,All,100,PCMB,2026,100.0,Hindi,100.0,70.0,30.0,70.0,30.0,100.0,70.0,30.0,,,10
+260002,JFT,Term,1.0,All,100,PCMB,2026,100.0,Kannada,100.0,70.0,30.0,70.0,30.0,100.0,70.0,30.0,,,10
+260002,Final Exam,Annual,1.0,All,100,PCMB,2026,100.0,Hindi,100.0,70.0,30.0,70.0,30.0,100.0,70.0,30.0,,,10
+260003,Unit Test,Chapter 1 Test,1.0,English,100,PCMB,2026,100.0,,,,,,,,,,,,10
+260003,Unit Test,Chapter 1 Test,1.0,Language,100,PCMB,2026,,Hindi,100.0,,,,,,,,,,10
+260003,Unit Test,Chapter 1 Test,1.0,Physics,100,PCMB,2026,,,,70.0,30.0,,,,,,,,10
+260003,Unit Test,Chapter 1 Test,1.0,Chemistry,100,PCMB,2026,,,,,,70.0,30.0,,,,,,10
+260003,Unit Test,Chapter 1 Test,1.0,Maths,100,PCMB,2026,,,,,,,,100.0,,,,,10
+260003,Unit Test,Chapter 1 Test,1.0,Biology,100,PCMB,2026,,,,,,,,,70.0,30.0,,,10
+260003,Mid Term,Term,1.0,All,100,PCMB,2026,100.0,Hindi,100.0,70.0,30.0,70.0,30.0,100.0,70.0,30.0,,,10
+260003,JUT,Term,1.0,All,100,PCMB,2026,100.0,Sanskrit,100.0,70.0,30.0,70.0,30.0,100.0,70.0,30.0,,,10
+260003,JFT,Term,1.0,All,100,PCMB,2026,100.0,Sanskrit,100.0,70.0,30.0,70.0,30.0,100.0,70.0,30.0,,,10
+260003,Final Exam,Annual,1.0,All,100,PCMB,2026,100.0,Hindi,100.0,70.0,30.0,70.0,30.0,100.0,70.0,30.0,,,10
+260004,Unit Test,Chapter 1 Test,1.0,English,88,PCMC,2026,78.0,,,,,,,,,,,,9
+260004,Unit Test,Chapter 1 Test,1.0,Language,78,PCMC,2026,,Hindi,35.0,,,,,,,,,,8
+260004,Unit Test,Chapter 1 Test,1.0,Physics,99,PCMC,2026,,,,66.0,24.0,,,,,,,,7
+260004,Unit Test,Chapter 1 Test,1.0,Chemistry,100,PCMC,2026,,,,,,26.0,23.0,,,,,,6
+260004,Unit Test,Chapter 1 Test,1.0,Maths,78,PCMC,2026,,,,,,,,87.0,,,,,6
+260004,Unit Test,Chapter 1 Test,1.0,Computer Science,75,PCMC,2026,,,,,,,,,,,32.0,23.0,10
+260004,Mid Term,Term,1.0,All,71,PCMC,2026,97.0,Sanskrit,54.0,69.0,24.0,40.0,28.0,76.0,,,58.0,17.0,10
+260004,JUT,Term,1.0,All,72,PCMC,2026,40.0,Sanskrit,92.0,54.0,25.0,48.0,27.0,72.0,,,44.0,18.0,8
+260004,JFT,Term,1.0,All,85,PCMC,2026,77.0,Kannada,83.0,58.0,20.0,37.0,25.0,63.0,,,46.0,15.0,8
+260004,Final Exam,Annual,1.0,All,96,PCMC,2026,57.0,Kannada,38.0,56.0,23.0,54.0,18.0,35.0,,,53.0,22.0,8
+260005,Unit Test,Chapter 1 Test,1.0,English,96,PCMC,2026,85.0,,,,,,,,,,,,6
+260005,Unit Test,Chapter 1 Test,1.0,Language,97,PCMC,2026,,Sanskrit,78.0,,,,,,,,,,10
+260005,Unit Test,Chapter 1 Test,1.0,Physics,85,PCMC,2026,,,,24.0,15.0,,,,,,,,9
+260005,Unit Test,Chapter 1 Test,1.0,Chemistry,90,PCMC,2026,,,,,,50.0,25.0,,,,,,7
+260005,Unit Test,Chapter 1 Test,1.0,Maths,93,PCMC,2026,,,,,,,,35.0,,,,,9
+260005,Unit Test,Chapter 1 Test,1.0,Computer Science,76,PCMC,2026,,,,,,,,,,,50.0,22.0,8
+260005,Mid Term,Term,1.0,All,73,PCMC,2026,77.0,Sanskrit,94.0,52.0,26.0,61.0,16.0,46.0,,,69.0,25.0,5
+260005,JUT,Term,1.0,All,93,PCMC,2026,94.0,Sanskrit,72.0,39.0,28.0,28.0,15.0,44.0,,,46.0,23.0,6
+260005,JFT,Term,1.0,All,86,PCMC,2026,78.0,Hindi,55.0,67.0,16.0,60.0,27.0,78.0,,,53.0,20.0,10
+260005,Final Exam,Annual,1.0,All,92,PCMC,2026,54.0,Sanskrit,93.0,43.0,20.0,41.0,18.0,83.0,,,52.0,30.0,7
+260006,Unit Test,Chapter 1 Test,1.0,English,79,PCMB,2026,57.0,,,,,,,,,,,,10
+260006,Unit Test,Chapter 1 Test,1.0,Language,85,PCMB,2026,,Hindi,87.0,,,,,,,,,,8
+260006,Unit Test,Chapter 1 Test,1.0,Physics,93,PCMB,2026,,,,45.0,15.0,,,,,,,,10
+260006,Unit Test,Chapter 1 Test,1.0,Chemistry,86,PCMB,2026,,,,,,62.0,15.0,,,,,,9
+260006,Unit Test,Chapter 1 Test,1.0,Maths,95,PCMB,2026,,,,,,,,93.0,,,,,8
+260006,Unit Test,Chapter 1 Test,1.0,Biology,84,PCMB,2026,,,,,,,,,52.0,23.0,,,9
+260006,Mid Term,Term,1.0,All,79,PCMB,2026,66.0,Hindi,76.0,57.0,25.0,68.0,20.0,53.0,50.0,23.0,,,10
+260006,JUT,Term,1.0,All,89,PCMB,2026,98.0,Hindi,99.0,43.0,24.0,44.0,16.0,52.0,50.0,25.0,,,7
+260006,JFT,Term,1.0,All,72,PCMB,2026,37.0,Kannada,45.0,38.0,18.0,64.0,18.0,44.0,63.0,25.0,,,6
+260006,Final Exam,Annual,1.0,All,79,PCMB,2026,91.0,Hindi,57.0,63.0,18.0,69.0,27.0,46.0,32.0,30.0,,,5
+260007,Unit Test,Chapter 1 Test,1.0,English,82,PCMC,2026,88.0,,,,,,,,,,,,6
+260007,Unit Test,Chapter 1 Test,1.0,Language,99,PCMC,2026,,Hindi,35.0,,,,,,,,,,8
+260007,Unit Test,Chapter 1 Test,1.0,Physics,95,PCMC,2026,,,,50.0,27.0,,,,,,,,9
+260007,Unit Test,Chapter 1 Test,1.0,Chemistry,87,PCMC,2026,,,,,,49.0,30.0,,,,,,7
+260007,Unit Test,Chapter 1 Test,1.0,Maths,89,PCMC,2026,,,,,,,,44.0,,,,,8
+260007,Unit Test,Chapter 1 Test,1.0,Computer Science,80,PCMC,2026,,,,,,,,,,,35.0,25.0,6
+260007,Mid Term,Term,1.0,All,99,PCMC,2026,44.0,Kannada,49.0,51.0,18.0,61.0,24.0,85.0,,,69.0,15.0,10
+260007,JUT,Term,1.0,All,71,PCMC,2026,70.0,Hindi,42.0,58.0,24.0,51.0,20.0,36.0,,,66.0,27.0,9
+260007,JFT,Term,1.0,All,86,PCMC,2026,93.0,Sanskrit,83.0,52.0,29.0,25.0,23.0,51.0,,,60.0,20.0,9
+260007,Final Exam,Annual,1.0,All,84,PCMC,2026,74.0,Sanskrit,51.0,55.0,18.0,53.0,26.0,54.0,,,40.0,27.0,7
+260008,Unit Test,Chapter 1 Test,1.0,English,78,PCMB,2026,62.0,,,,,,,,,,,,8
+260008,Unit Test,Chapter 1 Test,1.0,Language,93,PCMB,2026,,Hindi,44.0,,,,,,,,,,7
+260008,Unit Test,Chapter 1 Test,1.0,Physics,84,PCMB,2026,,,,55.0,29.0,,,,,,,,10
+260008,Unit Test,Chapter 1 Test,1.0,Chemistry,90,PCMB,2026,,,,,,38.0,23.0,,,,,,9
+260008,Unit Test,Chapter 1 Test,1.0,Maths,98,PCMB,2026,,,,,,,,79.0,,,,,6
+260008,Unit Test,Chapter 1 Test,1.0,Biology,90,PCMB,2026,,,,,,,,,61.0,15.0,,,9
+260008,Mid Term,Term,1.0,All,95,PCMB,2026,39.0,Hindi,74.0,50.0,26.0,44.0,22.0,37.0,32.0,17.0,,,5
+260008,JUT,Term,1.0,All,83,PCMB,2026,58.0,Sanskrit,89.0,56.0,24.0,59.0,21.0,47.0,25.0,18.0,,,9
+260008,JFT,Term,1.0,All,92,PCMB,2026,52.0,Hindi,41.0,31.0,27.0,30.0,24.0,86.0,31.0,25.0,,,10
+260008,Final Exam,Annual,1.0,All,72,PCMB,2026,89.0,Sanskrit,76.0,27.0,20.0,64.0,22.0,42.0,40.0,16.0,,,10
+260009,Unit Test,Chapter 1 Test,1.0,English,83,PCMC,2026,40.0,,,,,,,,,,,,10
+260009,Unit Test,Chapter 1 Test,1.0,Language,76,PCMC,2026,,Hindi,83.0,,,,,,,,,,8
+260009,Unit Test,Chapter 1 Test,1.0,Physics,97,PCMC,2026,,,,55.0,17.0,,,,,,,,10
+260009,Unit Test,Chapter 1 Test,1.0,Chemistry,99,PCMC,2026,,,,,,44.0,26.0,,,,,,7
+260009,Unit Test,Chapter 1 Test,1.0,Maths,84,PCMC,2026,,,,,,,,77.0,,,,,8
+260009,Unit Test,Chapter 1 Test,1.0,Computer Science,94,PCMC,2026,,,,,,,,,,,54.0,22.0,6
+260009,Mid Term,Term,1.0,All,97,PCMC,2026,68.0,Kannada,91.0,34.0,25.0,66.0,30.0,38.0,,,60.0,28.0,10
+260009,JUT,Term,1.0,All,83,PCMC,2026,83.0,Kannada,58.0,43.0,27.0,57.0,24.0,61.0,,,65.0,23.0,10
+260009,JFT,Term,1.0,All,82,PCMC,2026,86.0,Hindi,51.0,29.0,30.0,63.0,29.0,95.0,,,28.0,17.0,5
+260009,Final Exam,Annual,1.0,All,95,PCMC,2026,35.0,Hindi,59.0,25.0,15.0,36.0,28.0,35.0,,,52.0,25.0,10
+260010,Unit Test,Chapter 1 Test,1.0,English,76,PCMC,2026,78.0,,,,,,,,,,,,9
+260010,Unit Test,Chapter 1 Test,1.0,Language,89,PCMC,2026,,Kannada,57.0,,,,,,,,,,9
+260010,Unit Test,Chapter 1 Test,1.0,Physics,82,PCMC,2026,,,,41.0,29.0,,,,,,,,7
+260010,Unit Test,Chapter 1 Test,1.0,Chemistry,94,PCMC,2026,,,,,,68.0,25.0,,,,,,7
+260010,Unit Test,Chapter 1 Test,1.0,Maths,98,PCMC,2026,,,,,,,,50.0,,,,,6
+260010,Unit Test,Chapter 1 Test,1.0,Computer Science,78,PCMC,2026,,,,,,,,,,,43.0,21.0,10
+260010,Mid Term,Term,1.0,All,78,PCMC,2026,53.0,Kannada,46.0,53.0,28.0,41.0,15.0,77.0,,,31.0,21.0,5
+260010,JUT,Term,1.0,All,80,PCMC,2026,43.0,Sanskrit,51.0,65.0,18.0,40.0,16.0,35.0,,,48.0,30.0,6
+260010,JFT,Term,1.0,All,76,PCMC,2026,81.0,Hindi,44.0,24.0,19.0,28.0,27.0,93.0,,,51.0,29.0,8
+260010,Final Exam,Annual,1.0,All,74,PCMC,2026,84.0,Kannada,78.0,39.0,30.0,43.0,24.0,39.0,,,30.0,25.0,5
+260011,Unit Test,Chapter 1 Test,1.0,English,78,PCMC,2026,76.0,,,,,,,,,,,,10
+260011,Unit Test,Chapter 1 Test,1.0,Language,86,PCMC,2026,,Sanskrit,85.0,,,,,,,,,,10
+260011,Unit Test,Chapter 1 Test,1.0,Physics,82,PCMC,2026,,,,43.0,27.0,,,,,,,,8
+260011,Unit Test,Chapter 1 Test,1.0,Chemistry,75,PCMC,2026,,,,,,57.0,15.0,,,,,,6
+260011,Unit Test,Chapter 1 Test,1.0,Maths,92,PCMC,2026,,,,,,,,56.0,,,,,6
+260011,Unit Test,Chapter 1 Test,1.0,Computer Science,75,PCMC,2026,,,,,,,,,,,63.0,27.0,8
+260011,Mid Term,Term,1.0,All,73,PCMC,2026,53.0,Hindi,52.0,66.0,18.0,46.0,17.0,36.0,,,61.0,18.0,6
+260011,JUT,Term,1.0,All,100,PCMC,2026,56.0,Kannada,88.0,63.0,23.0,51.0,16.0,56.0,,,37.0,17.0,9
+260011,JFT,Term,1.0,All,97,PCMC,2026,42.0,Kannada,83.0,53.0,23.0,57.0,16.0,92.0,,,42.0,27.0,10
+260011,Final Exam,Annual,1.0,All,80,PCMC,2026,80.0,Kannada,84.0,47.0,22.0,32.0,22.0,59.0,,,35.0,26.0,7
+260012,Unit Test,Chapter 1 Test,1.0,English,98,PCMB,2026,59.0,,,,,,,,,,,,10
+260012,Unit Test,Chapter 1 Test,1.0,Language,80,PCMB,2026,,Hindi,67.0,,,,,,,,,,6
+260012,Unit Test,Chapter 1 Test,1.0,Physics,86,PCMB,2026,,,,43.0,30.0,,,,,,,,9
+260012,Unit Test,Chapter 1 Test,1.0,Chemistry,98,PCMB,2026,,,,,,55.0,21.0,,,,,,10
+260012,Unit Test,Chapter 1 Test,1.0,Maths,95,PCMB,2026,,,,,,,,62.0,,,,,7
+260012,Unit Test,Chapter 1 Test,1.0,Biology,76,PCMB,2026,,,,,,,,,61.0,23.0,,,10
+260012,Mid Term,Term,1.0,All,80,PCMB,2026,64.0,Kannada,75.0,60.0,24.0,34.0,28.0,46.0,43.0,27.0,,,6
+260012,JUT,Term,1.0,All,92,PCMB,2026,68.0,Hindi,85.0,39.0,23.0,62.0,21.0,90.0,38.0,16.0,,,5
+260012,JFT,Term,1.0,All,98,PCMB,2026,67.0,Kannada,46.0,56.0,21.0,41.0,26.0,81.0,45.0,28.0,,,8
+260012,Final Exam,Annual,1.0,All,91,PCMB,2026,58.0,Sanskrit,93.0,41.0,16.0,53.0,17.0,73.0,30.0,22.0,,,5
+260013,Unit Test,Chapter 1 Test,1.0,English,83,PCMC,2026,91.0,,,,,,,,,,,,7
+260013,Unit Test,Chapter 1 Test,1.0,Language,79,PCMC,2026,,Kannada,85.0,,,,,,,,,,7
+260013,Unit Test,Chapter 1 Test,1.0,Physics,84,PCMC,2026,,,,58.0,28.0,,,,,,,,7
+260013,Unit Test,Chapter 1 Test,1.0,Chemistry,87,PCMC,2026,,,,,,50.0,25.0,,,,,,8
+260013,Unit Test,Chapter 1 Test,1.0,Maths,95,PCMC,2026,,,,,,,,98.0,,,,,7
+260013,Unit Test,Chapter 1 Test,1.0,Computer Science,79,PCMC,2026,,,,,,,,,,,54.0,20.0,10
+260013,Mid Term,Term,1.0,All,82,PCMC,2026,79.0,Hindi,87.0,24.0,19.0,41.0,29.0,63.0,,,59.0,27.0,7
+260013,JUT,Term,1.0,All,78,PCMC,2026,94.0,Kannada,80.0,57.0,22.0,46.0,23.0,94.0,,,40.0,30.0,7
+260013,JFT,Term,1.0,All,72,PCMC,2026,90.0,Sanskrit,80.0,25.0,23.0,64.0,15.0,63.0,,,49.0,21.0,6
+260013,Final Exam,Annual,1.0,All,79,PCMC,2026,80.0,Hindi,44.0,33.0,25.0,27.0,30.0,56.0,,,30.0,28.0,10
+260014,Unit Test,Chapter 1 Test,1.0,English,75,PCMC,2026,92.0,,,,,,,,,,,,6
+260014,Unit Test,Chapter 1 Test,1.0,Language,90,PCMC,2026,,Kannada,71.0,,,,,,,,,,10
+260014,Unit Test,Chapter 1 Test,1.0,Physics,98,PCMC,2026,,,,68.0,17.0,,,,,,,,8
+260014,Unit Test,Chapter 1 Test,1.0,Chemistry,86,PCMC,2026,,,,,,28.0,17.0,,,,,,8
+260014,Unit Test,Chapter 1 Test,1.0,Maths,82,PCMC,2026,,,,,,,,53.0,,,,,10
+260014,Unit Test,Chapter 1 Test,1.0,Computer Science,95,PCMC,2026,,,,,,,,,,,48.0,21.0,10
+260014,Mid Term,Term,1.0,All,88,PCMC,2026,93.0,Sanskrit,35.0,38.0,26.0,60.0,22.0,50.0,,,62.0,28.0,5
+260014,JUT,Term,1.0,All,91,PCMC,2026,76.0,Sanskrit,48.0,32.0,19.0,68.0,28.0,66.0,,,26.0,25.0,7
+260014,JFT,Term,1.0,All,72,PCMC,2026,95.0,Hindi,49.0,50.0,29.0,48.0,29.0,70.0,,,36.0,26.0,6
+260014,Final Exam,Annual,1.0,All,96,PCMC,2026,79.0,Sanskrit,94.0,60.0,30.0,57.0,20.0,93.0,,,43.0,24.0,10
+260015,Unit Test,Chapter 1 Test,1.0,English,90,PCMC,2026,80.0,,,,,,,,,,,,7
+260015,Unit Test,Chapter 1 Test,1.0,Language,82,PCMC,2026,,Kannada,89.0,,,,,,,,,,9
+260015,Unit Test,Chapter 1 Test,1.0,Physics,79,PCMC,2026,,,,60.0,26.0,,,,,,,,10
+260015,Unit Test,Chapter 1 Test,1.0,Chemistry,97,PCMC,2026,,,,,,46.0,27.0,,,,,,8
+260015,Unit Test,Chapter 1 Test,1.0,Maths,86,PCMC,2026,,,,,,,,63.0,,,,,6
+260015,Unit Test,Chapter 1 Test,1.0,Computer Science,88,PCMC,2026,,,,,,,,,,,33.0,29.0,6
+260015,Mid Term,Term,1.0,All,84,PCMC,2026,94.0,Kannada,60.0,68.0,18.0,39.0,27.0,54.0,,,28.0,29.0,7
+260015,JUT,Term,1.0,All,93,PCMC,2026,50.0,Sanskrit,86.0,60.0,22.0,63.0,16.0,52.0,,,70.0,18.0,5
+260015,JFT,Term,1.0,All,95,PCMC,2026,95.0,Hindi,87.0,67.0,30.0,31.0,30.0,37.0,,,32.0,15.0,5
+260015,Final Exam,Annual,1.0,All,89,PCMC,2026,81.0,Sanskrit,88.0,36.0,19.0,39.0,29.0,89.0,,,33.0,20.0,7
+260016,Unit Test,Chapter 1 Test,1.0,English,89,PCMB,2026,90.0,,,,,,,,,,,,7
+260016,Unit Test,Chapter 1 Test,1.0,Language,99,PCMB,2026,,Sanskrit,84.0,,,,,,,,,,10
+260016,Unit Test,Chapter 1 Test,1.0,Physics,91,PCMB,2026,,,,69.0,19.0,,,,,,,,10
+260016,Unit Test,Chapter 1 Test,1.0,Chemistry,80,PCMB,2026,,,,,,66.0,20.0,,,,,,9
+260016,Unit Test,Chapter 1 Test,1.0,Maths,90,PCMB,2026,,,,,,,,93.0,,,,,6
+260016,Unit Test,Chapter 1 Test,1.0,Biology,84,PCMB,2026,,,,,,,,,63.0,21.0,,,10
+260016,Mid Term,Term,1.0,All,72,PCMB,2026,75.0,Kannada,59.0,51.0,20.0,38.0,20.0,81.0,41.0,28.0,,,7
+260016,JUT,Term,1.0,All,76,PCMB,2026,94.0,Kannada,66.0,65.0,22.0,68.0,15.0,72.0,45.0,30.0,,,7
+260016,JFT,Term,1.0,All,74,PCMB,2026,48.0,Sanskrit,47.0,33.0,18.0,49.0,19.0,96.0,31.0,17.0,,,7
+260016,Final Exam,Annual,1.0,All,99,PCMB,2026,48.0,Sanskrit,62.0,70.0,25.0,51.0,20.0,52.0,33.0,27.0,,,5
+260017,Unit Test,Chapter 1 Test,1.0,English,99,PCMC,2026,39.0,,,,,,,,,,,,6
+260017,Unit Test,Chapter 1 Test,1.0,Language,99,PCMC,2026,,Kannada,73.0,,,,,,,,,,10
+260017,Unit Test,Chapter 1 Test,1.0,Physics,75,PCMC,2026,,,,44.0,19.0,,,,,,,,8
+260017,Unit Test,Chapter 1 Test,1.0,Chemistry,83,PCMC,2026,,,,,,61.0,25.0,,,,,,10
+260017,Unit Test,Chapter 1 Test,1.0,Maths,77,PCMC,2026,,,,,,,,91.0,,,,,9
+260017,Unit Test,Chapter 1 Test,1.0,Computer Science,78,PCMC,2026,,,,,,,,,,,39.0,26.0,6
+260017,Mid Term,Term,1.0,All,92,PCMC,2026,73.0,Sanskrit,93.0,49.0,21.0,27.0,19.0,100.0,,,69.0,24.0,8
+260017,JUT,Term,1.0,All,78,PCMC,2026,77.0,Kannada,43.0,36.0,21.0,54.0,29.0,37.0,,,44.0,30.0,7
+260017,JFT,Term,1.0,All,85,PCMC,2026,96.0,Kannada,72.0,66.0,30.0,61.0,27.0,96.0,,,47.0,22.0,6
+260017,Final Exam,Annual,1.0,All,95,PCMC,2026,57.0,Sanskrit,100.0,59.0,28.0,66.0,19.0,88.0,,,32.0,20.0,10
+260018,Unit Test,Chapter 1 Test,1.0,English,91,PCMB,2026,41.0,,,,,,,,,,,,8
+260018,Unit Test,Chapter 1 Test,1.0,Language,75,PCMB,2026,,Sanskrit,87.0,,,,,,,,,,10
+260018,Unit Test,Chapter 1 Test,1.0,Physics,91,PCMB,2026,,,,64.0,27.0,,,,,,,,10
+260018,Unit Test,Chapter 1 Test,1.0,Chemistry,88,PCMB,2026,,,,,,55.0,21.0,,,,,,7
+260018,Unit Test,Chapter 1 Test,1.0,Maths,75,PCMB,2026,,,,,,,,76.0,,,,,7
+260018,Unit Test,Chapter 1 Test,1.0,Biology,99,PCMB,2026,,,,,,,,,70.0,18.0,,,7
+260018,Mid Term,Term,1.0,All,87,PCMB,2026,82.0,Sanskrit,35.0,36.0,27.0,27.0,21.0,72.0,50.0,23.0,,,10
+260018,JUT,Term,1.0,All,72,PCMB,2026,95.0,Kannada,46.0,31.0,19.0,55.0,29.0,79.0,58.0,22.0,,,5
+260018,JFT,Term,1.0,All,96,PCMB,2026,72.0,Hindi,78.0,54.0,25.0,39.0,19.0,58.0,27.0,24.0,,,5
+260018,Final Exam,Annual,1.0,All,100,PCMB,2026,64.0,Hindi,68.0,32.0,18.0,53.0,18.0,57.0,34.0,29.0,,,7
+260019,Unit Test,Chapter 1 Test,1.0,English,94,PCMB,2026,81.0,,,,,,,,,,,,8
+260019,Unit Test,Chapter 1 Test,1.0,Language,85,PCMB,2026,,Kannada,68.0,,,,,,,,,,10
+260019,Unit Test,Chapter 1 Test,1.0,Physics,75,PCMB,2026,,,,52.0,17.0,,,,,,,,8
+260019,Unit Test,Chapter 1 Test,1.0,Chemistry,83,PCMB,2026,,,,,,65.0,26.0,,,,,,7
+260019,Unit Test,Chapter 1 Test,1.0,Maths,79,PCMB,2026,,,,,,,,50.0,,,,,10
+260019,Unit Test,Chapter 1 Test,1.0,Biology,90,PCMB,2026,,,,,,,,,45.0,18.0,,,7
+260019,Mid Term,Term,1.0,All,74,PCMB,2026,59.0,Sanskrit,35.0,69.0,29.0,35.0,19.0,71.0,46.0,18.0,,,5
+260019,JUT,Term,1.0,All,92,PCMB,2026,38.0,Sanskrit,83.0,34.0,17.0,25.0,25.0,41.0,46.0,30.0,,,8
+260019,JFT,Term,1.0,All,84,PCMB,2026,38.0,Hindi,41.0,70.0,25.0,27.0,25.0,56.0,43.0,20.0,,,8
+260019,Final Exam,Annual,1.0,All,88,PCMB,2026,45.0,Hindi,36.0,40.0,18.0,35.0,25.0,65.0,49.0,27.0,,,8
+260020,Unit Test,Chapter 1 Test,1.0,English,85,PCMC,2026,51.0,,,,,,,,,,,,6
+260020,Unit Test,Chapter 1 Test,1.0,Language,98,PCMC,2026,,Kannada,59.0,,,,,,,,,,10
+260020,Unit Test,Chapter 1 Test,1.0,Physics,98,PCMC,2026,,,,55.0,25.0,,,,,,,,10
+260020,Unit Test,Chapter 1 Test,1.0,Chemistry,93,PCMC,2026,,,,,,67.0,17.0,,,,,,9
+260020,Unit Test,Chapter 1 Test,1.0,Maths,78,PCMC,2026,,,,,,,,38.0,,,,,6
+260020,Unit Test,Chapter 1 Test,1.0,Computer Science,80,PCMC,2026,,,,,,,,,,,67.0,29.0,8
+260020,Mid Term,Term,1.0,All,92,PCMC,2026,71.0,Hindi,90.0,28.0,16.0,44.0,25.0,56.0,,,39.0,20.0,7
+260020,JUT,Term,1.0,All,72,PCMC,2026,40.0,Hindi,83.0,36.0,24.0,33.0,17.0,68.0,,,65.0,19.0,8
+260020,JFT,Term,1.0,All,72,PCMC,2026,54.0,Hindi,100.0,29.0,29.0,27.0,27.0,62.0,,,32.0,30.0,10
+260020,Final Exam,Annual,1.0,All,93,PCMC,2026,90.0,Kannada,98.0,65.0,16.0,36.0,16.0,91.0,,,47.0,26.0,9
+260021,Unit Test,Chapter 1 Test,1.0,English,75,PCMC,2026,74.0,,,,,,,,,,,,7
+260021,Unit Test,Chapter 1 Test,1.0,Language,76,PCMC,2026,,Sanskrit,95.0,,,,,,,,,,6
+260021,Unit Test,Chapter 1 Test,1.0,Physics,76,PCMC,2026,,,,54.0,20.0,,,,,,,,9
+260021,Unit Test,Chapter 1 Test,1.0,Chemistry,86,PCMC,2026,,,,,,34.0,30.0,,,,,,10
+260021,Unit Test,Chapter 1 Test,1.0,Maths,78,PCMC,2026,,,,,,,,65.0,,,,,10
+260021,Unit Test,Chapter 1 Test,1.0,Computer Science,75,PCMC,2026,,,,,,,,,,,47.0,21.0,7
+260021,Mid Term,Term,1.0,All,98,PCMC,2026,55.0,Hindi,94.0,30.0,19.0,33.0,27.0,49.0,,,43.0,21.0,10
+260021,JUT,Term,1.0,All,95,PCMC,2026,70.0,Sanskrit,50.0,31.0,19.0,32.0,26.0,94.0,,,45.0,29.0,5
+260021,JFT,Term,1.0,All,75,PCMC,2026,87.0,Sanskrit,88.0,68.0,17.0,27.0,18.0,35.0,,,36.0,20.0,8
+260021,Final Exam,Annual,1.0,All,73,PCMC,2026,36.0,Hindi,59.0,29.0,23.0,59.0,22.0,38.0,,,39.0,30.0,9
+260022,Unit Test,Chapter 1 Test,1.0,English,88,PCMC,2026,46.0,,,,,,,,,,,,9
+260022,Unit Test,Chapter 1 Test,1.0,Language,91,PCMC,2026,,Hindi,41.0,,,,,,,,,,8
+260022,Unit Test,Chapter 1 Test,1.0,Physics,97,PCMC,2026,,,,70.0,29.0,,,,,,,,6
+260022,Unit Test,Chapter 1 Test,1.0,Chemistry,96,PCMC,2026,,,,,,57.0,23.0,,,,,,7
+260022,Unit Test,Chapter 1 Test,1.0,Maths,89,PCMC,2026,,,,,,,,48.0,,,,,7
+260022,Unit Test,Chapter 1 Test,1.0,Computer Science,76,PCMC,2026,,,,,,,,,,,28.0,26.0,7
+260022,Mid Term,Term,1.0,All,75,PCMC,2026,69.0,Kannada,59.0,47.0,16.0,36.0,30.0,57.0,,,68.0,23.0,8
+260022,JUT,Term,1.0,All,84,PCMC,2026,65.0,Kannada,75.0,69.0,21.0,32.0,23.0,88.0,,,47.0,17.0,6
+260022,JFT,Term,1.0,All,70,PCMC,2026,77.0,Kannada,40.0,61.0,18.0,51.0,22.0,39.0,,,37.0,24.0,5
+260022,Final Exam,Annual,1.0,All,89,PCMC,2026,41.0,Sanskrit,63.0,43.0,16.0,24.0,21.0,99.0,,,27.0,27.0,9
+260023,Unit Test,Chapter 1 Test,1.0,English,82,PCMC,2026,75.0,,,,,,,,,,,,9
+260023,Unit Test,Chapter 1 Test,1.0,Language,75,PCMC,2026,,Hindi,79.0,,,,,,,,,,8
+260023,Unit Test,Chapter 1 Test,1.0,Physics,92,PCMC,2026,,,,27.0,20.0,,,,,,,,10
+260023,Unit Test,Chapter 1 Test,1.0,Chemistry,91,PCMC,2026,,,,,,56.0,30.0,,,,,,6
+260023,Unit Test,Chapter 1 Test,1.0,Maths,89,PCMC,2026,,,,,,,,86.0,,,,,7
+260023,Unit Test,Chapter 1 Test,1.0,Computer Science,88,PCMC,2026,,,,,,,,,,,63.0,27.0,7
+260023,Mid Term,Term,1.0,All,77,PCMC,2026,79.0,Kannada,44.0,38.0,18.0,30.0,25.0,42.0,,,42.0,21.0,5
+260023,JUT,Term,1.0,All,99,PCMC,2026,68.0,Hindi,83.0,39.0,18.0,24.0,22.0,90.0,,,53.0,16.0,6
+260023,JFT,Term,1.0,All,89,PCMC,2026,39.0,Hindi,39.0,50.0,24.0,49.0,24.0,95.0,,,33.0,20.0,8
+260023,Final Exam,Annual,1.0,All,77,PCMC,2026,45.0,Hindi,53.0,61.0,18.0,28.0,25.0,39.0,,,27.0,21.0,9
+260024,Unit Test,Chapter 1 Test,1.0,English,99,PCMC,2026,92.0,,,,,,,,,,,,10
+260024,Unit Test,Chapter 1 Test,1.0,Language,89,PCMC,2026,,Sanskrit,46.0,,,,,,,,,,7
+260024,Unit Test,Chapter 1 Test,1.0,Physics,77,PCMC,2026,,,,38.0,18.0,,,,,,,,10
+260024,Unit Test,Chapter 1 Test,1.0,Chemistry,78,PCMC,2026,,,,,,40.0,23.0,,,,,,10
+260024,Unit Test,Chapter 1 Test,1.0,Maths,88,PCMC,2026,,,,,,,,64.0,,,,,8
+260024,Unit Test,Chapter 1 Test,1.0,Computer Science,96,PCMC,2026,,,,,,,,,,,31.0,18.0,6
+260024,Mid Term,Term,1.0,All,73,PCMC,2026,46.0,Sanskrit,59.0,66.0,15.0,38.0,23.0,81.0,,,65.0,17.0,7
+260024,JUT,Term,1.0,All,100,PCMC,2026,53.0,Hindi,49.0,33.0,19.0,70.0,28.0,40.0,,,64.0,27.0,8
+260024,JFT,Term,1.0,All,91,PCMC,2026,94.0,Hindi,57.0,56.0,28.0,27.0,24.0,96.0,,,59.0,19.0,8
+260024,Final Exam,Annual,1.0,All,78,PCMC,2026,63.0,Hindi,36.0,52.0,25.0,58.0,22.0,51.0,,,60.0,18.0,5
+260025,Unit Test,Chapter 1 Test,1.0,English,90,PCMC,2026,52.0,,,,,,,,,,,,7
+260025,Unit Test,Chapter 1 Test,1.0,Language,98,PCMC,2026,,Kannada,53.0,,,,,,,,,,7
+260025,Unit Test,Chapter 1 Test,1.0,Physics,77,PCMC,2026,,,,38.0,17.0,,,,,,,,7
+260025,Unit Test,Chapter 1 Test,1.0,Chemistry,90,PCMC,2026,,,,,,42.0,17.0,,,,,,7
+260025,Unit Test,Chapter 1 Test,1.0,Maths,76,PCMC,2026,,,,,,,,46.0,,,,,10
+260025,Unit Test,Chapter 1 Test,1.0,Computer Science,90,PCMC,2026,,,,,,,,,,,47.0,16.0,6
+260025,Mid Term,Term,1.0,All,76,PCMC,2026,59.0,Kannada,43.0,63.0,29.0,42.0,24.0,98.0,,,53.0,21.0,5
+260025,JUT,Term,1.0,All,83,PCMC,2026,69.0,Hindi,61.0,57.0,21.0,29.0,26.0,91.0,,,44.0,29.0,6
+260025,JFT,Term,1.0,All,70,PCMC,2026,51.0,Sanskrit,61.0,64.0,24.0,30.0,20.0,97.0,,,63.0,19.0,10
+260025,Final Exam,Annual,1.0,All,85,PCMC,2026,62.0,Sanskrit,68.0,56.0,18.0,69.0,21.0,92.0,,,27.0,25.0,10
+260026,Unit Test,Chapter 1 Test,1.0,English,87,PCMB,2026,66.0,,,,,,,,,,,,6
+260026,Unit Test,Chapter 1 Test,1.0,Language,79,PCMB,2026,,Hindi,36.0,,,,,,,,,,8
+260026,Unit Test,Chapter 1 Test,1.0,Physics,85,PCMB,2026,,,,56.0,21.0,,,,,,,,10
+260026,Unit Test,Chapter 1 Test,1.0,Chemistry,76,PCMB,2026,,,,,,39.0,15.0,,,,,,10
+260026,Unit Test,Chapter 1 Test,1.0,Maths,87,PCMB,2026,,,,,,,,97.0,,,,,9
+260026,Unit Test,Chapter 1 Test,1.0,Biology,94,PCMB,2026,,,,,,,,,27.0,18.0,,,8
+260026,Mid Term,Term,1.0,All,74,PCMB,2026,95.0,Kannada,91.0,38.0,28.0,46.0,22.0,62.0,53.0,26.0,,,8
+260026,JUT,Term,1.0,All,96,PCMB,2026,83.0,Hindi,99.0,25.0,28.0,63.0,22.0,70.0,68.0,18.0,,,8
+260026,JFT,Term,1.0,All,92,PCMB,2026,71.0,Sanskrit,37.0,36.0,25.0,31.0,21.0,49.0,67.0,18.0,,,5
+260026,Final Exam,Annual,1.0,All,85,PCMB,2026,85.0,Hindi,58.0,49.0,27.0,39.0,24.0,96.0,69.0,26.0,,,8
+260027,Unit Test,Chapter 1 Test,1.0,English,97,PCMB,2026,75.0,,,,,,,,,,,,10
+260027,Unit Test,Chapter 1 Test,1.0,Language,79,PCMB,2026,,Hindi,72.0,,,,,,,,,,7
+260027,Unit Test,Chapter 1 Test,1.0,Physics,100,PCMB,2026,,,,31.0,16.0,,,,,,,,8
+260027,Unit Test,Chapter 1 Test,1.0,Chemistry,90,PCMB,2026,,,,,,48.0,23.0,,,,,,7
+260027,Unit Test,Chapter 1 Test,1.0,Maths,99,PCMB,2026,,,,,,,,82.0,,,,,6
+260027,Unit Test,Chapter 1 Test,1.0,Biology,98,PCMB,2026,,,,,,,,,49.0,27.0,,,9
+260027,Mid Term,Term,1.0,All,95,PCMB,2026,95.0,Sanskrit,65.0,62.0,19.0,27.0,19.0,59.0,56.0,29.0,,,8
+260027,JUT,Term,1.0,All,83,PCMB,2026,46.0,Sanskrit,76.0,56.0,20.0,63.0,19.0,35.0,62.0,18.0,,,9
+260027,JFT,Term,1.0,All,77,PCMB,2026,70.0,Sanskrit,81.0,69.0,29.0,37.0,29.0,62.0,47.0,30.0,,,10
+260027,Final Exam,Annual,1.0,All,94,PCMB,2026,86.0,Kannada,61.0,37.0,25.0,38.0,30.0,60.0,68.0,28.0,,,5
+260028,Unit Test,Chapter 1 Test,1.0,English,88,PCMB,2026,57.0,,,,,,,,,,,,7
+260028,Unit Test,Chapter 1 Test,1.0,Language,80,PCMB,2026,,Sanskrit,53.0,,,,,,,,,,6
+260028,Unit Test,Chapter 1 Test,1.0,Physics,100,PCMB,2026,,,,54.0,22.0,,,,,,,,7
+260028,Unit Test,Chapter 1 Test,1.0,Chemistry,78,PCMB,2026,,,,,,40.0,22.0,,,,,,6
+260028,Unit Test,Chapter 1 Test,1.0,Maths,78,PCMB,2026,,,,,,,,70.0,,,,,9
+260028,Unit Test,Chapter 1 Test,1.0,Biology,96,PCMB,2026,,,,,,,,,68.0,23.0,,,9
+260028,Mid Term,Term,1.0,All,92,PCMB,2026,80.0,Kannada,44.0,65.0,19.0,66.0,21.0,41.0,31.0,25.0,,,6
+260028,JUT,Term,1.0,All,76,PCMB,2026,68.0,Kannada,68.0,57.0,25.0,53.0,26.0,55.0,33.0,28.0,,,8
+260028,JFT,Term,1.0,All,72,PCMB,2026,62.0,Hindi,76.0,54.0,22.0,33.0,25.0,62.0,44.0,24.0,,,9
+260028,Final Exam,Annual,1.0,All,88,PCMB,2026,52.0,Kannada,86.0,48.0,23.0,29.0,21.0,85.0,51.0,24.0,,,6
+260029,Unit Test,Chapter 1 Test,1.0,English,78,PCMC,2026,74.0,,,,,,,,,,,,10
+260029,Unit Test,Chapter 1 Test,1.0,Language,77,PCMC,2026,,Hindi,73.0,,,,,,,,,,6
+260029,Unit Test,Chapter 1 Test,1.0,Physics,76,PCMC,2026,,,,38.0,30.0,,,,,,,,9
+260029,Unit Test,Chapter 1 Test,1.0,Chemistry,95,PCMC,2026,,,,,,42.0,15.0,,,,,,9
+260029,Unit Test,Chapter 1 Test,1.0,Maths,82,PCMC,2026,,,,,,,,74.0,,,,,8
+260029,Unit Test,Chapter 1 Test,1.0,Computer Science,100,PCMC,2026,,,,,,,,,,,25.0,22.0,6
+260029,Mid Term,Term,1.0,All,95,PCMC,2026,55.0,Sanskrit,70.0,25.0,22.0,32.0,16.0,91.0,,,58.0,18.0,5
+260029,JUT,Term,1.0,All,81,PCMC,2026,72.0,Hindi,83.0,53.0,29.0,24.0,21.0,99.0,,,69.0,24.0,7
+260029,JFT,Term,1.0,All,86,PCMC,2026,66.0,Kannada,39.0,56.0,25.0,31.0,20.0,40.0,,,58.0,20.0,7
+260029,Final Exam,Annual,1.0,All,91,PCMC,2026,100.0,Kannada,99.0,45.0,28.0,50.0,24.0,55.0,,,55.0,26.0,5
+260030,Unit Test,Chapter 1 Test,1.0,English,97,PCMC,2026,75.0,,,,,,,,,,,,6
+260030,Unit Test,Chapter 1 Test,1.0,Language,75,PCMC,2026,,Sanskrit,85.0,,,,,,,,,,6
+260030,Unit Test,Chapter 1 Test,1.0,Physics,96,PCMC,2026,,,,43.0,27.0,,,,,,,,9
+260030,Unit Test,Chapter 1 Test,1.0,Chemistry,82,PCMC,2026,,,,,,31.0,20.0,,,,,,7
+260030,Unit Test,Chapter 1 Test,1.0,Maths,99,PCMC,2026,,,,,,,,46.0,,,,,7
+260030,Unit Test,Chapter 1 Test,1.0,Computer Science,80,PCMC,2026,,,,,,,,,,,30.0,22.0,7
+260030,Mid Term,Term,1.0,All,76,PCMC,2026,46.0,Hindi,89.0,42.0,15.0,26.0,21.0,35.0,,,28.0,30.0,6
+260030,JUT,Term,1.0,All,85,PCMC,2026,57.0,Sanskrit,78.0,35.0,18.0,57.0,21.0,83.0,,,47.0,29.0,8
+260030,JFT,Term,1.0,All,71,PCMC,2026,63.0,Hindi,63.0,40.0,17.0,57.0,19.0,96.0,,,43.0,30.0,7
+260030,Final Exam,Annual,1.0,All,89,PCMC,2026,59.0,Kannada,67.0,37.0,26.0,51.0,24.0,36.0,,,39.0,30.0,5
+260031,Unit Test,Chapter 1 Test,1.0,English,96,PCMC,2026,79.0,,,,,,,,,,,,9
+260031,Unit Test,Chapter 1 Test,1.0,Language,81,PCMC,2026,,Hindi,68.0,,,,,,,,,,6
+260031,Unit Test,Chapter 1 Test,1.0,Physics,98,PCMC,2026,,,,67.0,27.0,,,,,,,,8
+260031,Unit Test,Chapter 1 Test,1.0,Chemistry,100,PCMC,2026,,,,,,69.0,26.0,,,,,,6
+260031,Unit Test,Chapter 1 Test,1.0,Maths,87,PCMC,2026,,,,,,,,66.0,,,,,7
+260031,Unit Test,Chapter 1 Test,1.0,Computer Science,100,PCMC,2026,,,,,,,,,,,48.0,17.0,7
+260031,Mid Term,Term,1.0,All,82,PCMC,2026,72.0,Kannada,66.0,43.0,29.0,70.0,24.0,99.0,,,49.0,29.0,5
+260031,JUT,Term,1.0,All,81,PCMC,2026,63.0,Sanskrit,41.0,44.0,26.0,48.0,17.0,39.0,,,41.0,21.0,7
+260031,JFT,Term,1.0,All,88,PCMC,2026,35.0,Hindi,65.0,55.0,21.0,29.0,24.0,70.0,,,55.0,18.0,7
+260031,Final Exam,Annual,1.0,All,88,PCMC,2026,72.0,Kannada,81.0,63.0,15.0,50.0,21.0,54.0,,,58.0,28.0,6
+260032,Unit Test,Chapter 1 Test,1.0,English,93,PCMC,2026,41.0,,,,,,,,,,,,6
+260032,Unit Test,Chapter 1 Test,1.0,Language,83,PCMC,2026,,Hindi,69.0,,,,,,,,,,10
+260032,Unit Test,Chapter 1 Test,1.0,Physics,99,PCMC,2026,,,,27.0,17.0,,,,,,,,9
+260032,Unit Test,Chapter 1 Test,1.0,Chemistry,82,PCMC,2026,,,,,,37.0,28.0,,,,,,9
+260032,Unit Test,Chapter 1 Test,1.0,Maths,98,PCMC,2026,,,,,,,,94.0,,,,,6
+260032,Unit Test,Chapter 1 Test,1.0,Computer Science,93,PCMC,2026,,,,,,,,,,,55.0,20.0,7
+260032,Mid Term,Term,1.0,All,82,PCMC,2026,84.0,Kannada,72.0,46.0,16.0,67.0,21.0,89.0,,,70.0,23.0,10
+260032,JUT,Term,1.0,All,89,PCMC,2026,62.0,Sanskrit,74.0,27.0,26.0,67.0,15.0,80.0,,,54.0,24.0,7
+260032,JFT,Term,1.0,All,78,PCMC,2026,43.0,Sanskrit,52.0,48.0,24.0,59.0,25.0,54.0,,,43.0,17.0,7
+260032,Final Exam,Annual,1.0,All,75,PCMC,2026,74.0,Kannada,72.0,61.0,15.0,49.0,18.0,55.0,,,25.0,23.0,5
+260033,Unit Test,Chapter 1 Test,1.0,English,78,PCMB,2026,48.0,,,,,,,,,,,,6
+260033,Unit Test,Chapter 1 Test,1.0,Language,89,PCMB,2026,,Hindi,62.0,,,,,,,,,,6
+260033,Unit Test,Chapter 1 Test,1.0,Physics,87,PCMB,2026,,,,67.0,19.0,,,,,,,,8
+260033,Unit Test,Chapter 1 Test,1.0,Chemistry,87,PCMB,2026,,,,,,53.0,27.0,,,,,,8
+260033,Unit Test,Chapter 1 Test,1.0,Maths,90,PCMB,2026,,,,,,,,40.0,,,,,9
+260033,Unit Test,Chapter 1 Test,1.0,Biology,93,PCMB,2026,,,,,,,,,65.0,27.0,,,9
+260033,Mid Term,Term,1.0,All,77,PCMB,2026,69.0,Hindi,72.0,44.0,29.0,51.0,15.0,38.0,44.0,27.0,,,7
+260033,JUT,Term,1.0,All,84,PCMB,2026,43.0,Hindi,65.0,62.0,18.0,29.0,28.0,35.0,33.0,29.0,,,9
+260033,JFT,Term,1.0,All,86,PCMB,2026,36.0,Kannada,96.0,67.0,28.0,25.0,23.0,72.0,51.0,18.0,,,6
+260033,Final Exam,Annual,1.0,All,76,PCMB,2026,43.0,Hindi,77.0,64.0,23.0,56.0,22.0,52.0,66.0,18.0,,,8
+260034,Unit Test,Chapter 1 Test,1.0,English,90,PCMC,2026,79.0,,,,,,,,,,,,8
+260034,Unit Test,Chapter 1 Test,1.0,Language,97,PCMC,2026,,Kannada,69.0,,,,,,,,,,8
+260034,Unit Test,Chapter 1 Test,1.0,Physics,92,PCMC,2026,,,,49.0,25.0,,,,,,,,8
+260034,Unit Test,Chapter 1 Test,1.0,Chemistry,76,PCMC,2026,,,,,,45.0,16.0,,,,,,7
+260034,Unit Test,Chapter 1 Test,1.0,Maths,99,PCMC,2026,,,,,,,,45.0,,,,,7
+260034,Unit Test,Chapter 1 Test,1.0,Computer Science,83,PCMC,2026,,,,,,,,,,,57.0,30.0,6
+260034,Mid Term,Term,1.0,All,88,PCMC,2026,66.0,Hindi,91.0,52.0,19.0,50.0,21.0,45.0,,,61.0,26.0,8
+260034,JUT,Term,1.0,All,76,PCMC,2026,93.0,Kannada,55.0,33.0,28.0,36.0,25.0,43.0,,,55.0,29.0,5
+260034,JFT,Term,1.0,All,77,PCMC,2026,61.0,Hindi,55.0,33.0,29.0,36.0,26.0,65.0,,,53.0,16.0,9
+260034,Final Exam,Annual,1.0,All,77,PCMC,2026,82.0,Sanskrit,78.0,69.0,30.0,33.0,27.0,63.0,,,59.0,25.0,10
+260035,Unit Test,Chapter 1 Test,1.0,English,76,PCMC,2026,96.0,,,,,,,,,,,,9
+260035,Unit Test,Chapter 1 Test,1.0,Language,85,PCMC,2026,,Sanskrit,37.0,,,,,,,,,,7
+260035,Unit Test,Chapter 1 Test,1.0,Physics,93,PCMC,2026,,,,56.0,26.0,,,,,,,,7
+260035,Unit Test,Chapter 1 Test,1.0,Chemistry,98,PCMC,2026,,,,,,67.0,16.0,,,,,,8
+260035,Unit Test,Chapter 1 Test,1.0,Maths,87,PCMC,2026,,,,,,,,91.0,,,,,10
+260035,Unit Test,Chapter 1 Test,1.0,Computer Science,84,PCMC,2026,,,,,,,,,,,29.0,25.0,7
+260035,Mid Term,Term,1.0,All,74,PCMC,2026,88.0,Kannada,37.0,55.0,20.0,43.0,22.0,70.0,,,41.0,27.0,8
+260035,JUT,Term,1.0,All,97,PCMC,2026,75.0,Sanskrit,44.0,57.0,26.0,59.0,25.0,66.0,,,42.0,20.0,5
+260035,JFT,Term,1.0,All,70,PCMC,2026,47.0,Hindi,91.0,31.0,17.0,35.0,29.0,90.0,,,67.0,16.0,7
+260035,Final Exam,Annual,1.0,All,71,PCMC,2026,75.0,Kannada,68.0,32.0,17.0,57.0,29.0,79.0,,,39.0,18.0,7
+260036,Unit Test,Chapter 1 Test,1.0,English,78,PCMC,2026,65.0,,,,,,,,,,,,8
+260036,Unit Test,Chapter 1 Test,1.0,Language,96,PCMC,2026,,Sanskrit,66.0,,,,,,,,,,7
+260036,Unit Test,Chapter 1 Test,1.0,Physics,82,PCMC,2026,,,,61.0,22.0,,,,,,,,10
+260036,Unit Test,Chapter 1 Test,1.0,Chemistry,96,PCMC,2026,,,,,,51.0,26.0,,,,,,7
+260036,Unit Test,Chapter 1 Test,1.0,Maths,81,PCMC,2026,,,,,,,,40.0,,,,,10
+260036,Unit Test,Chapter 1 Test,1.0,Computer Science,83,PCMC,2026,,,,,,,,,,,67.0,29.0,7
+260036,Mid Term,Term,1.0,All,77,PCMC,2026,76.0,Hindi,81.0,62.0,23.0,69.0,19.0,93.0,,,67.0,23.0,9
+260036,JUT,Term,1.0,All,71,PCMC,2026,83.0,Sanskrit,87.0,42.0,19.0,31.0,24.0,70.0,,,28.0,26.0,7
+260036,JFT,Term,1.0,All,73,PCMC,2026,36.0,Sanskrit,48.0,66.0,27.0,43.0,21.0,92.0,,,37.0,25.0,6
+260036,Final Exam,Annual,1.0,All,83,PCMC,2026,79.0,Sanskrit,67.0,30.0,21.0,64.0,28.0,81.0,,,58.0,23.0,8
+260037,Unit Test,Chapter 1 Test,1.0,English,81,PCMC,2026,40.0,,,,,,,,,,,,7
+260037,Unit Test,Chapter 1 Test,1.0,Language,77,PCMC,2026,,Kannada,80.0,,,,,,,,,,8
+260037,Unit Test,Chapter 1 Test,1.0,Physics,81,PCMC,2026,,,,51.0,25.0,,,,,,,,8
+260037,Unit Test,Chapter 1 Test,1.0,Chemistry,75,PCMC,2026,,,,,,57.0,24.0,,,,,,9
+260037,Unit Test,Chapter 1 Test,1.0,Maths,91,PCMC,2026,,,,,,,,81.0,,,,,7
+260037,Unit Test,Chapter 1 Test,1.0,Computer Science,88,PCMC,2026,,,,,,,,,,,48.0,23.0,10
+260037,Mid Term,Term,1.0,All,79,PCMC,2026,42.0,Hindi,86.0,26.0,18.0,44.0,29.0,87.0,,,50.0,19.0,9
+260037,JUT,Term,1.0,All,98,PCMC,2026,51.0,Hindi,58.0,48.0,26.0,66.0,16.0,60.0,,,65.0,29.0,6
+260037,JFT,Term,1.0,All,93,PCMC,2026,78.0,Hindi,47.0,53.0,22.0,29.0,22.0,75.0,,,42.0,27.0,8
+260037,Final Exam,Annual,1.0,All,73,PCMC,2026,84.0,Kannada,86.0,43.0,22.0,36.0,30.0,59.0,,,24.0,22.0,9
+260038,Unit Test,Chapter 1 Test,1.0,English,91,PCMB,2026,88.0,,,,,,,,,,,,10
+260038,Unit Test,Chapter 1 Test,1.0,Language,93,PCMB,2026,,Hindi,96.0,,,,,,,,,,7
+260038,Unit Test,Chapter 1 Test,1.0,Physics,94,PCMB,2026,,,,64.0,19.0,,,,,,,,6
+260038,Unit Test,Chapter 1 Test,1.0,Chemistry,75,PCMB,2026,,,,,,55.0,17.0,,,,,,6
+260038,Unit Test,Chapter 1 Test,1.0,Maths,84,PCMB,2026,,,,,,,,45.0,,,,,8
+260038,Unit Test,Chapter 1 Test,1.0,Biology,82,PCMB,2026,,,,,,,,,47.0,15.0,,,8
+260038,Mid Term,Term,1.0,All,78,PCMB,2026,56.0,Kannada,70.0,42.0,26.0,66.0,16.0,79.0,53.0,24.0,,,8
+260038,JUT,Term,1.0,All,100,PCMB,2026,75.0,Hindi,47.0,37.0,26.0,56.0,18.0,77.0,37.0,20.0,,,6
+260038,JFT,Term,1.0,All,71,PCMB,2026,94.0,Sanskrit,73.0,56.0,18.0,59.0,21.0,41.0,52.0,18.0,,,10
+260038,Final Exam,Annual,1.0,All,95,PCMB,2026,99.0,Sanskrit,69.0,27.0,19.0,53.0,24.0,39.0,55.0,23.0,,,8
+260039,Unit Test,Chapter 1 Test,1.0,English,99,PCMC,2026,56.0,,,,,,,,,,,,10
+260039,Unit Test,Chapter 1 Test,1.0,Language,82,PCMC,2026,,Sanskrit,71.0,,,,,,,,,,9
+260039,Unit Test,Chapter 1 Test,1.0,Physics,91,PCMC,2026,,,,32.0,25.0,,,,,,,,9
+260039,Unit Test,Chapter 1 Test,1.0,Chemistry,79,PCMC,2026,,,,,,58.0,16.0,,,,,,9
+260039,Unit Test,Chapter 1 Test,1.0,Maths,92,PCMC,2026,,,,,,,,98.0,,,,,8
+260039,Unit Test,Chapter 1 Test,1.0,Computer Science,95,PCMC,2026,,,,,,,,,,,58.0,26.0,6
+260039,Mid Term,Term,1.0,All,73,PCMC,2026,76.0,Hindi,87.0,69.0,15.0,59.0,30.0,66.0,,,44.0,25.0,6
+260039,JUT,Term,1.0,All,100,PCMC,2026,36.0,Hindi,53.0,54.0,20.0,52.0,23.0,43.0,,,43.0,21.0,10
+260039,JFT,Term,1.0,All,76,PCMC,2026,98.0,Hindi,98.0,48.0,21.0,47.0,29.0,70.0,,,54.0,16.0,9
+260039,Final Exam,Annual,1.0,All,78,PCMC,2026,90.0,Hindi,49.0,67.0,30.0,68.0,17.0,100.0,,,40.0,26.0,10
+260040,Unit Test,Chapter 1 Test,1.0,English,75,PCMB,2026,67.0,,,,,,,,,,,,7
+260040,Unit Test,Chapter 1 Test,1.0,Language,82,PCMB,2026,,Kannada,40.0,,,,,,,,,,6
+260040,Unit Test,Chapter 1 Test,1.0,Physics,81,PCMB,2026,,,,60.0,27.0,,,,,,,,7
+260040,Unit Test,Chapter 1 Test,1.0,Chemistry,76,PCMB,2026,,,,,,59.0,15.0,,,,,,6
+260040,Unit Test,Chapter 1 Test,1.0,Maths,97,PCMB,2026,,,,,,,,87.0,,,,,9
+260040,Unit Test,Chapter 1 Test,1.0,Biology,90,PCMB,2026,,,,,,,,,51.0,19.0,,,9
+260040,Mid Term,Term,1.0,All,86,PCMB,2026,67.0,Hindi,75.0,37.0,24.0,31.0,29.0,92.0,41.0,25.0,,,7
+260040,JUT,Term,1.0,All,81,PCMB,2026,99.0,Kannada,60.0,36.0,15.0,60.0,18.0,98.0,39.0,20.0,,,6
+260040,JFT,Term,1.0,All,98,PCMB,2026,76.0,Kannada,93.0,27.0,17.0,70.0,16.0,100.0,26.0,27.0,,,8
+260040,Final Exam,Annual,1.0,All,83,PCMB,2026,65.0,Hindi,99.0,47.0,16.0,61.0,19.0,83.0,26.0,23.0,,,8
+260041,Unit Test,Chapter 1 Test,1.0,English,79,PCMC,2026,97.0,,,,,,,,,,,,10
+260041,Unit Test,Chapter 1 Test,1.0,Language,89,PCMC,2026,,Kannada,89.0,,,,,,,,,,6
+260041,Unit Test,Chapter 1 Test,1.0,Physics,98,PCMC,2026,,,,42.0,29.0,,,,,,,,8
+260041,Unit Test,Chapter 1 Test,1.0,Chemistry,91,PCMC,2026,,,,,,56.0,19.0,,,,,,9
+260041,Unit Test,Chapter 1 Test,1.0,Maths,96,PCMC,2026,,,,,,,,89.0,,,,,10
+260041,Unit Test,Chapter 1 Test,1.0,Computer Science,80,PCMC,2026,,,,,,,,,,,51.0,27.0,6
+260041,Mid Term,Term,1.0,All,70,PCMC,2026,52.0,Kannada,52.0,33.0,16.0,49.0,16.0,35.0,,,55.0,29.0,9
+260041,JUT,Term,1.0,All,81,PCMC,2026,67.0,Kannada,91.0,62.0,27.0,34.0,21.0,68.0,,,52.0,30.0,8
+260041,JFT,Term,1.0,All,78,PCMC,2026,44.0,Kannada,52.0,34.0,24.0,64.0,27.0,47.0,,,41.0,21.0,8
+260041,Final Exam,Annual,1.0,All,91,PCMC,2026,74.0,Kannada,65.0,40.0,25.0,41.0,18.0,84.0,,,26.0,25.0,8
+260042,Unit Test,Chapter 1 Test,1.0,English,86,PCMC,2026,100.0,,,,,,,,,,,,8
+260042,Unit Test,Chapter 1 Test,1.0,Language,90,PCMC,2026,,Sanskrit,90.0,,,,,,,,,,6
+260042,Unit Test,Chapter 1 Test,1.0,Physics,80,PCMC,2026,,,,35.0,26.0,,,,,,,,8
+260042,Unit Test,Chapter 1 Test,1.0,Chemistry,87,PCMC,2026,,,,,,30.0,23.0,,,,,,10
+260042,Unit Test,Chapter 1 Test,1.0,Maths,100,PCMC,2026,,,,,,,,81.0,,,,,10
+260042,Unit Test,Chapter 1 Test,1.0,Computer Science,97,PCMC,2026,,,,,,,,,,,26.0,26.0,8
+260042,Mid Term,Term,1.0,All,90,PCMC,2026,71.0,Hindi,71.0,25.0,21.0,63.0,15.0,59.0,,,54.0,26.0,10
+260042,JUT,Term,1.0,All,97,PCMC,2026,63.0,Kannada,38.0,41.0,17.0,54.0,27.0,100.0,,,47.0,16.0,7
+260042,JFT,Term,1.0,All,79,PCMC,2026,40.0,Hindi,86.0,70.0,25.0,54.0,29.0,73.0,,,44.0,30.0,10
+260042,Final Exam,Annual,1.0,All,75,PCMC,2026,67.0,Sanskrit,71.0,62.0,30.0,24.0,29.0,87.0,,,56.0,16.0,10
+260043,Unit Test,Chapter 1 Test,1.0,English,94,PCMC,2026,51.0,,,,,,,,,,,,10
+260043,Unit Test,Chapter 1 Test,1.0,Language,97,PCMC,2026,,Sanskrit,59.0,,,,,,,,,,10
+260043,Unit Test,Chapter 1 Test,1.0,Physics,83,PCMC,2026,,,,27.0,16.0,,,,,,,,8
+260043,Unit Test,Chapter 1 Test,1.0,Chemistry,78,PCMC,2026,,,,,,62.0,25.0,,,,,,6
+260043,Unit Test,Chapter 1 Test,1.0,Maths,83,PCMC,2026,,,,,,,,67.0,,,,,9
+260043,Unit Test,Chapter 1 Test,1.0,Computer Science,90,PCMC,2026,,,,,,,,,,,39.0,21.0,7
+260043,Mid Term,Term,1.0,All,93,PCMC,2026,71.0,Hindi,59.0,45.0,16.0,28.0,20.0,76.0,,,64.0,22.0,7
+260043,JUT,Term,1.0,All,100,PCMC,2026,88.0,Hindi,43.0,37.0,29.0,42.0,18.0,99.0,,,59.0,24.0,7
+260043,JFT,Term,1.0,All,95,PCMC,2026,100.0,Hindi,68.0,33.0,18.0,60.0,24.0,77.0,,,55.0,29.0,7
+260043,Final Exam,Annual,1.0,All,84,PCMC,2026,45.0,Hindi,39.0,57.0,30.0,43.0,29.0,74.0,,,68.0,18.0,6
+260044,Unit Test,Chapter 1 Test,1.0,English,88,PCMC,2026,96.0,,,,,,,,,,,,10
+260044,Unit Test,Chapter 1 Test,1.0,Language,98,PCMC,2026,,Hindi,36.0,,,,,,,,,,6
+260044,Unit Test,Chapter 1 Test,1.0,Physics,99,PCMC,2026,,,,56.0,15.0,,,,,,,,10
+260044,Unit Test,Chapter 1 Test,1.0,Chemistry,90,PCMC,2026,,,,,,40.0,16.0,,,,,,9
+260044,Unit Test,Chapter 1 Test,1.0,Maths,85,PCMC,2026,,,,,,,,75.0,,,,,8
+260044,Unit Test,Chapter 1 Test,1.0,Computer Science,78,PCMC,2026,,,,,,,,,,,31.0,17.0,8
+260044,Mid Term,Term,1.0,All,94,PCMC,2026,35.0,Hindi,44.0,36.0,19.0,30.0,22.0,88.0,,,33.0,25.0,6
+260044,JUT,Term,1.0,All,100,PCMC,2026,90.0,Sanskrit,46.0,61.0,19.0,32.0,29.0,81.0,,,35.0,25.0,6
+260044,JFT,Term,1.0,All,100,PCMC,2026,62.0,Hindi,75.0,68.0,23.0,39.0,17.0,98.0,,,56.0,22.0,6
+260044,Final Exam,Annual,1.0,All,72,PCMC,2026,68.0,Hindi,40.0,54.0,29.0,52.0,27.0,92.0,,,41.0,26.0,10
+260045,Unit Test,Chapter 1 Test,1.0,English,96,PCMC,2026,79.0,,,,,,,,,,,,7
+260045,Unit Test,Chapter 1 Test,1.0,Language,91,PCMC,2026,,Hindi,72.0,,,,,,,,,,6
+260045,Unit Test,Chapter 1 Test,1.0,Physics,94,PCMC,2026,,,,48.0,22.0,,,,,,,,6
+260045,Unit Test,Chapter 1 Test,1.0,Chemistry,90,PCMC,2026,,,,,,59.0,24.0,,,,,,7
+260045,Unit Test,Chapter 1 Test,1.0,Maths,86,PCMC,2026,,,,,,,,67.0,,,,,7
+260045,Unit Test,Chapter 1 Test,1.0,Computer Science,81,PCMC,2026,,,,,,,,,,,37.0,27.0,6
+260045,Mid Term,Term,1.0,All,81,PCMC,2026,69.0,Kannada,83.0,29.0,26.0,33.0,19.0,49.0,,,25.0,26.0,6
+260045,JUT,Term,1.0,All,81,PCMC,2026,90.0,Kannada,87.0,45.0,20.0,36.0,15.0,89.0,,,70.0,20.0,8
+260045,JFT,Term,1.0,All,86,PCMC,2026,76.0,Hindi,74.0,63.0,16.0,56.0,21.0,76.0,,,53.0,24.0,10
+260045,Final Exam,Annual,1.0,All,96,PCMC,2026,69.0,Hindi,76.0,69.0,29.0,50.0,24.0,62.0,,,63.0,29.0,9
+260046,Unit Test,Chapter 1 Test,1.0,English,76,PCMC,2026,64.0,,,,,,,,,,,,8
+260046,Unit Test,Chapter 1 Test,1.0,Language,81,PCMC,2026,,Kannada,56.0,,,,,,,,,,9
+260046,Unit Test,Chapter 1 Test,1.0,Physics,79,PCMC,2026,,,,43.0,21.0,,,,,,,,10
+260046,Unit Test,Chapter 1 Test,1.0,Chemistry,100,PCMC,2026,,,,,,68.0,21.0,,,,,,10
+260046,Unit Test,Chapter 1 Test,1.0,Maths,89,PCMC,2026,,,,,,,,46.0,,,,,8
+260046,Unit Test,Chapter 1 Test,1.0,Computer Science,86,PCMC,2026,,,,,,,,,,,40.0,26.0,9
+260046,Mid Term,Term,1.0,All,94,PCMC,2026,78.0,Kannada,69.0,47.0,24.0,28.0,30.0,77.0,,,28.0,29.0,9
+260046,JUT,Term,1.0,All,85,PCMC,2026,79.0,Hindi,39.0,64.0,26.0,66.0,28.0,37.0,,,42.0,30.0,6
+260046,JFT,Term,1.0,All,79,PCMC,2026,79.0,Hindi,46.0,32.0,28.0,43.0,17.0,73.0,,,55.0,22.0,5
+260046,Final Exam,Annual,1.0,All,96,PCMC,2026,57.0,Kannada,97.0,50.0,20.0,36.0,24.0,53.0,,,41.0,20.0,7
+260047,Unit Test,Chapter 1 Test,1.0,English,75,PCMC,2026,84.0,,,,,,,,,,,,7
+260047,Unit Test,Chapter 1 Test,1.0,Language,76,PCMC,2026,,Sanskrit,39.0,,,,,,,,,,6
+260047,Unit Test,Chapter 1 Test,1.0,Physics,87,PCMC,2026,,,,36.0,17.0,,,,,,,,10
+260047,Unit Test,Chapter 1 Test,1.0,Chemistry,94,PCMC,2026,,,,,,59.0,22.0,,,,,,8
+260047,Unit Test,Chapter 1 Test,1.0,Maths,93,PCMC,2026,,,,,,,,100.0,,,,,9
+260047,Unit Test,Chapter 1 Test,1.0,Computer Science,88,PCMC,2026,,,,,,,,,,,59.0,27.0,8
+260047,Mid Term,Term,1.0,All,88,PCMC,2026,96.0,Hindi,77.0,50.0,17.0,48.0,24.0,73.0,,,37.0,29.0,5
+260047,JUT,Term,1.0,All,90,PCMC,2026,100.0,Kannada,76.0,34.0,23.0,56.0,15.0,65.0,,,33.0,16.0,10
+260047,JFT,Term,1.0,All,93,PCMC,2026,82.0,Sanskrit,95.0,38.0,19.0,54.0,21.0,65.0,,,59.0,23.0,5
+260047,Final Exam,Annual,1.0,All,91,PCMC,2026,92.0,Hindi,93.0,31.0,16.0,29.0,28.0,84.0,,,61.0,27.0,9
+260048,Unit Test,Chapter 1 Test,1.0,English,87,PCMC,2026,60.0,,,,,,,,,,,,6
+260048,Unit Test,Chapter 1 Test,1.0,Language,96,PCMC,2026,,Kannada,100.0,,,,,,,,,,8
+260048,Unit Test,Chapter 1 Test,1.0,Physics,77,PCMC,2026,,,,26.0,22.0,,,,,,,,7
+260048,Unit Test,Chapter 1 Test,1.0,Chemistry,81,PCMC,2026,,,,,,29.0,20.0,,,,,,9
+260048,Unit Test,Chapter 1 Test,1.0,Maths,88,PCMC,2026,,,,,,,,77.0,,,,,7
+260048,Unit Test,Chapter 1 Test,1.0,Computer Science,92,PCMC,2026,,,,,,,,,,,33.0,26.0,9
+260048,Mid Term,Term,1.0,All,74,PCMC,2026,93.0,Hindi,61.0,46.0,15.0,55.0,15.0,100.0,,,62.0,19.0,8
+260048,JUT,Term,1.0,All,91,PCMC,2026,68.0,Sanskrit,35.0,55.0,23.0,32.0,18.0,63.0,,,57.0,26.0,9
+260048,JFT,Term,1.0,All,89,PCMC,2026,47.0,Hindi,71.0,56.0,21.0,36.0,24.0,56.0,,,41.0,22.0,9
+260048,Final Exam,Annual,1.0,All,77,PCMC,2026,71.0,Hindi,72.0,69.0,18.0,59.0,29.0,91.0,,,34.0,23.0,6
+260049,Unit Test,Chapter 1 Test,1.0,English,90,PCMC,2026,81.0,,,,,,,,,,,,9
+260049,Unit Test,Chapter 1 Test,1.0,Language,91,PCMC,2026,,Hindi,74.0,,,,,,,,,,9
+260049,Unit Test,Chapter 1 Test,1.0,Physics,100,PCMC,2026,,,,25.0,25.0,,,,,,,,6
+260049,Unit Test,Chapter 1 Test,1.0,Chemistry,78,PCMC,2026,,,,,,48.0,22.0,,,,,,6
+260049,Unit Test,Chapter 1 Test,1.0,Maths,96,PCMC,2026,,,,,,,,36.0,,,,,6
+260049,Unit Test,Chapter 1 Test,1.0,Computer Science,95,PCMC,2026,,,,,,,,,,,60.0,26.0,10
+260049,Mid Term,Term,1.0,All,100,PCMC,2026,88.0,Sanskrit,40.0,56.0,23.0,68.0,20.0,48.0,,,55.0,20.0,7
+260049,JUT,Term,1.0,All,73,PCMC,2026,39.0,Hindi,84.0,34.0,24.0,55.0,16.0,51.0,,,67.0,26.0,7
+260049,JFT,Term,1.0,All,100,PCMC,2026,81.0,Hindi,66.0,69.0,16.0,27.0,15.0,40.0,,,39.0,16.0,7
+260049,Final Exam,Annual,1.0,All,90,PCMC,2026,85.0,Sanskrit,35.0,48.0,25.0,27.0,29.0,53.0,,,62.0,18.0,5
+260050,Unit Test,Chapter 1 Test,1.0,English,95,PCMB,2026,49.0,,,,,,,,,,,,6
+260050,Unit Test,Chapter 1 Test,1.0,Language,99,PCMB,2026,,Sanskrit,88.0,,,,,,,,,,6
+260050,Unit Test,Chapter 1 Test,1.0,Physics,90,PCMB,2026,,,,45.0,20.0,,,,,,,,6
+260050,Unit Test,Chapter 1 Test,1.0,Chemistry,100,PCMB,2026,,,,,,36.0,16.0,,,,,,7
+260050,Unit Test,Chapter 1 Test,1.0,Maths,99,PCMB,2026,,,,,,,,90.0,,,,,8
+260050,Unit Test,Chapter 1 Test,1.0,Biology,92,PCMB,2026,,,,,,,,,25.0,16.0,,,7
+260050,Mid Term,Term,1.0,All,74,PCMB,2026,66.0,Hindi,73.0,29.0,19.0,42.0,21.0,82.0,49.0,20.0,,,5
+260050,JUT,Term,1.0,All,89,PCMB,2026,95.0,Kannada,84.0,28.0,18.0,35.0,26.0,68.0,48.0,26.0,,,6
+260050,JFT,Term,1.0,All,72,PCMB,2026,70.0,Kannada,35.0,26.0,17.0,28.0,15.0,51.0,24.0,17.0,,,9
+260050,Final Exam,Annual,1.0,All,78,PCMB,2026,63.0,Sanskrit,71.0,42.0,25.0,54.0,22.0,65.0,50.0,15.0,,,8
+260051,Unit Test,Chapter 1 Test,1.0,English,85,PCMC,2026,53.0,,,,,,,,,,,,9
+260051,Unit Test,Chapter 1 Test,1.0,Language,77,PCMC,2026,,Sanskrit,74.0,,,,,,,,,,6
+260051,Unit Test,Chapter 1 Test,1.0,Physics,81,PCMC,2026,,,,42.0,16.0,,,,,,,,6
+260051,Unit Test,Chapter 1 Test,1.0,Chemistry,90,PCMC,2026,,,,,,59.0,24.0,,,,,,10
+260051,Unit Test,Chapter 1 Test,1.0,Maths,89,PCMC,2026,,,,,,,,84.0,,,,,7
+260051,Unit Test,Chapter 1 Test,1.0,Computer Science,76,PCMC,2026,,,,,,,,,,,43.0,28.0,8
+260051,Mid Term,Term,1.0,All,93,PCMC,2026,94.0,Kannada,69.0,31.0,23.0,61.0,16.0,64.0,,,52.0,25.0,6
+260051,JUT,Term,1.0,All,85,PCMC,2026,40.0,Kannada,84.0,27.0,18.0,37.0,18.0,45.0,,,65.0,20.0,8
+260051,JFT,Term,1.0,All,76,PCMC,2026,89.0,Kannada,76.0,64.0,20.0,47.0,29.0,66.0,,,29.0,23.0,6
+260051,Final Exam,Annual,1.0,All,92,PCMC,2026,39.0,Kannada,100.0,49.0,15.0,45.0,17.0,39.0,,,39.0,24.0,8
+260052,Unit Test,Chapter 1 Test,1.0,English,92,PCMC,2026,53.0,,,,,,,,,,,,7
+260052,Unit Test,Chapter 1 Test,1.0,Language,90,PCMC,2026,,Sanskrit,73.0,,,,,,,,,,7
+260052,Unit Test,Chapter 1 Test,1.0,Physics,85,PCMC,2026,,,,42.0,24.0,,,,,,,,8
+260052,Unit Test,Chapter 1 Test,1.0,Chemistry,93,PCMC,2026,,,,,,49.0,19.0,,,,,,10
+260052,Unit Test,Chapter 1 Test,1.0,Maths,94,PCMC,2026,,,,,,,,56.0,,,,,9
+260052,Unit Test,Chapter 1 Test,1.0,Computer Science,86,PCMC,2026,,,,,,,,,,,48.0,16.0,6
+260052,Mid Term,Term,1.0,All,71,PCMC,2026,60.0,Sanskrit,96.0,43.0,26.0,48.0,16.0,69.0,,,25.0,26.0,6
+260052,JUT,Term,1.0,All,88,PCMC,2026,82.0,Hindi,72.0,46.0,25.0,62.0,17.0,64.0,,,25.0,18.0,7
+260052,JFT,Term,1.0,All,91,PCMC,2026,52.0,Sanskrit,53.0,29.0,24.0,66.0,29.0,67.0,,,34.0,24.0,9
+260052,Final Exam,Annual,1.0,All,100,PCMC,2026,72.0,Hindi,56.0,42.0,23.0,50.0,16.0,36.0,,,52.0,19.0,8
+260053,Unit Test,Chapter 1 Test,1.0,English,84,PCMC,2026,59.0,,,,,,,,,,,,6
+260053,Unit Test,Chapter 1 Test,1.0,Language,80,PCMC,2026,,Hindi,74.0,,,,,,,,,,6
+260053,Unit Test,Chapter 1 Test,1.0,Physics,77,PCMC,2026,,,,41.0,28.0,,,,,,,,6
+260053,Unit Test,Chapter 1 Test,1.0,Chemistry,75,PCMC,2026,,,,,,51.0,26.0,,,,,,9
+260053,Unit Test,Chapter 1 Test,1.0,Maths,96,PCMC,2026,,,,,,,,40.0,,,,,8
+260053,Unit Test,Chapter 1 Test,1.0,Computer Science,82,PCMC,2026,,,,,,,,,,,60.0,28.0,9
+260053,Mid Term,Term,1.0,All,79,PCMC,2026,71.0,Sanskrit,77.0,47.0,23.0,45.0,25.0,52.0,,,25.0,16.0,9
+260053,JUT,Term,1.0,All,75,PCMC,2026,77.0,Kannada,90.0,40.0,17.0,27.0,15.0,64.0,,,64.0,25.0,9
+260053,JFT,Term,1.0,All,84,PCMC,2026,94.0,Kannada,96.0,30.0,29.0,42.0,17.0,45.0,,,45.0,23.0,9
+260053,Final Exam,Annual,1.0,All,86,PCMC,2026,73.0,Kannada,68.0,69.0,17.0,30.0,15.0,77.0,,,38.0,23.0,6
+260054,Unit Test,Chapter 1 Test,1.0,English,82,PCMB,2026,41.0,,,,,,,,,,,,10
+260054,Unit Test,Chapter 1 Test,1.0,Language,83,PCMB,2026,,Kannada,46.0,,,,,,,,,,6
+260054,Unit Test,Chapter 1 Test,1.0,Physics,78,PCMB,2026,,,,49.0,23.0,,,,,,,,9
+260054,Unit Test,Chapter 1 Test,1.0,Chemistry,92,PCMB,2026,,,,,,70.0,18.0,,,,,,8
+260054,Unit Test,Chapter 1 Test,1.0,Maths,85,PCMB,2026,,,,,,,,37.0,,,,,10
+260054,Unit Test,Chapter 1 Test,1.0,Biology,96,PCMB,2026,,,,,,,,,51.0,18.0,,,8
+260054,Mid Term,Term,1.0,All,82,PCMB,2026,82.0,Kannada,74.0,60.0,26.0,52.0,15.0,100.0,30.0,26.0,,,10
+260054,JUT,Term,1.0,All,83,PCMB,2026,61.0,Hindi,63.0,68.0,22.0,46.0,27.0,37.0,65.0,23.0,,,10
+260054,JFT,Term,1.0,All,71,PCMB,2026,89.0,Kannada,95.0,33.0,29.0,29.0,28.0,98.0,24.0,17.0,,,8
+260054,Final Exam,Annual,1.0,All,86,PCMB,2026,49.0,Kannada,92.0,25.0,25.0,36.0,16.0,72.0,64.0,19.0,,,5
+260055,Unit Test,Chapter 1 Test,1.0,English,95,PCMB,2026,39.0,,,,,,,,,,,,10
+260055,Unit Test,Chapter 1 Test,1.0,Language,92,PCMB,2026,,Kannada,64.0,,,,,,,,,,8
+260055,Unit Test,Chapter 1 Test,1.0,Physics,85,PCMB,2026,,,,44.0,19.0,,,,,,,,6
+260055,Unit Test,Chapter 1 Test,1.0,Chemistry,77,PCMB,2026,,,,,,66.0,15.0,,,,,,7
+260055,Unit Test,Chapter 1 Test,1.0,Maths,81,PCMB,2026,,,,,,,,87.0,,,,,9
+260055,Unit Test,Chapter 1 Test,1.0,Biology,98,PCMB,2026,,,,,,,,,61.0,21.0,,,6
+260055,Mid Term,Term,1.0,All,89,PCMB,2026,67.0,Kannada,88.0,62.0,28.0,67.0,20.0,47.0,43.0,28.0,,,7
+260055,JUT,Term,1.0,All,90,PCMB,2026,49.0,Sanskrit,88.0,47.0,28.0,66.0,28.0,81.0,51.0,16.0,,,6
+260055,JFT,Term,1.0,All,74,PCMB,2026,37.0,Sanskrit,95.0,67.0,27.0,45.0,20.0,100.0,39.0,27.0,,,9
+260055,Final Exam,Annual,1.0,All,77,PCMB,2026,89.0,Hindi,41.0,49.0,20.0,42.0,16.0,61.0,64.0,17.0,,,5
+260056,Unit Test,Chapter 1 Test,1.0,English,91,PCMC,2026,54.0,,,,,,,,,,,,6
+260056,Unit Test,Chapter 1 Test,1.0,Language,79,PCMC,2026,,Kannada,63.0,,,,,,,,,,9
+260056,Unit Test,Chapter 1 Test,1.0,Physics,93,PCMC,2026,,,,65.0,28.0,,,,,,,,6
+260056,Unit Test,Chapter 1 Test,1.0,Chemistry,79,PCMC,2026,,,,,,60.0,30.0,,,,,,7
+260056,Unit Test,Chapter 1 Test,1.0,Maths,93,PCMC,2026,,,,,,,,85.0,,,,,6
+260056,Unit Test,Chapter 1 Test,1.0,Computer Science,87,PCMC,2026,,,,,,,,,,,45.0,29.0,10
+260056,Mid Term,Term,1.0,All,93,PCMC,2026,94.0,Kannada,58.0,65.0,29.0,30.0,26.0,100.0,,,28.0,24.0,6
+260056,JUT,Term,1.0,All,72,PCMC,2026,67.0,Sanskrit,71.0,59.0,18.0,25.0,18.0,56.0,,,67.0,15.0,10
+260056,JFT,Term,1.0,All,73,PCMC,2026,45.0,Kannada,44.0,27.0,25.0,37.0,23.0,37.0,,,49.0,19.0,8
+260056,Final Exam,Annual,1.0,All,92,PCMC,2026,73.0,Hindi,69.0,48.0,27.0,67.0,27.0,76.0,,,64.0,29.0,5
+260057,Unit Test,Chapter 1 Test,1.0,English,98,PCMC,2026,98.0,,,,,,,,,,,,6
+260057,Unit Test,Chapter 1 Test,1.0,Language,76,PCMC,2026,,Sanskrit,93.0,,,,,,,,,,8
+260057,Unit Test,Chapter 1 Test,1.0,Physics,77,PCMC,2026,,,,48.0,22.0,,,,,,,,10
+260057,Unit Test,Chapter 1 Test,1.0,Chemistry,82,PCMC,2026,,,,,,50.0,28.0,,,,,,9
+260057,Unit Test,Chapter 1 Test,1.0,Maths,98,PCMC,2026,,,,,,,,41.0,,,,,9
+260057,Unit Test,Chapter 1 Test,1.0,Computer Science,85,PCMC,2026,,,,,,,,,,,63.0,23.0,7
+260057,Mid Term,Term,1.0,All,71,PCMC,2026,48.0,Sanskrit,82.0,25.0,15.0,44.0,29.0,45.0,,,41.0,29.0,7
+260057,JUT,Term,1.0,All,83,PCMC,2026,60.0,Kannada,90.0,29.0,19.0,30.0,17.0,39.0,,,40.0,27.0,10
+260057,JFT,Term,1.0,All,97,PCMC,2026,56.0,Sanskrit,73.0,41.0,23.0,56.0,22.0,68.0,,,45.0,17.0,10
+260057,Final Exam,Annual,1.0,All,81,PCMC,2026,36.0,Kannada,51.0,65.0,19.0,44.0,24.0,69.0,,,62.0,19.0,8
+260058,Unit Test,Chapter 1 Test,1.0,English,100,PCMB,2026,58.0,,,,,,,,,,,,8
+260058,Unit Test,Chapter 1 Test,1.0,Language,90,PCMB,2026,,Kannada,78.0,,,,,,,,,,9
+260058,Unit Test,Chapter 1 Test,1.0,Physics,92,PCMB,2026,,,,47.0,17.0,,,,,,,,7
+260058,Unit Test,Chapter 1 Test,1.0,Chemistry,98,PCMB,2026,,,,,,43.0,28.0,,,,,,6
+260058,Unit Test,Chapter 1 Test,1.0,Maths,82,PCMB,2026,,,,,,,,74.0,,,,,7
+260058,Unit Test,Chapter 1 Test,1.0,Biology,100,PCMB,2026,,,,,,,,,61.0,24.0,,,10
+260058,Mid Term,Term,1.0,All,85,PCMB,2026,95.0,Kannada,44.0,36.0,26.0,47.0,21.0,57.0,55.0,19.0,,,9
+260058,JUT,Term,1.0,All,100,PCMB,2026,53.0,Hindi,70.0,42.0,29.0,61.0,26.0,79.0,40.0,26.0,,,10
+260058,JFT,Term,1.0,All,91,PCMB,2026,48.0,Kannada,61.0,69.0,24.0,55.0,19.0,79.0,28.0,19.0,,,6
+260058,Final Exam,Annual,1.0,All,88,PCMB,2026,96.0,Sanskrit,80.0,39.0,25.0,51.0,26.0,43.0,61.0,30.0,,,10
+260059,Unit Test,Chapter 1 Test,1.0,English,78,PCMC,2026,78.0,,,,,,,,,,,,8
+260059,Unit Test,Chapter 1 Test,1.0,Language,90,PCMC,2026,,Kannada,45.0,,,,,,,,,,8
+260059,Unit Test,Chapter 1 Test,1.0,Physics,100,PCMC,2026,,,,40.0,22.0,,,,,,,,9
+260059,Unit Test,Chapter 1 Test,1.0,Chemistry,82,PCMC,2026,,,,,,56.0,16.0,,,,,,10
+260059,Unit Test,Chapter 1 Test,1.0,Maths,77,PCMC,2026,,,,,,,,79.0,,,,,8
+260059,Unit Test,Chapter 1 Test,1.0,Computer Science,87,PCMC,2026,,,,,,,,,,,34.0,20.0,7
+260059,Mid Term,Term,1.0,All,95,PCMC,2026,94.0,Hindi,40.0,41.0,17.0,70.0,16.0,79.0,,,64.0,27.0,9
+260059,JUT,Term,1.0,All,83,PCMC,2026,84.0,Kannada,89.0,34.0,17.0,54.0,17.0,74.0,,,61.0,20.0,8
+260059,JFT,Term,1.0,All,98,PCMC,2026,98.0,Sanskrit,83.0,60.0,23.0,56.0,23.0,64.0,,,59.0,20.0,8
+260059,Final Exam,Annual,1.0,All,76,PCMC,2026,49.0,Sanskrit,69.0,48.0,29.0,60.0,23.0,58.0,,,48.0,29.0,8
+260060,Unit Test,Chapter 1 Test,1.0,English,97,PCMB,2026,91.0,,,,,,,,,,,,6
+260060,Unit Test,Chapter 1 Test,1.0,Language,94,PCMB,2026,,Kannada,78.0,,,,,,,,,,6
+260060,Unit Test,Chapter 1 Test,1.0,Physics,80,PCMB,2026,,,,47.0,15.0,,,,,,,,6
+260060,Unit Test,Chapter 1 Test,1.0,Chemistry,93,PCMB,2026,,,,,,24.0,22.0,,,,,,7
+260060,Unit Test,Chapter 1 Test,1.0,Maths,100,PCMB,2026,,,,,,,,72.0,,,,,9
+260060,Unit Test,Chapter 1 Test,1.0,Biology,84,PCMB,2026,,,,,,,,,65.0,25.0,,,9
+260060,Mid Term,Term,1.0,All,84,PCMB,2026,67.0,Sanskrit,74.0,56.0,23.0,47.0,24.0,35.0,63.0,18.0,,,6
+260060,JUT,Term,1.0,All,98,PCMB,2026,61.0,Sanskrit,55.0,53.0,15.0,34.0,19.0,35.0,57.0,20.0,,,10
+260060,JFT,Term,1.0,All,78,PCMB,2026,46.0,Sanskrit,90.0,61.0,26.0,26.0,24.0,59.0,32.0,25.0,,,8
+260060,Final Exam,Annual,1.0,All,82,PCMB,2026,93.0,Kannada,52.0,60.0,20.0,52.0,19.0,68.0,69.0,19.0,,,9
+260061,Unit Test,Chapter 1 Test,1.0,English,86,PCMB,2026,44.0,,,,,,,,,,,,6
+260061,Unit Test,Chapter 1 Test,1.0,Language,89,PCMB,2026,,Sanskrit,57.0,,,,,,,,,,6
+260061,Unit Test,Chapter 1 Test,1.0,Physics,86,PCMB,2026,,,,68.0,15.0,,,,,,,,6
+260061,Unit Test,Chapter 1 Test,1.0,Chemistry,99,PCMB,2026,,,,,,32.0,29.0,,,,,,6
+260061,Unit Test,Chapter 1 Test,1.0,Maths,85,PCMB,2026,,,,,,,,51.0,,,,,6
+260061,Unit Test,Chapter 1 Test,1.0,Biology,85,PCMB,2026,,,,,,,,,27.0,21.0,,,8
+260061,Mid Term,Term,1.0,All,82,PCMB,2026,62.0,Kannada,50.0,46.0,28.0,66.0,15.0,58.0,28.0,24.0,,,10
+260061,JUT,Term,1.0,All,92,PCMB,2026,72.0,Hindi,74.0,28.0,20.0,48.0,24.0,84.0,59.0,20.0,,,8
+260061,JFT,Term,1.0,All,88,PCMB,2026,85.0,Hindi,45.0,60.0,17.0,56.0,19.0,90.0,52.0,25.0,,,5
+260061,Final Exam,Annual,1.0,All,96,PCMB,2026,81.0,Kannada,40.0,45.0,18.0,69.0,29.0,67.0,48.0,25.0,,,7
+260062,Unit Test,Chapter 1 Test,1.0,English,79,PCMB,2026,72.0,,,,,,,,,,,,8
+260062,Unit Test,Chapter 1 Test,1.0,Language,75,PCMB,2026,,Kannada,46.0,,,,,,,,,,9
+260062,Unit Test,Chapter 1 Test,1.0,Physics,82,PCMB,2026,,,,33.0,19.0,,,,,,,,8
+260062,Unit Test,Chapter 1 Test,1.0,Chemistry,85,PCMB,2026,,,,,,62.0,27.0,,,,,,10
+260062,Unit Test,Chapter 1 Test,1.0,Maths,79,PCMB,2026,,,,,,,,69.0,,,,,8
+260062,Unit Test,Chapter 1 Test,1.0,Biology,89,PCMB,2026,,,,,,,,,67.0,29.0,,,8
+260062,Mid Term,Term,1.0,All,97,PCMB,2026,59.0,Kannada,64.0,35.0,29.0,66.0,28.0,72.0,37.0,19.0,,,6
+260062,JUT,Term,1.0,All,81,PCMB,2026,61.0,Hindi,97.0,29.0,22.0,53.0,23.0,94.0,37.0,18.0,,,8
+260062,JFT,Term,1.0,All,83,PCMB,2026,59.0,Sanskrit,57.0,43.0,24.0,67.0,22.0,97.0,55.0,27.0,,,8
+260062,Final Exam,Annual,1.0,All,86,PCMB,2026,42.0,Hindi,45.0,25.0,23.0,27.0,30.0,40.0,58.0,21.0,,,10
+260063,Unit Test,Chapter 1 Test,1.0,English,89,PCMB,2026,100.0,,,,,,,,,,,,6
+260063,Unit Test,Chapter 1 Test,1.0,Language,75,PCMB,2026,,Sanskrit,55.0,,,,,,,,,,8
+260063,Unit Test,Chapter 1 Test,1.0,Physics,78,PCMB,2026,,,,32.0,19.0,,,,,,,,7
+260063,Unit Test,Chapter 1 Test,1.0,Chemistry,99,PCMB,2026,,,,,,29.0,15.0,,,,,,9
+260063,Unit Test,Chapter 1 Test,1.0,Maths,81,PCMB,2026,,,,,,,,57.0,,,,,10
+260063,Unit Test,Chapter 1 Test,1.0,Biology,82,PCMB,2026,,,,,,,,,38.0,23.0,,,7
+260063,Mid Term,Term,1.0,All,70,PCMB,2026,40.0,Sanskrit,90.0,26.0,20.0,29.0,19.0,86.0,59.0,19.0,,,6
+260063,JUT,Term,1.0,All,86,PCMB,2026,92.0,Sanskrit,96.0,52.0,15.0,38.0,15.0,54.0,59.0,17.0,,,9
+260063,JFT,Term,1.0,All,81,PCMB,2026,52.0,Kannada,43.0,36.0,26.0,29.0,19.0,37.0,54.0,22.0,,,7
+260063,Final Exam,Annual,1.0,All,85,PCMB,2026,36.0,Sanskrit,51.0,31.0,22.0,30.0,18.0,58.0,49.0,25.0,,,7
+260064,Unit Test,Chapter 1 Test,1.0,English,93,PCMB,2026,77.0,,,,,,,,,,,,6
+260064,Unit Test,Chapter 1 Test,1.0,Language,92,PCMB,2026,,Sanskrit,42.0,,,,,,,,,,6
+260064,Unit Test,Chapter 1 Test,1.0,Physics,83,PCMB,2026,,,,36.0,19.0,,,,,,,,10
+260064,Unit Test,Chapter 1 Test,1.0,Chemistry,79,PCMB,2026,,,,,,35.0,29.0,,,,,,6
+260064,Unit Test,Chapter 1 Test,1.0,Maths,86,PCMB,2026,,,,,,,,36.0,,,,,10
+260064,Unit Test,Chapter 1 Test,1.0,Biology,75,PCMB,2026,,,,,,,,,51.0,15.0,,,6
+260064,Mid Term,Term,1.0,All,100,PCMB,2026,64.0,Sanskrit,78.0,57.0,24.0,34.0,17.0,100.0,44.0,27.0,,,10
+260064,JUT,Term,1.0,All,89,PCMB,2026,58.0,Sanskrit,41.0,41.0,17.0,42.0,30.0,49.0,43.0,23.0,,,5
+260064,JFT,Term,1.0,All,76,PCMB,2026,50.0,Sanskrit,36.0,52.0,17.0,25.0,18.0,42.0,58.0,22.0,,,10
+260064,Final Exam,Annual,1.0,All,100,PCMB,2026,91.0,Kannada,45.0,62.0,26.0,38.0,19.0,78.0,34.0,28.0,,,10
+260065,Unit Test,Chapter 1 Test,1.0,English,96,PCMC,2026,96.0,,,,,,,,,,,,9
+260065,Unit Test,Chapter 1 Test,1.0,Language,89,PCMC,2026,,Hindi,62.0,,,,,,,,,,9
+260065,Unit Test,Chapter 1 Test,1.0,Physics,85,PCMC,2026,,,,50.0,25.0,,,,,,,,10
+260065,Unit Test,Chapter 1 Test,1.0,Chemistry,75,PCMC,2026,,,,,,51.0,16.0,,,,,,7
+260065,Unit Test,Chapter 1 Test,1.0,Maths,99,PCMC,2026,,,,,,,,95.0,,,,,10
+260065,Unit Test,Chapter 1 Test,1.0,Computer Science,99,PCMC,2026,,,,,,,,,,,62.0,24.0,10
+260065,Mid Term,Term,1.0,All,100,PCMC,2026,35.0,Sanskrit,97.0,60.0,21.0,63.0,28.0,40.0,,,64.0,28.0,7
+260065,JUT,Term,1.0,All,86,PCMC,2026,71.0,Sanskrit,83.0,69.0,21.0,35.0,15.0,77.0,,,65.0,16.0,5
+260065,JFT,Term,1.0,All,78,PCMC,2026,50.0,Kannada,62.0,53.0,28.0,65.0,29.0,56.0,,,41.0,23.0,9
+260065,Final Exam,Annual,1.0,All,84,PCMC,2026,64.0,Hindi,45.0,65.0,28.0,70.0,17.0,58.0,,,34.0,18.0,9
+260066,Unit Test,Chapter 1 Test,1.0,English,88,PCMB,2026,69.0,,,,,,,,,,,,6
+260066,Unit Test,Chapter 1 Test,1.0,Language,100,PCMB,2026,,Hindi,39.0,,,,,,,,,,9
+260066,Unit Test,Chapter 1 Test,1.0,Physics,87,PCMB,2026,,,,69.0,17.0,,,,,,,,9
+260066,Unit Test,Chapter 1 Test,1.0,Chemistry,77,PCMB,2026,,,,,,32.0,29.0,,,,,,9
+260066,Unit Test,Chapter 1 Test,1.0,Maths,80,PCMB,2026,,,,,,,,37.0,,,,,10
+260066,Unit Test,Chapter 1 Test,1.0,Biology,88,PCMB,2026,,,,,,,,,64.0,26.0,,,6
+260066,Mid Term,Term,1.0,All,90,PCMB,2026,61.0,Hindi,78.0,47.0,20.0,24.0,19.0,93.0,30.0,20.0,,,7
+260066,JUT,Term,1.0,All,82,PCMB,2026,38.0,Hindi,66.0,27.0,21.0,29.0,18.0,82.0,51.0,25.0,,,9
+260066,JFT,Term,1.0,All,77,PCMB,2026,47.0,Hindi,35.0,36.0,27.0,25.0,17.0,57.0,53.0,18.0,,,5
+260066,Final Exam,Annual,1.0,All,91,PCMB,2026,72.0,Hindi,74.0,38.0,19.0,67.0,27.0,83.0,58.0,15.0,,,10
+260067,Unit Test,Chapter 1 Test,1.0,English,82,PCMC,2026,55.0,,,,,,,,,,,,6
+260067,Unit Test,Chapter 1 Test,1.0,Language,90,PCMC,2026,,Hindi,91.0,,,,,,,,,,7
+260067,Unit Test,Chapter 1 Test,1.0,Physics,79,PCMC,2026,,,,64.0,26.0,,,,,,,,8
+260067,Unit Test,Chapter 1 Test,1.0,Chemistry,77,PCMC,2026,,,,,,57.0,23.0,,,,,,7
+260067,Unit Test,Chapter 1 Test,1.0,Maths,92,PCMC,2026,,,,,,,,72.0,,,,,10
+260067,Unit Test,Chapter 1 Test,1.0,Computer Science,86,PCMC,2026,,,,,,,,,,,67.0,26.0,10
+260067,Mid Term,Term,1.0,All,91,PCMC,2026,40.0,Sanskrit,67.0,52.0,23.0,57.0,30.0,68.0,,,38.0,16.0,10
+260067,JUT,Term,1.0,All,72,PCMC,2026,37.0,Sanskrit,40.0,24.0,21.0,56.0,29.0,41.0,,,34.0,30.0,8
+260067,JFT,Term,1.0,All,78,PCMC,2026,64.0,Kannada,38.0,41.0,16.0,24.0,22.0,82.0,,,41.0,29.0,5
+260067,Final Exam,Annual,1.0,All,84,PCMC,2026,35.0,Kannada,41.0,43.0,20.0,39.0,25.0,74.0,,,52.0,22.0,10
+260068,Unit Test,Chapter 1 Test,1.0,English,80,PCMB,2026,81.0,,,,,,,,,,,,8
+260068,Unit Test,Chapter 1 Test,1.0,Language,78,PCMB,2026,,Hindi,39.0,,,,,,,,,,10
+260068,Unit Test,Chapter 1 Test,1.0,Physics,96,PCMB,2026,,,,28.0,25.0,,,,,,,,7
+260068,Unit Test,Chapter 1 Test,1.0,Chemistry,94,PCMB,2026,,,,,,26.0,20.0,,,,,,9
+260068,Unit Test,Chapter 1 Test,1.0,Maths,89,PCMB,2026,,,,,,,,88.0,,,,,10
+260068,Unit Test,Chapter 1 Test,1.0,Biology,95,PCMB,2026,,,,,,,,,44.0,30.0,,,8
+260068,Mid Term,Term,1.0,All,99,PCMB,2026,85.0,Hindi,56.0,36.0,26.0,44.0,23.0,76.0,39.0,26.0,,,10
+260068,JUT,Term,1.0,All,71,PCMB,2026,83.0,Kannada,96.0,51.0,30.0,39.0,26.0,94.0,49.0,15.0,,,6
+260068,JFT,Term,1.0,All,86,PCMB,2026,84.0,Hindi,93.0,35.0,16.0,32.0,18.0,76.0,61.0,30.0,,,6
+260068,Final Exam,Annual,1.0,All,79,PCMB,2026,82.0,Sanskrit,46.0,38.0,24.0,59.0,29.0,73.0,48.0,17.0,,,6
+260069,Unit Test,Chapter 1 Test,1.0,English,95,PCMC,2026,71.0,,,,,,,,,,,,10
+260069,Unit Test,Chapter 1 Test,1.0,Language,78,PCMC,2026,,Hindi,44.0,,,,,,,,,,7
+260069,Unit Test,Chapter 1 Test,1.0,Physics,99,PCMC,2026,,,,66.0,22.0,,,,,,,,6
+260069,Unit Test,Chapter 1 Test,1.0,Chemistry,79,PCMC,2026,,,,,,56.0,27.0,,,,,,7
+260069,Unit Test,Chapter 1 Test,1.0,Maths,76,PCMC,2026,,,,,,,,66.0,,,,,6
+260069,Unit Test,Chapter 1 Test,1.0,Computer Science,85,PCMC,2026,,,,,,,,,,,39.0,19.0,6
+260069,Mid Term,Term,1.0,All,81,PCMC,2026,71.0,Kannada,89.0,36.0,27.0,26.0,24.0,91.0,,,38.0,19.0,8
+260069,JUT,Term,1.0,All,78,PCMC,2026,100.0,Hindi,94.0,54.0,21.0,56.0,23.0,43.0,,,39.0,29.0,8
+260069,JFT,Term,1.0,All,84,PCMC,2026,48.0,Kannada,97.0,68.0,27.0,44.0,22.0,70.0,,,36.0,30.0,5
+260069,Final Exam,Annual,1.0,All,70,PCMC,2026,76.0,Hindi,90.0,54.0,26.0,41.0,21.0,79.0,,,54.0,17.0,10
+260070,Unit Test,Chapter 1 Test,1.0,English,98,PCMB,2026,73.0,,,,,,,,,,,,7
+260070,Unit Test,Chapter 1 Test,1.0,Language,82,PCMB,2026,,Kannada,36.0,,,,,,,,,,7
+260070,Unit Test,Chapter 1 Test,1.0,Physics,87,PCMB,2026,,,,69.0,30.0,,,,,,,,8
+260070,Unit Test,Chapter 1 Test,1.0,Chemistry,84,PCMB,2026,,,,,,32.0,26.0,,,,,,10
+260070,Unit Test,Chapter 1 Test,1.0,Maths,77,PCMB,2026,,,,,,,,46.0,,,,,6
+260070,Unit Test,Chapter 1 Test,1.0,Biology,95,PCMB,2026,,,,,,,,,64.0,20.0,,,7
+260070,Mid Term,Term,1.0,All,74,PCMB,2026,53.0,Kannada,50.0,48.0,17.0,51.0,23.0,53.0,45.0,26.0,,,7
+260070,JUT,Term,1.0,All,71,PCMB,2026,39.0,Kannada,75.0,42.0,18.0,68.0,19.0,61.0,50.0,25.0,,,8
+260070,JFT,Term,1.0,All,99,PCMB,2026,81.0,Sanskrit,56.0,48.0,23.0,49.0,27.0,47.0,65.0,29.0,,,5
+260070,Final Exam,Annual,1.0,All,71,PCMB,2026,38.0,Hindi,56.0,30.0,21.0,28.0,23.0,72.0,31.0,19.0,,,9
+260071,Unit Test,Chapter 1 Test,1.0,English,92,PCMC,2026,69.0,,,,,,,,,,,,8
+260071,Unit Test,Chapter 1 Test,1.0,Language,88,PCMC,2026,,Sanskrit,95.0,,,,,,,,,,8
+260071,Unit Test,Chapter 1 Test,1.0,Physics,89,PCMC,2026,,,,56.0,25.0,,,,,,,,8
+260071,Unit Test,Chapter 1 Test,1.0,Chemistry,75,PCMC,2026,,,,,,34.0,19.0,,,,,,6
+260071,Unit Test,Chapter 1 Test,1.0,Maths,80,PCMC,2026,,,,,,,,59.0,,,,,9
+260071,Unit Test,Chapter 1 Test,1.0,Computer Science,77,PCMC,2026,,,,,,,,,,,70.0,27.0,8
+260071,Mid Term,Term,1.0,All,82,PCMC,2026,98.0,Hindi,41.0,37.0,29.0,49.0,15.0,65.0,,,48.0,30.0,10
+260071,JUT,Term,1.0,All,71,PCMC,2026,50.0,Kannada,36.0,69.0,15.0,42.0,26.0,64.0,,,50.0,30.0,10
+260071,JFT,Term,1.0,All,89,PCMC,2026,65.0,Hindi,78.0,55.0,20.0,69.0,29.0,91.0,,,56.0,28.0,10
+260071,Final Exam,Annual,1.0,All,84,PCMC,2026,38.0,Sanskrit,51.0,36.0,28.0,24.0,24.0,41.0,,,39.0,16.0,9
+260072,Unit Test,Chapter 1 Test,1.0,English,82,PCMB,2026,51.0,,,,,,,,,,,,6
+260072,Unit Test,Chapter 1 Test,1.0,Language,97,PCMB,2026,,Hindi,53.0,,,,,,,,,,8
+260072,Unit Test,Chapter 1 Test,1.0,Physics,99,PCMB,2026,,,,62.0,23.0,,,,,,,,8
+260072,Unit Test,Chapter 1 Test,1.0,Chemistry,79,PCMB,2026,,,,,,41.0,15.0,,,,,,10
+260072,Unit Test,Chapter 1 Test,1.0,Maths,84,PCMB,2026,,,,,,,,53.0,,,,,9
+260072,Unit Test,Chapter 1 Test,1.0,Biology,93,PCMB,2026,,,,,,,,,54.0,25.0,,,8
+260072,Mid Term,Term,1.0,All,86,PCMB,2026,87.0,Sanskrit,84.0,63.0,23.0,67.0,25.0,51.0,33.0,27.0,,,6
+260072,JUT,Term,1.0,All,73,PCMB,2026,39.0,Sanskrit,94.0,56.0,27.0,33.0,24.0,97.0,66.0,24.0,,,10
+260072,JFT,Term,1.0,All,72,PCMB,2026,85.0,Hindi,41.0,66.0,30.0,49.0,30.0,89.0,49.0,15.0,,,9
+260072,Final Exam,Annual,1.0,All,85,PCMB,2026,94.0,Hindi,98.0,46.0,22.0,42.0,24.0,74.0,68.0,23.0,,,7
+260073,Unit Test,Chapter 1 Test,1.0,English,95,PCMC,2026,99.0,,,,,,,,,,,,9
+260073,Unit Test,Chapter 1 Test,1.0,Language,94,PCMC,2026,,Kannada,65.0,,,,,,,,,,8
+260073,Unit Test,Chapter 1 Test,1.0,Physics,85,PCMC,2026,,,,42.0,15.0,,,,,,,,10
+260073,Unit Test,Chapter 1 Test,1.0,Chemistry,96,PCMC,2026,,,,,,61.0,24.0,,,,,,9
+260073,Unit Test,Chapter 1 Test,1.0,Maths,85,PCMC,2026,,,,,,,,64.0,,,,,6
+260073,Unit Test,Chapter 1 Test,1.0,Computer Science,89,PCMC,2026,,,,,,,,,,,50.0,20.0,7
+260073,Mid Term,Term,1.0,All,97,PCMC,2026,42.0,Sanskrit,36.0,37.0,21.0,70.0,19.0,35.0,,,67.0,30.0,8
+260073,JUT,Term,1.0,All,95,PCMC,2026,43.0,Sanskrit,86.0,28.0,18.0,61.0,30.0,83.0,,,60.0,29.0,10
+260073,JFT,Term,1.0,All,76,PCMC,2026,91.0,Hindi,77.0,67.0,27.0,70.0,27.0,96.0,,,61.0,15.0,6
+260073,Final Exam,Annual,1.0,All,89,PCMC,2026,50.0,Hindi,56.0,47.0,28.0,30.0,26.0,91.0,,,34.0,27.0,10
+260074,Unit Test,Chapter 1 Test,1.0,English,93,PCMB,2026,100.0,,,,,,,,,,,,7
+260074,Unit Test,Chapter 1 Test,1.0,Language,99,PCMB,2026,,Kannada,88.0,,,,,,,,,,8
+260074,Unit Test,Chapter 1 Test,1.0,Physics,81,PCMB,2026,,,,36.0,29.0,,,,,,,,9
+260074,Unit Test,Chapter 1 Test,1.0,Chemistry,89,PCMB,2026,,,,,,34.0,23.0,,,,,,8
+260074,Unit Test,Chapter 1 Test,1.0,Maths,91,PCMB,2026,,,,,,,,55.0,,,,,9
+260074,Unit Test,Chapter 1 Test,1.0,Biology,82,PCMB,2026,,,,,,,,,59.0,29.0,,,6
+260074,Mid Term,Term,1.0,All,88,PCMB,2026,93.0,Sanskrit,39.0,49.0,30.0,41.0,28.0,45.0,50.0,28.0,,,6
+260074,JUT,Term,1.0,All,83,PCMB,2026,54.0,Hindi,65.0,35.0,29.0,41.0,27.0,85.0,29.0,25.0,,,8
+260074,JFT,Term,1.0,All,82,PCMB,2026,91.0,Kannada,100.0,60.0,23.0,49.0,22.0,97.0,52.0,15.0,,,8
+260074,Final Exam,Annual,1.0,All,71,PCMB,2026,99.0,Kannada,54.0,58.0,20.0,63.0,27.0,37.0,52.0,22.0,,,10
+260075,Unit Test,Chapter 1 Test,1.0,English,78,PCMC,2026,98.0,,,,,,,,,,,,7
+260075,Unit Test,Chapter 1 Test,1.0,Language,87,PCMC,2026,,Sanskrit,56.0,,,,,,,,,,10
+260075,Unit Test,Chapter 1 Test,1.0,Physics,92,PCMC,2026,,,,28.0,27.0,,,,,,,,8
+260075,Unit Test,Chapter 1 Test,1.0,Chemistry,83,PCMC,2026,,,,,,54.0,27.0,,,,,,9
+260075,Unit Test,Chapter 1 Test,1.0,Maths,100,PCMC,2026,,,,,,,,74.0,,,,,9
+260075,Unit Test,Chapter 1 Test,1.0,Computer Science,81,PCMC,2026,,,,,,,,,,,64.0,18.0,8
+260075,Mid Term,Term,1.0,All,77,PCMC,2026,49.0,Hindi,81.0,45.0,15.0,67.0,22.0,70.0,,,35.0,15.0,8
+260075,JUT,Term,1.0,All,90,PCMC,2026,65.0,Kannada,55.0,56.0,27.0,47.0,30.0,83.0,,,49.0,16.0,5
+260075,JFT,Term,1.0,All,100,PCMC,2026,86.0,Kannada,70.0,24.0,22.0,46.0,19.0,99.0,,,27.0,27.0,9
+260075,Final Exam,Annual,1.0,All,97,PCMC,2026,69.0,Hindi,37.0,39.0,18.0,40.0,21.0,73.0,,,65.0,16.0,7
+260076,Unit Test,Chapter 1 Test,1.0,English,76,PCMC,2026,84.0,,,,,,,,,,,,8
+260076,Unit Test,Chapter 1 Test,1.0,Language,77,PCMC,2026,,Sanskrit,66.0,,,,,,,,,,7
+260076,Unit Test,Chapter 1 Test,1.0,Physics,83,PCMC,2026,,,,27.0,25.0,,,,,,,,7
+260076,Unit Test,Chapter 1 Test,1.0,Chemistry,94,PCMC,2026,,,,,,64.0,20.0,,,,,,9
+260076,Unit Test,Chapter 1 Test,1.0,Maths,86,PCMC,2026,,,,,,,,82.0,,,,,6
+260076,Unit Test,Chapter 1 Test,1.0,Computer Science,85,PCMC,2026,,,,,,,,,,,36.0,21.0,7
+260076,Mid Term,Term,1.0,All,71,PCMC,2026,47.0,Kannada,88.0,64.0,27.0,33.0,27.0,67.0,,,59.0,21.0,8
+260076,JUT,Term,1.0,All,81,PCMC,2026,67.0,Hindi,79.0,45.0,18.0,54.0,24.0,95.0,,,36.0,16.0,7
+260076,JFT,Term,1.0,All,85,PCMC,2026,66.0,Kannada,39.0,60.0,24.0,43.0,18.0,59.0,,,69.0,28.0,7
+260076,Final Exam,Annual,1.0,All,80,PCMC,2026,51.0,Sanskrit,86.0,43.0,18.0,34.0,21.0,46.0,,,25.0,27.0,9
+260077,Unit Test,Chapter 1 Test,1.0,English,83,PCMC,2026,83.0,,,,,,,,,,,,7
+260077,Unit Test,Chapter 1 Test,1.0,Language,86,PCMC,2026,,Sanskrit,94.0,,,,,,,,,,6
+260077,Unit Test,Chapter 1 Test,1.0,Physics,75,PCMC,2026,,,,52.0,30.0,,,,,,,,6
+260077,Unit Test,Chapter 1 Test,1.0,Chemistry,77,PCMC,2026,,,,,,52.0,26.0,,,,,,6
+260077,Unit Test,Chapter 1 Test,1.0,Maths,91,PCMC,2026,,,,,,,,60.0,,,,,6
+260077,Unit Test,Chapter 1 Test,1.0,Computer Science,75,PCMC,2026,,,,,,,,,,,63.0,15.0,10
+260077,Mid Term,Term,1.0,All,95,PCMC,2026,47.0,Sanskrit,74.0,46.0,16.0,67.0,20.0,70.0,,,25.0,17.0,6
+260077,JUT,Term,1.0,All,81,PCMC,2026,40.0,Sanskrit,92.0,68.0,16.0,53.0,16.0,65.0,,,40.0,15.0,7
+260077,JFT,Term,1.0,All,79,PCMC,2026,41.0,Hindi,50.0,59.0,30.0,70.0,19.0,39.0,,,53.0,27.0,6
+260077,Final Exam,Annual,1.0,All,72,PCMC,2026,52.0,Sanskrit,79.0,70.0,30.0,45.0,30.0,73.0,,,63.0,28.0,9
+260078,Unit Test,Chapter 1 Test,1.0,English,91,PCMB,2026,74.0,,,,,,,,,,,,7
+260078,Unit Test,Chapter 1 Test,1.0,Language,100,PCMB,2026,,Sanskrit,77.0,,,,,,,,,,9
+260078,Unit Test,Chapter 1 Test,1.0,Physics,86,PCMB,2026,,,,41.0,26.0,,,,,,,,7
+260078,Unit Test,Chapter 1 Test,1.0,Chemistry,80,PCMB,2026,,,,,,70.0,17.0,,,,,,8
+260078,Unit Test,Chapter 1 Test,1.0,Maths,90,PCMB,2026,,,,,,,,81.0,,,,,7
+260078,Unit Test,Chapter 1 Test,1.0,Biology,85,PCMB,2026,,,,,,,,,60.0,16.0,,,7
+260078,Mid Term,Term,1.0,All,89,PCMB,2026,47.0,Kannada,88.0,44.0,16.0,24.0,29.0,96.0,64.0,15.0,,,7
+260078,JUT,Term,1.0,All,88,PCMB,2026,63.0,Kannada,97.0,37.0,21.0,27.0,16.0,86.0,56.0,17.0,,,5
+260078,JFT,Term,1.0,All,93,PCMB,2026,92.0,Kannada,72.0,36.0,30.0,39.0,17.0,83.0,44.0,28.0,,,7
+260078,Final Exam,Annual,1.0,All,79,PCMB,2026,48.0,Hindi,66.0,35.0,25.0,49.0,15.0,87.0,59.0,19.0,,,6
+260079,Unit Test,Chapter 1 Test,1.0,English,100,PCMC,2026,80.0,,,,,,,,,,,,9
+260079,Unit Test,Chapter 1 Test,1.0,Language,88,PCMC,2026,,Sanskrit,65.0,,,,,,,,,,10
+260079,Unit Test,Chapter 1 Test,1.0,Physics,90,PCMC,2026,,,,37.0,22.0,,,,,,,,8
+260079,Unit Test,Chapter 1 Test,1.0,Chemistry,81,PCMC,2026,,,,,,47.0,28.0,,,,,,6
+260079,Unit Test,Chapter 1 Test,1.0,Maths,77,PCMC,2026,,,,,,,,37.0,,,,,10
+260079,Unit Test,Chapter 1 Test,1.0,Computer Science,87,PCMC,2026,,,,,,,,,,,58.0,24.0,7
+260079,Mid Term,Term,1.0,All,88,PCMC,2026,41.0,Kannada,85.0,30.0,16.0,54.0,16.0,84.0,,,52.0,27.0,6
+260079,JUT,Term,1.0,All,71,PCMC,2026,70.0,Sanskrit,60.0,50.0,24.0,62.0,22.0,46.0,,,32.0,29.0,10
+260079,JFT,Term,1.0,All,79,PCMC,2026,44.0,Sanskrit,88.0,70.0,29.0,54.0,19.0,84.0,,,66.0,26.0,7
+260079,Final Exam,Annual,1.0,All,82,PCMC,2026,78.0,Kannada,85.0,29.0,30.0,51.0,15.0,63.0,,,29.0,20.0,10
+260080,Unit Test,Chapter 1 Test,1.0,English,96,PCMC,2026,89.0,,,,,,,,,,,,9
+260080,Unit Test,Chapter 1 Test,1.0,Language,99,PCMC,2026,,Kannada,72.0,,,,,,,,,,10
+260080,Unit Test,Chapter 1 Test,1.0,Physics,83,PCMC,2026,,,,45.0,29.0,,,,,,,,7
+260080,Unit Test,Chapter 1 Test,1.0,Chemistry,92,PCMC,2026,,,,,,29.0,22.0,,,,,,6
+260080,Unit Test,Chapter 1 Test,1.0,Maths,87,PCMC,2026,,,,,,,,94.0,,,,,10
+260080,Unit Test,Chapter 1 Test,1.0,Computer Science,91,PCMC,2026,,,,,,,,,,,28.0,21.0,9
+260080,Mid Term,Term,1.0,All,85,PCMC,2026,80.0,Hindi,60.0,33.0,29.0,68.0,17.0,59.0,,,60.0,27.0,7
+260080,JUT,Term,1.0,All,83,PCMC,2026,48.0,Sanskrit,37.0,47.0,29.0,56.0,21.0,38.0,,,33.0,21.0,6
+260080,JFT,Term,1.0,All,83,PCMC,2026,91.0,Hindi,98.0,32.0,15.0,37.0,30.0,77.0,,,52.0,15.0,5
+260080,Final Exam,Annual,1.0,All,91,PCMC,2026,98.0,Kannada,71.0,27.0,19.0,51.0,28.0,61.0,,,62.0,19.0,7
+260081,Unit Test,Chapter 1 Test,1.0,English,90,PCMB,2026,39.0,,,,,,,,,,,,10
+260081,Unit Test,Chapter 1 Test,1.0,Language,85,PCMB,2026,,Kannada,90.0,,,,,,,,,,7
+260081,Unit Test,Chapter 1 Test,1.0,Physics,77,PCMB,2026,,,,25.0,21.0,,,,,,,,10
+260081,Unit Test,Chapter 1 Test,1.0,Chemistry,99,PCMB,2026,,,,,,33.0,20.0,,,,,,6
+260081,Unit Test,Chapter 1 Test,1.0,Maths,98,PCMB,2026,,,,,,,,54.0,,,,,10
+260081,Unit Test,Chapter 1 Test,1.0,Biology,95,PCMB,2026,,,,,,,,,41.0,24.0,,,6
+260081,Mid Term,Term,1.0,All,92,PCMB,2026,72.0,Kannada,39.0,30.0,21.0,30.0,21.0,48.0,38.0,20.0,,,10
+260081,JUT,Term,1.0,All,98,PCMB,2026,47.0,Hindi,73.0,29.0,17.0,42.0,23.0,58.0,63.0,29.0,,,10
+260081,JFT,Term,1.0,All,76,PCMB,2026,96.0,Sanskrit,90.0,63.0,30.0,58.0,23.0,70.0,35.0,21.0,,,8
+260081,Final Exam,Annual,1.0,All,71,PCMB,2026,89.0,Sanskrit,60.0,67.0,16.0,70.0,17.0,64.0,26.0,24.0,,,7
+260082,Unit Test,Chapter 1 Test,1.0,English,100,PCMC,2026,98.0,,,,,,,,,,,,9
+260082,Unit Test,Chapter 1 Test,1.0,Language,94,PCMC,2026,,Hindi,74.0,,,,,,,,,,7
+260082,Unit Test,Chapter 1 Test,1.0,Physics,96,PCMC,2026,,,,45.0,20.0,,,,,,,,6
+260082,Unit Test,Chapter 1 Test,1.0,Chemistry,88,PCMC,2026,,,,,,64.0,30.0,,,,,,6
+260082,Unit Test,Chapter 1 Test,1.0,Maths,92,PCMC,2026,,,,,,,,98.0,,,,,10
+260082,Unit Test,Chapter 1 Test,1.0,Computer Science,81,PCMC,2026,,,,,,,,,,,66.0,16.0,7
+260082,Mid Term,Term,1.0,All,72,PCMC,2026,71.0,Hindi,49.0,64.0,21.0,63.0,19.0,87.0,,,46.0,25.0,5
+260082,JUT,Term,1.0,All,84,PCMC,2026,93.0,Kannada,43.0,37.0,25.0,40.0,28.0,36.0,,,29.0,24.0,8
+260082,JFT,Term,1.0,All,81,PCMC,2026,37.0,Hindi,90.0,56.0,17.0,35.0,30.0,85.0,,,70.0,15.0,7
+260082,Final Exam,Annual,1.0,All,92,PCMC,2026,38.0,Sanskrit,48.0,61.0,27.0,39.0,16.0,68.0,,,68.0,30.0,6
+260083,Unit Test,Chapter 1 Test,1.0,English,91,PCMC,2026,93.0,,,,,,,,,,,,8
+260083,Unit Test,Chapter 1 Test,1.0,Language,85,PCMC,2026,,Hindi,74.0,,,,,,,,,,7
+260083,Unit Test,Chapter 1 Test,1.0,Physics,94,PCMC,2026,,,,32.0,21.0,,,,,,,,8
+260083,Unit Test,Chapter 1 Test,1.0,Chemistry,89,PCMC,2026,,,,,,54.0,28.0,,,,,,10
+260083,Unit Test,Chapter 1 Test,1.0,Maths,90,PCMC,2026,,,,,,,,49.0,,,,,6
+260083,Unit Test,Chapter 1 Test,1.0,Computer Science,95,PCMC,2026,,,,,,,,,,,47.0,19.0,7
+260083,Mid Term,Term,1.0,All,78,PCMC,2026,54.0,Hindi,98.0,65.0,18.0,66.0,26.0,61.0,,,27.0,22.0,10
+260083,JUT,Term,1.0,All,97,PCMC,2026,71.0,Kannada,72.0,63.0,22.0,30.0,29.0,43.0,,,26.0,25.0,9
+260083,JFT,Term,1.0,All,81,PCMC,2026,79.0,Hindi,87.0,43.0,28.0,65.0,24.0,61.0,,,28.0,28.0,8
+260083,Final Exam,Annual,1.0,All,88,PCMC,2026,85.0,Kannada,77.0,48.0,23.0,35.0,28.0,78.0,,,61.0,29.0,7
+260084,Unit Test,Chapter 1 Test,1.0,English,83,PCMB,2026,58.0,,,,,,,,,,,,10
+260084,Unit Test,Chapter 1 Test,1.0,Language,75,PCMB,2026,,Sanskrit,61.0,,,,,,,,,,8
+260084,Unit Test,Chapter 1 Test,1.0,Physics,83,PCMB,2026,,,,50.0,15.0,,,,,,,,7
+260084,Unit Test,Chapter 1 Test,1.0,Chemistry,76,PCMB,2026,,,,,,58.0,19.0,,,,,,10
+260084,Unit Test,Chapter 1 Test,1.0,Maths,93,PCMB,2026,,,,,,,,44.0,,,,,8
+260084,Unit Test,Chapter 1 Test,1.0,Biology,96,PCMB,2026,,,,,,,,,37.0,25.0,,,8
+260084,Mid Term,Term,1.0,All,82,PCMB,2026,79.0,Sanskrit,97.0,40.0,20.0,64.0,24.0,99.0,52.0,21.0,,,8
+260084,JUT,Term,1.0,All,88,PCMB,2026,51.0,Sanskrit,61.0,69.0,28.0,31.0,15.0,60.0,36.0,22.0,,,6
+260084,JFT,Term,1.0,All,77,PCMB,2026,83.0,Kannada,79.0,68.0,30.0,67.0,16.0,67.0,57.0,17.0,,,5
+260084,Final Exam,Annual,1.0,All,99,PCMB,2026,87.0,Hindi,80.0,65.0,19.0,69.0,15.0,40.0,24.0,25.0,,,6
+260085,Unit Test,Chapter 1 Test,1.0,English,89,PCMC,2026,81.0,,,,,,,,,,,,7
+260085,Unit Test,Chapter 1 Test,1.0,Language,97,PCMC,2026,,Sanskrit,37.0,,,,,,,,,,9
+260085,Unit Test,Chapter 1 Test,1.0,Physics,84,PCMC,2026,,,,36.0,15.0,,,,,,,,6
+260085,Unit Test,Chapter 1 Test,1.0,Chemistry,75,PCMC,2026,,,,,,50.0,25.0,,,,,,8
+260085,Unit Test,Chapter 1 Test,1.0,Maths,93,PCMC,2026,,,,,,,,75.0,,,,,6
+260085,Unit Test,Chapter 1 Test,1.0,Computer Science,95,PCMC,2026,,,,,,,,,,,31.0,25.0,10
+260085,Mid Term,Term,1.0,All,83,PCMC,2026,52.0,Sanskrit,82.0,49.0,21.0,42.0,24.0,43.0,,,40.0,25.0,8
+260085,JUT,Term,1.0,All,93,PCMC,2026,57.0,Kannada,66.0,63.0,20.0,58.0,15.0,69.0,,,39.0,17.0,9
+260085,JFT,Term,1.0,All,87,PCMC,2026,88.0,Kannada,56.0,56.0,20.0,63.0,21.0,93.0,,,46.0,18.0,5
+260085,Final Exam,Annual,1.0,All,80,PCMC,2026,53.0,Kannada,47.0,68.0,24.0,30.0,24.0,68.0,,,60.0,15.0,5
+260086,Unit Test,Chapter 1 Test,1.0,English,85,PCMC,2026,82.0,,,,,,,,,,,,8
+260086,Unit Test,Chapter 1 Test,1.0,Language,80,PCMC,2026,,Sanskrit,38.0,,,,,,,,,,7
+260086,Unit Test,Chapter 1 Test,1.0,Physics,83,PCMC,2026,,,,59.0,27.0,,,,,,,,9
+260086,Unit Test,Chapter 1 Test,1.0,Chemistry,81,PCMC,2026,,,,,,54.0,29.0,,,,,,9
+260086,Unit Test,Chapter 1 Test,1.0,Maths,89,PCMC,2026,,,,,,,,41.0,,,,,8
+260086,Unit Test,Chapter 1 Test,1.0,Computer Science,77,PCMC,2026,,,,,,,,,,,40.0,17.0,10
+260086,Mid Term,Term,1.0,All,77,PCMC,2026,82.0,Hindi,53.0,58.0,30.0,33.0,22.0,37.0,,,31.0,16.0,5
+260086,JUT,Term,1.0,All,91,PCMC,2026,75.0,Kannada,50.0,41.0,22.0,66.0,20.0,99.0,,,24.0,18.0,8
+260086,JFT,Term,1.0,All,80,PCMC,2026,81.0,Kannada,93.0,34.0,20.0,36.0,30.0,95.0,,,28.0,21.0,10
+260086,Final Exam,Annual,1.0,All,70,PCMC,2026,99.0,Hindi,41.0,45.0,17.0,68.0,26.0,88.0,,,41.0,15.0,8
+260087,Unit Test,Chapter 1 Test,1.0,English,78,PCMB,2026,78.0,,,,,,,,,,,,8
+260087,Unit Test,Chapter 1 Test,1.0,Language,79,PCMB,2026,,Hindi,40.0,,,,,,,,,,7
+260087,Unit Test,Chapter 1 Test,1.0,Physics,88,PCMB,2026,,,,48.0,17.0,,,,,,,,7
+260087,Unit Test,Chapter 1 Test,1.0,Chemistry,83,PCMB,2026,,,,,,36.0,28.0,,,,,,10
+260087,Unit Test,Chapter 1 Test,1.0,Maths,95,PCMB,2026,,,,,,,,87.0,,,,,7
+260087,Unit Test,Chapter 1 Test,1.0,Biology,76,PCMB,2026,,,,,,,,,62.0,18.0,,,8
+260087,Mid Term,Term,1.0,All,90,PCMB,2026,59.0,Sanskrit,40.0,33.0,29.0,24.0,23.0,77.0,26.0,17.0,,,5
+260087,JUT,Term,1.0,All,77,PCMB,2026,68.0,Hindi,76.0,31.0,20.0,29.0,27.0,81.0,40.0,24.0,,,10
+260087,JFT,Term,1.0,All,98,PCMB,2026,100.0,Sanskrit,43.0,52.0,25.0,45.0,20.0,84.0,65.0,26.0,,,8
+260087,Final Exam,Annual,1.0,All,84,PCMB,2026,65.0,Sanskrit,83.0,66.0,29.0,45.0,16.0,90.0,27.0,22.0,,,6
+260088,Unit Test,Chapter 1 Test,1.0,English,91,PCMB,2026,60.0,,,,,,,,,,,,9
+260088,Unit Test,Chapter 1 Test,1.0,Language,88,PCMB,2026,,Sanskrit,50.0,,,,,,,,,,6
+260088,Unit Test,Chapter 1 Test,1.0,Physics,82,PCMB,2026,,,,38.0,28.0,,,,,,,,6
+260088,Unit Test,Chapter 1 Test,1.0,Chemistry,75,PCMB,2026,,,,,,30.0,15.0,,,,,,9
+260088,Unit Test,Chapter 1 Test,1.0,Maths,94,PCMB,2026,,,,,,,,51.0,,,,,9
+260088,Unit Test,Chapter 1 Test,1.0,Biology,99,PCMB,2026,,,,,,,,,54.0,17.0,,,7
+260088,Mid Term,Term,1.0,All,80,PCMB,2026,83.0,Hindi,41.0,32.0,19.0,28.0,16.0,94.0,37.0,26.0,,,10
+260088,JUT,Term,1.0,All,79,PCMB,2026,72.0,Sanskrit,91.0,39.0,29.0,51.0,30.0,67.0,44.0,27.0,,,5
+260088,JFT,Term,1.0,All,91,PCMB,2026,85.0,Hindi,94.0,47.0,26.0,50.0,26.0,53.0,38.0,30.0,,,10
+260088,Final Exam,Annual,1.0,All,87,PCMB,2026,76.0,Sanskrit,53.0,29.0,27.0,35.0,29.0,64.0,32.0,25.0,,,7
+260089,Unit Test,Chapter 1 Test,1.0,English,90,PCMC,2026,82.0,,,,,,,,,,,,10
+260089,Unit Test,Chapter 1 Test,1.0,Language,99,PCMC,2026,,Hindi,84.0,,,,,,,,,,9
+260089,Unit Test,Chapter 1 Test,1.0,Physics,92,PCMC,2026,,,,43.0,16.0,,,,,,,,9
+260089,Unit Test,Chapter 1 Test,1.0,Chemistry,85,PCMC,2026,,,,,,68.0,19.0,,,,,,9
+260089,Unit Test,Chapter 1 Test,1.0,Maths,80,PCMC,2026,,,,,,,,48.0,,,,,7
+260089,Unit Test,Chapter 1 Test,1.0,Computer Science,85,PCMC,2026,,,,,,,,,,,49.0,19.0,9
+260089,Mid Term,Term,1.0,All,70,PCMC,2026,86.0,Kannada,88.0,50.0,21.0,43.0,17.0,57.0,,,46.0,15.0,7
+260089,JUT,Term,1.0,All,96,PCMC,2026,85.0,Sanskrit,91.0,67.0,27.0,65.0,16.0,82.0,,,55.0,19.0,7
+260089,JFT,Term,1.0,All,84,PCMC,2026,55.0,Hindi,78.0,45.0,25.0,47.0,29.0,59.0,,,47.0,21.0,10
+260089,Final Exam,Annual,1.0,All,70,PCMC,2026,52.0,Sanskrit,42.0,69.0,29.0,36.0,27.0,57.0,,,34.0,21.0,10
+260090,Unit Test,Chapter 1 Test,1.0,English,99,PCMC,2026,98.0,,,,,,,,,,,,6
+260090,Unit Test,Chapter 1 Test,1.0,Language,94,PCMC,2026,,Kannada,51.0,,,,,,,,,,7
+260090,Unit Test,Chapter 1 Test,1.0,Physics,100,PCMC,2026,,,,62.0,19.0,,,,,,,,9
+260090,Unit Test,Chapter 1 Test,1.0,Chemistry,83,PCMC,2026,,,,,,44.0,25.0,,,,,,6
+260090,Unit Test,Chapter 1 Test,1.0,Maths,86,PCMC,2026,,,,,,,,51.0,,,,,6
+260090,Unit Test,Chapter 1 Test,1.0,Computer Science,87,PCMC,2026,,,,,,,,,,,26.0,30.0,9
+260090,Mid Term,Term,1.0,All,78,PCMC,2026,71.0,Kannada,89.0,35.0,26.0,61.0,19.0,76.0,,,42.0,21.0,6
+260090,JUT,Term,1.0,All,78,PCMC,2026,52.0,Kannada,81.0,70.0,20.0,55.0,22.0,67.0,,,70.0,20.0,8
+260090,JFT,Term,1.0,All,86,PCMC,2026,77.0,Sanskrit,49.0,24.0,19.0,46.0,23.0,64.0,,,26.0,21.0,7
+260090,Final Exam,Annual,1.0,All,89,PCMC,2026,38.0,Kannada,92.0,44.0,29.0,53.0,20.0,52.0,,,70.0,17.0,5
+260091,Unit Test,Chapter 1 Test,1.0,English,92,PCMC,2026,42.0,,,,,,,,,,,,10
+260091,Unit Test,Chapter 1 Test,1.0,Language,79,PCMC,2026,,Hindi,63.0,,,,,,,,,,10
+260091,Unit Test,Chapter 1 Test,1.0,Physics,100,PCMC,2026,,,,67.0,24.0,,,,,,,,6
+260091,Unit Test,Chapter 1 Test,1.0,Chemistry,77,PCMC,2026,,,,,,43.0,25.0,,,,,,10
+260091,Unit Test,Chapter 1 Test,1.0,Maths,97,PCMC,2026,,,,,,,,59.0,,,,,7
+260091,Unit Test,Chapter 1 Test,1.0,Computer Science,75,PCMC,2026,,,,,,,,,,,32.0,15.0,8
+260091,Mid Term,Term,1.0,All,72,PCMC,2026,47.0,Kannada,60.0,24.0,27.0,55.0,23.0,61.0,,,29.0,26.0,9
+260091,JUT,Term,1.0,All,73,PCMC,2026,81.0,Kannada,39.0,33.0,15.0,53.0,28.0,56.0,,,39.0,16.0,8
+260091,JFT,Term,1.0,All,84,PCMC,2026,86.0,Sanskrit,57.0,36.0,25.0,37.0,22.0,62.0,,,44.0,30.0,10
+260091,Final Exam,Annual,1.0,All,98,PCMC,2026,84.0,Hindi,56.0,56.0,20.0,31.0,28.0,93.0,,,54.0,28.0,6
+260092,Unit Test,Chapter 1 Test,1.0,English,83,PCMC,2026,82.0,,,,,,,,,,,,6
+260092,Unit Test,Chapter 1 Test,1.0,Language,77,PCMC,2026,,Kannada,79.0,,,,,,,,,,7
+260092,Unit Test,Chapter 1 Test,1.0,Physics,90,PCMC,2026,,,,48.0,25.0,,,,,,,,9
+260092,Unit Test,Chapter 1 Test,1.0,Chemistry,96,PCMC,2026,,,,,,65.0,21.0,,,,,,8
+260092,Unit Test,Chapter 1 Test,1.0,Maths,100,PCMC,2026,,,,,,,,77.0,,,,,9
+260092,Unit Test,Chapter 1 Test,1.0,Computer Science,82,PCMC,2026,,,,,,,,,,,46.0,25.0,6
+260092,Mid Term,Term,1.0,All,97,PCMC,2026,96.0,Kannada,36.0,46.0,18.0,52.0,20.0,87.0,,,65.0,18.0,7
+260092,JUT,Term,1.0,All,86,PCMC,2026,35.0,Kannada,97.0,24.0,30.0,24.0,20.0,69.0,,,70.0,23.0,10
+260092,JFT,Term,1.0,All,88,PCMC,2026,91.0,Sanskrit,47.0,32.0,16.0,64.0,22.0,83.0,,,38.0,19.0,10
+260092,Final Exam,Annual,1.0,All,88,PCMC,2026,89.0,Hindi,55.0,27.0,21.0,46.0,27.0,35.0,,,49.0,29.0,8
+260093,Unit Test,Chapter 1 Test,1.0,English,81,PCMC,2026,95.0,,,,,,,,,,,,10
+260093,Unit Test,Chapter 1 Test,1.0,Language,94,PCMC,2026,,Sanskrit,100.0,,,,,,,,,,8
+260093,Unit Test,Chapter 1 Test,1.0,Physics,96,PCMC,2026,,,,66.0,22.0,,,,,,,,8
+260093,Unit Test,Chapter 1 Test,1.0,Chemistry,83,PCMC,2026,,,,,,66.0,18.0,,,,,,10
+260093,Unit Test,Chapter 1 Test,1.0,Maths,78,PCMC,2026,,,,,,,,50.0,,,,,9
+260093,Unit Test,Chapter 1 Test,1.0,Computer Science,99,PCMC,2026,,,,,,,,,,,59.0,21.0,8
+260093,Mid Term,Term,1.0,All,89,PCMC,2026,56.0,Kannada,78.0,24.0,15.0,52.0,30.0,73.0,,,37.0,18.0,5
+260093,JUT,Term,1.0,All,78,PCMC,2026,36.0,Sanskrit,81.0,59.0,22.0,36.0,27.0,100.0,,,33.0,25.0,5
+260093,JFT,Term,1.0,All,98,PCMC,2026,66.0,Kannada,43.0,62.0,23.0,68.0,28.0,92.0,,,50.0,23.0,7
+260093,Final Exam,Annual,1.0,All,80,PCMC,2026,51.0,Hindi,62.0,45.0,21.0,65.0,21.0,55.0,,,44.0,16.0,9
+260094,Unit Test,Chapter 1 Test,1.0,English,86,PCMC,2026,66.0,,,,,,,,,,,,8
+260094,Unit Test,Chapter 1 Test,1.0,Language,84,PCMC,2026,,Kannada,42.0,,,,,,,,,,10
+260094,Unit Test,Chapter 1 Test,1.0,Physics,79,PCMC,2026,,,,44.0,25.0,,,,,,,,9
+260094,Unit Test,Chapter 1 Test,1.0,Chemistry,75,PCMC,2026,,,,,,54.0,15.0,,,,,,6
+260094,Unit Test,Chapter 1 Test,1.0,Maths,100,PCMC,2026,,,,,,,,88.0,,,,,6
+260094,Unit Test,Chapter 1 Test,1.0,Computer Science,95,PCMC,2026,,,,,,,,,,,27.0,18.0,8
+260094,Mid Term,Term,1.0,All,92,PCMC,2026,62.0,Kannada,44.0,56.0,26.0,45.0,27.0,63.0,,,50.0,16.0,8
+260094,JUT,Term,1.0,All,89,PCMC,2026,71.0,Sanskrit,92.0,59.0,21.0,50.0,25.0,91.0,,,50.0,24.0,9
+260094,JFT,Term,1.0,All,71,PCMC,2026,97.0,Sanskrit,98.0,24.0,17.0,31.0,29.0,41.0,,,44.0,27.0,5
+260094,Final Exam,Annual,1.0,All,83,PCMC,2026,53.0,Kannada,97.0,36.0,15.0,63.0,20.0,72.0,,,60.0,28.0,9
+260095,Unit Test,Chapter 1 Test,1.0,English,96,PCMC,2026,98.0,,,,,,,,,,,,7
+260095,Unit Test,Chapter 1 Test,1.0,Language,89,PCMC,2026,,Sanskrit,70.0,,,,,,,,,,9
+260095,Unit Test,Chapter 1 Test,1.0,Physics,98,PCMC,2026,,,,41.0,27.0,,,,,,,,9
+260095,Unit Test,Chapter 1 Test,1.0,Chemistry,80,PCMC,2026,,,,,,66.0,26.0,,,,,,6
+260095,Unit Test,Chapter 1 Test,1.0,Maths,87,PCMC,2026,,,,,,,,78.0,,,,,9
+260095,Unit Test,Chapter 1 Test,1.0,Computer Science,86,PCMC,2026,,,,,,,,,,,61.0,20.0,8
+260095,Mid Term,Term,1.0,All,78,PCMC,2026,81.0,Kannada,79.0,66.0,20.0,24.0,22.0,74.0,,,61.0,30.0,10
+260095,JUT,Term,1.0,All,86,PCMC,2026,45.0,Kannada,90.0,35.0,29.0,61.0,20.0,63.0,,,69.0,16.0,8
+260095,JFT,Term,1.0,All,92,PCMC,2026,52.0,Sanskrit,82.0,35.0,21.0,70.0,17.0,73.0,,,51.0,23.0,7
+260095,Final Exam,Annual,1.0,All,70,PCMC,2026,68.0,Kannada,90.0,48.0,20.0,59.0,28.0,95.0,,,66.0,30.0,9
+260096,Unit Test,Chapter 1 Test,1.0,English,95,PCMC,2026,58.0,,,,,,,,,,,,10
+260096,Unit Test,Chapter 1 Test,1.0,Language,90,PCMC,2026,,Sanskrit,35.0,,,,,,,,,,7
+260096,Unit Test,Chapter 1 Test,1.0,Physics,86,PCMC,2026,,,,52.0,21.0,,,,,,,,9
+260096,Unit Test,Chapter 1 Test,1.0,Chemistry,88,PCMC,2026,,,,,,64.0,17.0,,,,,,6
+260096,Unit Test,Chapter 1 Test,1.0,Maths,91,PCMC,2026,,,,,,,,45.0,,,,,8
+260096,Unit Test,Chapter 1 Test,1.0,Computer Science,94,PCMC,2026,,,,,,,,,,,56.0,23.0,6
+260096,Mid Term,Term,1.0,All,84,PCMC,2026,92.0,Sanskrit,40.0,32.0,27.0,29.0,20.0,63.0,,,25.0,22.0,7
+260096,JUT,Term,1.0,All,71,PCMC,2026,99.0,Hindi,91.0,42.0,30.0,65.0,17.0,80.0,,,27.0,16.0,6
+260096,JFT,Term,1.0,All,92,PCMC,2026,98.0,Kannada,86.0,31.0,20.0,25.0,21.0,71.0,,,42.0,15.0,10
+260096,Final Exam,Annual,1.0,All,90,PCMC,2026,73.0,Hindi,52.0,48.0,20.0,69.0,20.0,95.0,,,44.0,17.0,7
+260097,Unit Test,Chapter 1 Test,1.0,English,79,PCMC,2026,55.0,,,,,,,,,,,,6
+260097,Unit Test,Chapter 1 Test,1.0,Language,84,PCMC,2026,,Sanskrit,91.0,,,,,,,,,,10
+260097,Unit Test,Chapter 1 Test,1.0,Physics,87,PCMC,2026,,,,59.0,18.0,,,,,,,,9
+260097,Unit Test,Chapter 1 Test,1.0,Chemistry,94,PCMC,2026,,,,,,49.0,15.0,,,,,,9
+260097,Unit Test,Chapter 1 Test,1.0,Maths,91,PCMC,2026,,,,,,,,95.0,,,,,6
+260097,Unit Test,Chapter 1 Test,1.0,Computer Science,87,PCMC,2026,,,,,,,,,,,45.0,28.0,9
+260097,Mid Term,Term,1.0,All,79,PCMC,2026,75.0,Sanskrit,76.0,47.0,22.0,47.0,19.0,66.0,,,25.0,24.0,6
+260097,JUT,Term,1.0,All,90,PCMC,2026,51.0,Sanskrit,96.0,45.0,28.0,63.0,29.0,100.0,,,40.0,25.0,6
+260097,JFT,Term,1.0,All,86,PCMC,2026,46.0,Sanskrit,84.0,63.0,22.0,43.0,22.0,63.0,,,50.0,24.0,5
+260097,Final Exam,Annual,1.0,All,81,PCMC,2026,79.0,Hindi,70.0,24.0,21.0,67.0,22.0,60.0,,,62.0,24.0,10
+260098,Unit Test,Chapter 1 Test,1.0,English,78,PCMB,2026,46.0,,,,,,,,,,,,8
+260098,Unit Test,Chapter 1 Test,1.0,Language,81,PCMB,2026,,Hindi,72.0,,,,,,,,,,10
+260098,Unit Test,Chapter 1 Test,1.0,Physics,87,PCMB,2026,,,,29.0,16.0,,,,,,,,6
+260098,Unit Test,Chapter 1 Test,1.0,Chemistry,94,PCMB,2026,,,,,,31.0,15.0,,,,,,7
+260098,Unit Test,Chapter 1 Test,1.0,Maths,76,PCMB,2026,,,,,,,,77.0,,,,,10
+260098,Unit Test,Chapter 1 Test,1.0,Biology,80,PCMB,2026,,,,,,,,,31.0,29.0,,,9
+260098,Mid Term,Term,1.0,All,88,PCMB,2026,45.0,Hindi,45.0,40.0,17.0,27.0,20.0,78.0,44.0,28.0,,,5
+260098,JUT,Term,1.0,All,88,PCMB,2026,72.0,Kannada,90.0,47.0,24.0,61.0,15.0,59.0,50.0,20.0,,,5
+260098,JFT,Term,1.0,All,84,PCMB,2026,78.0,Kannada,90.0,34.0,23.0,63.0,30.0,59.0,39.0,25.0,,,9
+260098,Final Exam,Annual,1.0,All,77,PCMB,2026,71.0,Sanskrit,92.0,38.0,17.0,58.0,15.0,53.0,47.0,23.0,,,8
+260099,Unit Test,Chapter 1 Test,1.0,English,91,PCMC,2026,36.0,,,,,,,,,,,,9
+260099,Unit Test,Chapter 1 Test,1.0,Language,91,PCMC,2026,,Kannada,57.0,,,,,,,,,,9
+260099,Unit Test,Chapter 1 Test,1.0,Physics,76,PCMC,2026,,,,46.0,17.0,,,,,,,,7
+260099,Unit Test,Chapter 1 Test,1.0,Chemistry,92,PCMC,2026,,,,,,52.0,17.0,,,,,,6
+260099,Unit Test,Chapter 1 Test,1.0,Maths,86,PCMC,2026,,,,,,,,94.0,,,,,6
+260099,Unit Test,Chapter 1 Test,1.0,Computer Science,97,PCMC,2026,,,,,,,,,,,44.0,27.0,6
+260099,Mid Term,Term,1.0,All,80,PCMC,2026,72.0,Sanskrit,66.0,48.0,28.0,36.0,26.0,75.0,,,67.0,30.0,5
+260099,JUT,Term,1.0,All,70,PCMC,2026,54.0,Kannada,50.0,28.0,21.0,57.0,25.0,75.0,,,46.0,24.0,7
+260099,JFT,Term,1.0,All,72,PCMC,2026,53.0,Sanskrit,66.0,36.0,23.0,45.0,24.0,98.0,,,28.0,19.0,6
+260099,Final Exam,Annual,1.0,All,71,PCMC,2026,37.0,Sanskrit,43.0,65.0,28.0,41.0,15.0,50.0,,,51.0,24.0,10
+260100,Unit Test,Chapter 1 Test,1.0,English,97,PCMC,2026,80.0,,,,,,,,,,,,6
+260100,Unit Test,Chapter 1 Test,1.0,Language,86,PCMC,2026,,Kannada,72.0,,,,,,,,,,8
+260100,Unit Test,Chapter 1 Test,1.0,Physics,93,PCMC,2026,,,,42.0,24.0,,,,,,,,9
+260100,Unit Test,Chapter 1 Test,1.0,Chemistry,100,PCMC,2026,,,,,,36.0,20.0,,,,,,8
+260100,Unit Test,Chapter 1 Test,1.0,Maths,95,PCMC,2026,,,,,,,,95.0,,,,,10
+260100,Unit Test,Chapter 1 Test,1.0,Computer Science,96,PCMC,2026,,,,,,,,,,,24.0,27.0,8
+260100,Mid Term,Term,1.0,All,76,PCMC,2026,45.0,Kannada,99.0,53.0,18.0,39.0,21.0,86.0,,,40.0,16.0,7
+260100,JUT,Term,1.0,All,93,PCMC,2026,83.0,Hindi,97.0,57.0,26.0,36.0,21.0,69.0,,,47.0,16.0,10
+260100,JFT,Term,1.0,All,72,PCMC,2026,53.0,Sanskrit,77.0,50.0,27.0,53.0,21.0,74.0,,,26.0,19.0,10
+260100,Final Exam,Annual,1.0,All,99,PCMC,2026,49.0,Hindi,45.0,63.0,19.0,45.0,28.0,52.0,,,26.0,20.0,9
+260101,Unit Test,Chapter 1 Test,1.0,English,88,PCMC,2026,41.0,,,,,,,,,,,,9
+260101,Unit Test,Chapter 1 Test,1.0,Language,79,PCMC,2026,,Kannada,88.0,,,,,,,,,,7
+260101,Unit Test,Chapter 1 Test,1.0,Physics,76,PCMC,2026,,,,24.0,28.0,,,,,,,,10
+260101,Unit Test,Chapter 1 Test,1.0,Chemistry,92,PCMC,2026,,,,,,42.0,29.0,,,,,,10
+260101,Unit Test,Chapter 1 Test,1.0,Maths,97,PCMC,2026,,,,,,,,91.0,,,,,8
+260101,Unit Test,Chapter 1 Test,1.0,Computer Science,79,PCMC,2026,,,,,,,,,,,52.0,21.0,8
+260101,Mid Term,Term,1.0,All,82,PCMC,2026,67.0,Hindi,89.0,64.0,17.0,67.0,23.0,60.0,,,58.0,25.0,10
+260101,JUT,Term,1.0,All,97,PCMC,2026,98.0,Sanskrit,51.0,36.0,27.0,70.0,25.0,69.0,,,59.0,26.0,6
+260101,JFT,Term,1.0,All,90,PCMC,2026,87.0,Kannada,71.0,37.0,20.0,36.0,30.0,68.0,,,32.0,18.0,6
+260101,Final Exam,Annual,1.0,All,98,PCMC,2026,65.0,Sanskrit,92.0,58.0,23.0,50.0,21.0,40.0,,,51.0,15.0,10
+260102,Unit Test,Chapter 1 Test,1.0,English,100,PCMC,2026,39.0,,,,,,,,,,,,9
+260102,Unit Test,Chapter 1 Test,1.0,Language,81,PCMC,2026,,Kannada,45.0,,,,,,,,,,10
+260102,Unit Test,Chapter 1 Test,1.0,Physics,91,PCMC,2026,,,,47.0,17.0,,,,,,,,10
+260102,Unit Test,Chapter 1 Test,1.0,Chemistry,99,PCMC,2026,,,,,,43.0,19.0,,,,,,9
+260102,Unit Test,Chapter 1 Test,1.0,Maths,85,PCMC,2026,,,,,,,,42.0,,,,,7
+260102,Unit Test,Chapter 1 Test,1.0,Computer Science,85,PCMC,2026,,,,,,,,,,,36.0,25.0,6
+260102,Mid Term,Term,1.0,All,96,PCMC,2026,46.0,Hindi,88.0,31.0,29.0,49.0,25.0,78.0,,,28.0,26.0,5
+260102,JUT,Term,1.0,All,73,PCMC,2026,41.0,Kannada,84.0,48.0,16.0,60.0,17.0,63.0,,,68.0,16.0,10
+260102,JFT,Term,1.0,All,81,PCMC,2026,71.0,Sanskrit,82.0,28.0,20.0,36.0,20.0,41.0,,,35.0,27.0,6
+260102,Final Exam,Annual,1.0,All,82,PCMC,2026,46.0,Hindi,73.0,35.0,22.0,32.0,22.0,62.0,,,45.0,18.0,9
+260103,Unit Test,Chapter 1 Test,1.0,English,89,PCMB,2026,36.0,,,,,,,,,,,,8
+260103,Unit Test,Chapter 1 Test,1.0,Language,78,PCMB,2026,,Sanskrit,86.0,,,,,,,,,,7
+260103,Unit Test,Chapter 1 Test,1.0,Physics,81,PCMB,2026,,,,65.0,17.0,,,,,,,,9
+260103,Unit Test,Chapter 1 Test,1.0,Chemistry,83,PCMB,2026,,,,,,52.0,16.0,,,,,,10
+260103,Unit Test,Chapter 1 Test,1.0,Maths,77,PCMB,2026,,,,,,,,75.0,,,,,7
+260103,Unit Test,Chapter 1 Test,1.0,Biology,79,PCMB,2026,,,,,,,,,58.0,26.0,,,6
+260103,Mid Term,Term,1.0,All,84,PCMB,2026,73.0,Hindi,46.0,30.0,18.0,58.0,18.0,55.0,61.0,27.0,,,9
+260103,JUT,Term,1.0,All,100,PCMB,2026,40.0,Sanskrit,86.0,52.0,22.0,49.0,25.0,94.0,47.0,23.0,,,10
+260103,JFT,Term,1.0,All,97,PCMB,2026,83.0,Hindi,90.0,33.0,23.0,42.0,16.0,88.0,59.0,19.0,,,6
+260103,Final Exam,Annual,1.0,All,94,PCMB,2026,89.0,Kannada,37.0,44.0,29.0,62.0,29.0,69.0,66.0,17.0,,,8
+260104,Unit Test,Chapter 1 Test,1.0,English,93,PCMB,2026,64.0,,,,,,,,,,,,10
+260104,Unit Test,Chapter 1 Test,1.0,Language,78,PCMB,2026,,Hindi,96.0,,,,,,,,,,6
+260104,Unit Test,Chapter 1 Test,1.0,Physics,84,PCMB,2026,,,,34.0,17.0,,,,,,,,6
+260104,Unit Test,Chapter 1 Test,1.0,Chemistry,86,PCMB,2026,,,,,,54.0,19.0,,,,,,6
+260104,Unit Test,Chapter 1 Test,1.0,Maths,86,PCMB,2026,,,,,,,,69.0,,,,,7
+260104,Unit Test,Chapter 1 Test,1.0,Biology,100,PCMB,2026,,,,,,,,,48.0,24.0,,,8
+260104,Mid Term,Term,1.0,All,94,PCMB,2026,92.0,Kannada,38.0,47.0,19.0,24.0,24.0,82.0,39.0,29.0,,,8
+260104,JUT,Term,1.0,All,82,PCMB,2026,51.0,Hindi,57.0,58.0,24.0,43.0,19.0,87.0,30.0,23.0,,,8
+260104,JFT,Term,1.0,All,95,PCMB,2026,95.0,Hindi,71.0,47.0,18.0,26.0,20.0,66.0,35.0,29.0,,,9
+260104,Final Exam,Annual,1.0,All,73,PCMB,2026,80.0,Kannada,91.0,49.0,28.0,32.0,17.0,47.0,60.0,19.0,,,7
+260105,Unit Test,Chapter 1 Test,1.0,English,90,PCMB,2026,49.0,,,,,,,,,,,,10
+260105,Unit Test,Chapter 1 Test,1.0,Language,97,PCMB,2026,,Kannada,77.0,,,,,,,,,,10
+260105,Unit Test,Chapter 1 Test,1.0,Physics,87,PCMB,2026,,,,64.0,30.0,,,,,,,,7
+260105,Unit Test,Chapter 1 Test,1.0,Chemistry,84,PCMB,2026,,,,,,64.0,18.0,,,,,,8
+260105,Unit Test,Chapter 1 Test,1.0,Maths,85,PCMB,2026,,,,,,,,95.0,,,,,10
+260105,Unit Test,Chapter 1 Test,1.0,Biology,84,PCMB,2026,,,,,,,,,69.0,25.0,,,7
+260105,Mid Term,Term,1.0,All,80,PCMB,2026,39.0,Hindi,99.0,36.0,29.0,53.0,21.0,85.0,64.0,30.0,,,6
+260105,JUT,Term,1.0,All,89,PCMB,2026,80.0,Sanskrit,53.0,68.0,29.0,69.0,24.0,53.0,24.0,26.0,,,10
+260105,JFT,Term,1.0,All,76,PCMB,2026,87.0,Sanskrit,46.0,41.0,29.0,62.0,17.0,62.0,25.0,19.0,,,8
+260105,Final Exam,Annual,1.0,All,74,PCMB,2026,64.0,Sanskrit,75.0,46.0,28.0,28.0,19.0,50.0,41.0,16.0,,,6
+260106,Unit Test,Chapter 1 Test,1.0,English,82,PCMB,2026,97.0,,,,,,,,,,,,9
+260106,Unit Test,Chapter 1 Test,1.0,Language,87,PCMB,2026,,Hindi,60.0,,,,,,,,,,6
+260106,Unit Test,Chapter 1 Test,1.0,Physics,84,PCMB,2026,,,,54.0,20.0,,,,,,,,7
+260106,Unit Test,Chapter 1 Test,1.0,Chemistry,77,PCMB,2026,,,,,,34.0,17.0,,,,,,8
+260106,Unit Test,Chapter 1 Test,1.0,Maths,92,PCMB,2026,,,,,,,,61.0,,,,,8
+260106,Unit Test,Chapter 1 Test,1.0,Biology,94,PCMB,2026,,,,,,,,,57.0,26.0,,,9
+260106,Mid Term,Term,1.0,All,83,PCMB,2026,70.0,Sanskrit,54.0,31.0,15.0,67.0,28.0,76.0,29.0,26.0,,,6
+260106,JUT,Term,1.0,All,71,PCMB,2026,51.0,Kannada,81.0,69.0,24.0,51.0,28.0,49.0,39.0,17.0,,,10
+260106,JFT,Term,1.0,All,90,PCMB,2026,50.0,Sanskrit,61.0,52.0,18.0,59.0,28.0,57.0,54.0,25.0,,,9
+260106,Final Exam,Annual,1.0,All,82,PCMB,2026,97.0,Kannada,76.0,28.0,27.0,29.0,15.0,62.0,67.0,25.0,,,8
+260107,Unit Test,Chapter 1 Test,1.0,English,80,PCMC,2026,87.0,,,,,,,,,,,,9
+260107,Unit Test,Chapter 1 Test,1.0,Language,75,PCMC,2026,,Hindi,93.0,,,,,,,,,,6
+260107,Unit Test,Chapter 1 Test,1.0,Physics,86,PCMC,2026,,,,39.0,26.0,,,,,,,,10
+260107,Unit Test,Chapter 1 Test,1.0,Chemistry,80,PCMC,2026,,,,,,35.0,30.0,,,,,,6
+260107,Unit Test,Chapter 1 Test,1.0,Maths,78,PCMC,2026,,,,,,,,71.0,,,,,10
+260107,Unit Test,Chapter 1 Test,1.0,Computer Science,91,PCMC,2026,,,,,,,,,,,67.0,19.0,8
+260107,Mid Term,Term,1.0,All,78,PCMC,2026,64.0,Hindi,61.0,40.0,29.0,64.0,19.0,93.0,,,34.0,17.0,10
+260107,JUT,Term,1.0,All,78,PCMC,2026,51.0,Kannada,67.0,42.0,15.0,29.0,19.0,45.0,,,38.0,30.0,8
+260107,JFT,Term,1.0,All,92,PCMC,2026,92.0,Kannada,69.0,31.0,30.0,70.0,29.0,91.0,,,43.0,23.0,9
+260107,Final Exam,Annual,1.0,All,100,PCMC,2026,54.0,Sanskrit,85.0,47.0,20.0,66.0,16.0,87.0,,,56.0,21.0,8
+260108,Unit Test,Chapter 1 Test,1.0,English,86,PCMC,2026,35.0,,,,,,,,,,,,6
+260108,Unit Test,Chapter 1 Test,1.0,Language,91,PCMC,2026,,Kannada,36.0,,,,,,,,,,7
+260108,Unit Test,Chapter 1 Test,1.0,Physics,99,PCMC,2026,,,,55.0,24.0,,,,,,,,9
+260108,Unit Test,Chapter 1 Test,1.0,Chemistry,90,PCMC,2026,,,,,,37.0,22.0,,,,,,9
+260108,Unit Test,Chapter 1 Test,1.0,Maths,98,PCMC,2026,,,,,,,,54.0,,,,,7
+260108,Unit Test,Chapter 1 Test,1.0,Computer Science,91,PCMC,2026,,,,,,,,,,,43.0,24.0,10
+260108,Mid Term,Term,1.0,All,72,PCMC,2026,79.0,Sanskrit,73.0,49.0,16.0,64.0,23.0,64.0,,,39.0,23.0,8
+260108,JUT,Term,1.0,All,91,PCMC,2026,77.0,Hindi,46.0,50.0,27.0,24.0,30.0,39.0,,,60.0,26.0,5
+260108,JFT,Term,1.0,All,96,PCMC,2026,99.0,Sanskrit,77.0,52.0,27.0,47.0,26.0,37.0,,,50.0,16.0,8
+260108,Final Exam,Annual,1.0,All,86,PCMC,2026,63.0,Kannada,35.0,33.0,22.0,38.0,17.0,44.0,,,36.0,27.0,9
+260109,Unit Test,Chapter 1 Test,1.0,English,78,PCMC,2026,87.0,,,,,,,,,,,,8
+260109,Unit Test,Chapter 1 Test,1.0,Language,99,PCMC,2026,,Hindi,87.0,,,,,,,,,,9
+260109,Unit Test,Chapter 1 Test,1.0,Physics,89,PCMC,2026,,,,36.0,17.0,,,,,,,,8
+260109,Unit Test,Chapter 1 Test,1.0,Chemistry,94,PCMC,2026,,,,,,54.0,19.0,,,,,,7
+260109,Unit Test,Chapter 1 Test,1.0,Maths,76,PCMC,2026,,,,,,,,42.0,,,,,8
+260109,Unit Test,Chapter 1 Test,1.0,Computer Science,76,PCMC,2026,,,,,,,,,,,48.0,16.0,6
+260109,Mid Term,Term,1.0,All,73,PCMC,2026,38.0,Sanskrit,82.0,48.0,27.0,64.0,19.0,37.0,,,48.0,17.0,9
+260109,JUT,Term,1.0,All,74,PCMC,2026,41.0,Sanskrit,51.0,45.0,15.0,40.0,25.0,58.0,,,61.0,29.0,7
+260109,JFT,Term,1.0,All,76,PCMC,2026,78.0,Kannada,95.0,65.0,29.0,70.0,28.0,99.0,,,38.0,30.0,9
+260109,Final Exam,Annual,1.0,All,98,PCMC,2026,45.0,Hindi,64.0,69.0,25.0,28.0,25.0,45.0,,,38.0,24.0,10
+260110,Unit Test,Chapter 1 Test,1.0,English,91,PCMC,2026,93.0,,,,,,,,,,,,7
+260110,Unit Test,Chapter 1 Test,1.0,Language,92,PCMC,2026,,Kannada,92.0,,,,,,,,,,6
+260110,Unit Test,Chapter 1 Test,1.0,Physics,84,PCMC,2026,,,,29.0,29.0,,,,,,,,9
+260110,Unit Test,Chapter 1 Test,1.0,Chemistry,86,PCMC,2026,,,,,,25.0,20.0,,,,,,7
+260110,Unit Test,Chapter 1 Test,1.0,Maths,77,PCMC,2026,,,,,,,,88.0,,,,,9
+260110,Unit Test,Chapter 1 Test,1.0,Computer Science,80,PCMC,2026,,,,,,,,,,,64.0,29.0,6
+260110,Mid Term,Term,1.0,All,86,PCMC,2026,84.0,Hindi,95.0,60.0,24.0,61.0,28.0,37.0,,,65.0,24.0,8
+260110,JUT,Term,1.0,All,91,PCMC,2026,57.0,Hindi,71.0,61.0,17.0,49.0,26.0,73.0,,,48.0,23.0,7
+260110,JFT,Term,1.0,All,92,PCMC,2026,98.0,Hindi,67.0,37.0,17.0,46.0,28.0,40.0,,,54.0,23.0,8
+260110,Final Exam,Annual,1.0,All,79,PCMC,2026,69.0,Hindi,73.0,48.0,26.0,53.0,25.0,89.0,,,31.0,23.0,9

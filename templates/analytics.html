@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Performance Analytics - Student Performance System</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        .navbar {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        .container {
+            margin-top: 30px;
+        }
+        .analytics-container {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+        .table-responsive {
+            border-radius: 10px;
+            overflow-x: auto;
+        }
+        table {
+            margin-bottom: 0;
+        }
+        thead {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        tbody tr:hover {
+            background-color: #f5f5f5;
+        }
+        .performance-high { color: #28a745; font-weight: bold; }
+        .performance-medium { color: #ffc107; font-weight: bold; }
+        .performance-low { color: #dc3545; font-weight: bold; }
+        .subject-breakdown {
+            max-height: 200px;
+            overflow-y: auto;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-dark mb-4">
+        <div class="container-fluid">
+            <span class="navbar-brand mb-0 h1">
+                <i class="fas fa-graduation-cap"></i> Student Performance Analytics
+            </span>
+            <div class="dropdown">
+                <button class="btn btn-outline-light dropdown-toggle" type="button" id="profileDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                    <i class="fas fa-user"></i> {{ session.name }}
+                </button>
+                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="profileDropdown">
+                    <li><a class="dropdown-item" href="/dashboard"><i class="fas fa-home"></i> Dashboard</a></li>
+                    <li><hr class="dropdown-divider"></li>
+                    <li><a class="dropdown-item" href="/"><i class="fas fa-sign-out-alt"></i> Logout</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container-fluid px-4">
+        <div class="analytics-container">
+            <div class="d-flex justify-content-between align-items-center mb-4">
+                <h2><i class="fas fa-chart-line"></i> Performance Analytics</h2>
+                <a href="/dashboard" class="btn btn-secondary">
+                    <i class="fas fa-arrow-left"></i> Back to Dashboard
+                </a>
+            </div>
+
+            {% if analytics %}
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th>Student ID</th>
+                                <th>Name</th>
+                                <th>Reg Number</th>
+                                <th>Combination</th>
+                                <th>Attendance %</th>
+                                <th>Total Marks</th>
+                                <th>Average</th>
+                                <th>Percentage</th>
+                                <th>Classification</th>
+                                <th>Performance</th>
+                                <th>Subject Details</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for student in analytics %}
+                            <tr>
+                                <td>{{ student.student_id }}</td>
+                                <td>{{ student.name }}</td>
+                                <td>{{ student.reg_number }}</td>
+                                <td>{{ student.combination }}</td>
+                                <td>{{ student.attendance }}%</td>
+                                <td>{{ student.total_marks }}</td>
+                                <td>{{ student.average_marks }}</td>
+                                <td>{{ student.percentage }}%</td>
+                                <td>
+                                    {% if student.classification == 'Distinction' %}
+                                        <span class="performance-high">{{ student.classification }}</span>
+                                    {% elif student.classification == 'First Class' %}
+                                        <span class="performance-high">{{ student.classification }}</span>
+                                    {% elif student.classification == 'Second Class' %}
+                                        <span class="performance-medium">{{ student.classification }}</span>
+                                    {% else %}
+                                        <span class="performance-low">{{ student.classification }}</span>
+                                    {% endif %}
+                                </td>
+                                <td>
+                                    {% if student.average_marks >= 75 %}
+                                        <span class="performance-high">Excellent</span>
+                                    {% elif student.average_marks >= 60 %}
+                                        <span class="performance-medium">Good</span>
+                                    {% else %}
+                                        <span class="performance-low">Needs Improvement</span>
+                                    {% endif %}
+                                </td>
+                                <td>
+                                    <div class="subject-breakdown">
+                                        {% for subject, marks in student.subjects.items() %}
+                                            {% if marks %}
+                                                <small>{{ subject }}: {{ marks }}</small><br>
+                                            {% endif %}
+                                        {% endfor %}
+                                    </div>
+                                </td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            {% else %}
+                <div class="alert alert-info">
+                    <i class="fas fa-info-circle"></i> No performance data available. Add student marks to view analytics.
+                </div>
+            {% endif %}
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
